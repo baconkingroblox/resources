@@ -6,5 +6,6 @@
 "4":{"Update":"General bug fix","Color":"0,255,0","Rainbow":false},
 "5":{"Update":"Rule improvements","Color":"0,255,0","Rainbow":false},
 "6":{"Update":"Added audio visualizer to audio library","Color":"0,255,0","Rainbow":false},
-"7":{"Update":"Fixed audio search","Color":"0,255,0","Rainbow":false}
+"7":{"Update":"Fixed audio search","Color":"0,255,0","Rainbow":false},
+"8":{"Update":"Added playback speed and stop button to audio library","Color":"0,255,0","Rainbow":false}
 } 
