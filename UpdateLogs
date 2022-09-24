@@ -1,10 +1,8 @@
 {
-"Date":"September 24, 2022",
-"1":{"Update":"Update log can be seen in github, baconkingroblox.","Color":"0,255,0","Rainbow":true},
-"2":{"Update":"Votekick is now for 13+ users and for users with enabled chat to prevent unfair kicks.","Color":"0,255,0","Rainbow":false},
-"3":{"Update":"Small lobby revamp","Color":"0,255,0","Rainbow":false},
-"4":{"Update":"General bug fix","Color":"0,255,0","Rainbow":false},
-"5":{"Update":"Added audio visualizer to audio library","Color":"0,255,0","Rainbow":false},
-"6":{"Update":"Fixed audio search","Color":"0,255,0","Rainbow":false},
-"7":{"Update":"Added playback speed and stop button to audio library","Color":"0,255,0","Rainbow":false}
+"Date":"September 25, 2022 (12am CEST)",
+"1":{"Update":"Over 200 inappropriate images have been blacklisted from the game, including specific keywords. Feedback the image id if it's inappropriate","Color":"0,255,0","Rainbow":true},
+"2":{"Update":"RP Name system revamp (fixes, more customization,etc.)","Color":"0,255,0","Rainbow":true},
+"3":{"Update":"Votekick is now for 13+ users and for users with enabled chat to prevent unfair kicks.","Color":"0,255,0","Rainbow":false},
+"4":{"Update":"Morph UI revamp","Color":"0,255,0","Rainbow":false},
+"5":{"Update":"General bug fix","Color":"0,255,0","Rainbow":false}
 } 
