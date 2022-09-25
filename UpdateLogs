@@ -6,5 +6,5 @@
 "4":{"Update":"Morph UI revamp","Color":"0,255,0","Rainbow":false},
 "5":{"Update":"General bug fix","Color":"0,255,0","Rainbow":false},
 "6":{"Update":"Fixed image and audio search","Color":"0,255,0","Rainbow":false},
-"7":{"Update":"If no results in audio or image search, search again. ","Color":"255,255,255","Rainbow":false},
+"7":{"Update":"If no results in audio or image search, search again. ","Color":"255,255,255","Rainbow":false}
 } 
