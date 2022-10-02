@@ -1,10 +1,17 @@
 {
 "Date":"September 25, 2022",
-"1":{"Update":"Over 200 inappropriate images and audios have been blacklisted from the game, including specific keywords. Feedback the image id if it's inappropriate","Color":"0,255,0","Rainbow":true},
-"2":{"Update":"RP Name system revamp (fixes, more customization,etc.)","Color":"0,255,0","Rainbow":true},
-"3":{"Update":"Votekick is now for 13+ users and for users with enabled chat to prevent unfair kicks.","Color":"0,255,0","Rainbow":false},
-"4":{"Update":"Morph UI revamp","Color":"0,255,0","Rainbow":false},
-"5":{"Update":"General bug fix","Color":"0,255,0","Rainbow":false},
-"6":{"Update":"Fixed image and audio search","Color":"0,255,0","Rainbow":false},
-"7":{"Update":"If no results in audio or image search, search again. ","Color":"255,255,255","Rainbow":false}
+"1":{"Update":"Over 200 inappropriate images and audios have been blacklisted from the game, including specific keywords. Feedback the image id if it's inappropriate","Color":"0,255,0","Rainbow":true,"Transparency":0.55},
+"2":{"Update":"RP Name system revamp (fixes, more customization,etc.)","Color":"0,255,0","Rainbow":true,"Transparency":0.55},
+"3":{"Update":"Votekick is now for 13+ users and for users with enabled chat to prevent unfair kicks.","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"4":{"Update":"Morph UI revamp","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"5":{"Update":"General bug fix","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"6":{"Update":"Fixed image and audio search","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"7":{"Update":"If no results in audio or image search, search again. ","Color":"255,255,255","Rainbow":false,"Transparency":0.55},
+"8":{"Update":"Upcoming updates (October 2nd or 3rd, 2022)","Color":"255,255,255","Rainbow":false,"Transparency":0},
+"9":{"Update":"Fixed votekick logging, general fixes","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"10":{"Update":"Possible image and audio search fix","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"11":{"Update":"UI Animations","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"12":{"Update":"UI Revamp","Color":"255,0,0","Rainbow":false,"Transparency":0.55},
+"13":{"Update":"UI Settings (customize ui colors)","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"14":{"Update":"Bug fix","Color":"0,255,0","Rainbow":false,"Transparency":0.55}
 } 
