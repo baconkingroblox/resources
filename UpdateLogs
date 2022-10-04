@@ -9,5 +9,6 @@
 "7":{"Update":"Autumn/fall lobby","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
 "8":{"Update":"New rule UI and new rules","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
 "8":{"Update":"Added notify and error system","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"9":{"Update":"Added server time and total players in tunnel","Color":"0,255,0","Rainbow":false,"Transparency":0.55}
+"9":{"Update":"Added server time and total players in tunnel","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"10":{"Update":"Added glow button","Color":"0,255,0","Rainbow":false,"Transparency":0.55}
 } 
