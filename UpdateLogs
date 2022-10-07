@@ -10,5 +10,7 @@
 "8":{"Update":"New rule UI and new rules","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
 "8":{"Update":"Added notify and error system","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
 "9":{"Update":"Added server time and total players in tunnel","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"10":{"Update":"Added glow button","Color":"0,255,0","Rainbow":false,"Transparency":0.55}
+"10":{"Update":"Added glow button","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"11":{"Update":"Votekick feature will be limited to supporters soon due to abuse of the feature.","Color":"255,0,0","Rainbow":false,"Transparency":0.55},
+"12":{"Update":"Use the /togglestats command to toggle extra stats (FPS, Players in server, UID)","Color":"0,255,0","Rainbow":false,"Transparency":0.55}
 } 
