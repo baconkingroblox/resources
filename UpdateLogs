@@ -11,6 +11,11 @@
 "8":{"Update":"Added notify and error system","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
 "9":{"Update":"Added server time and total players in tunnel","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
 "10":{"Update":"Added glow button","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"11":{"Update":"Votekick feature will be limited to supporters soon due to abuse of the feature.","Color":"255,0,0","Rainbow":false,"Transparency":0.55},
-"12":{"Update":"Use the /togglestats command to toggle extra stats (FPS, Players in server, UID)","Color":"0,255,0","Rainbow":false,"Transparency":0.55}
+"11":{"Update":"Use the /togglestats command to toggle extra stats (FPS, Players in server, UID)","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"12":{"Update":"Upcoming updates (October 28-30)","Color":"255,255,255","Rainbow":false,"Transparency":0},
+"13":{"Update":"Votekick removal","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"14":{"Update":"Halloween props","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"15":{"Update":"Candy hunt event","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"16":{"Update":"More UI Customizations (Animation speed, topbar transparency and color, drop shadows)","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"17":{"Update":"More color settings to color changers (Hex color value, RGB color value, HSV color value)","Color":"0,255,0","Rainbow":false,"Transparency":0.55}
 } 
