@@ -1,14 +1,10 @@
 {
-"Date":"November 14th, 2022",
-"1":{"Update":"Winter lobby!","Color":"0,255,0","Rainbow":true,"Transparency":0.55},
-"2":{"Update":"Added More UI Customizations! (Notification styles, click/error/notify sound ID, etc.)","Color":"0,255,0","Rainbow":true,"Transparency":0.55},
-"3":{"Update":"Added Volume settings in others!","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"4":{"Update":"Chat system tips moved to lobby","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"5":{"Update":"Added Christmas decorations in the sitting room map","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"6":{"Update":"General improvements (Click backquote to open backpack, etc.)","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"7":{"Update":"Added Exclusive songs tab in the audio library UI","Color":"0,255,0","Rainbow":true,"Transparency":0.55},
-"8":{"Update":"Future updates (planned)","Color":"255,255,255","Rainbow":false,"Transparency":0},
-"9":{"Update":"GoAnimate morphs and maps categories","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"10":{"Update":"UI Revamp","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"11":{"Update":"More gimmicks and features","Color":"0,255,0","Rainbow":false,"Transparency":0.55}
+"Date":"December 31st, 2022",
+"1":{"Update":"Maintentance update","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"2":{"Update":"Improved some UIs","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"3":{"Update":"Added ripple effect","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"4":{"Update":"Fixed known issues and bugs","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"5":{"Update":"Volume settings work better!","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"6":{"Update":"Testing servers are open for the alpha version of the next update. Check it out now!","Color":"0,255,0","Rainbow":true,"Transparency":0.55},
+"7":{"Update":"Sorry for the lack of updates. We're working on a major update that will entirely improve this experience.","Color":"255,255,0","Rainbow":false,"Transparency":0.55},
 } 
