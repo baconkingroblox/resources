@@ -1,10 +1,12 @@
 {
-"Date":"December 31st, 2022",
-"1":{"Update":"Maintentance update","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"2":{"Update":"Improved some UIs","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"3":{"Update":"Added ripple effect","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"4":{"Update":"Fixed known issues and bugs","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"5":{"Update":"Volume settings work better!","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
-"6":{"Update":"Testing servers are open for the alpha version of the next update. Check it out now!","Color":"0,255,0","Rainbow":true,"Transparency":0.55},
-"7":{"Update":"Sorry for the lack of updates. We're working on a major update that will entirely improve this experience.","Color":"255,255,0","Rainbow":false,"Transparency":0.55}
+"Date":"February 19, 2023",
+"1":{"Update":"Maintentance update.","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"2":{"Update":"Improved UIs.","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"3":{"Update":"Improved click sounds.","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"4":{"Update":"Improved UI animations.","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"5":{"Update":"Re-added the muteradio command.","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"6":{"Update":"Added a new player list, report feature, and topbar icons.","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"7":{"Update":"Volume settings work better!","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
+"8":{"Update":"Testing servers are open for the alpha version of the next update. Check it out now!","Color":"0,255,0","Rainbow":true,"Transparency":0.55},
+"9":{"Update":"Sorry for the lack of updates. We're working on a major update that will entirely improve this experience.","Color":"255,255,0","Rainbow":false,"Transparency":0.55}
 } 
