@@ -1,10 +1,10 @@
 {
 "Date":"April 6, 2023",
-"1":{"Update":"We apologize for not updating the game.","Color":"255,255,0","Rainbow":false,"Transparency":0.55},
+"1":{"Update":"We apologize for not updating the game. The Audio library is down.","Color":"255,255,0","Rainbow":false,"Transparency":0.55},
 "2":{"Update":"This is the final update before the next major update (V4) releases.","Color":"0,255,0","Rainbow":true,"Transparency":0.55},
 "3":{"Update":"Bug fixes.","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
 "4":{"Update":"April 3, 2023","Color":"255,255,255","Rainbow":false,"Transparency":0},
-"5":{"Update":"Egg Hunt event! Ends on April 30th.","Color":"0,255,0","Rainbow":true,"Transparency":0.55},
+"5":{"Update":"Egg Hunt event! Ends on April 30th*.","Color":"0,255,0","Rainbow":true,"Transparency":0.55},
 "6":{"Update":"Small improvements and fixes.","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
 "7":{"Update":"April 2, 2023","Color":"255,255,255","Rainbow":false,"Transparency":0},
 "8":{"Update":"Fixed some issues.","Color":"0,255,0","Rainbow":false,"Transparency":0.55},
