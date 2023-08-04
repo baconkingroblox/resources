@@ -9,7 +9,7 @@
   "7": { "Update": "Fixed favorites and recent system!", "Color": "0,255,0", "Rainbow": true, "Transparency": 0.55 },
   "8": { "Update": "General bug & issue fixes.", "Color": "0,255,0", "Rainbow": false, "Transparency": 0.55 },
   "9": { "Update": "July 20, 2023", "Color": "255,255,255", "Rainbow": false, "Transparency": 0 },
-  10": { "Update": "The audio & image library are having issues. :(", "Color": "255,255,0", "Rainbow": false, "Transparency": 0.55 },
+  "10": { "Update": "The audio & image library are having issues. :(", "Color": "255,255,0", "Rainbow": false, "Transparency": 0.55 },
   "11": { "Update": "New primary font: Quicksand.", "Color": "0,255,0", "Rainbow": true, "Transparency": 0.55 },
   "12": { "Update": "New font & chat system.", "Color": "0,255,0", "Rainbow": true, "Transparency": 0.55 },
   "13": { "Update": "New morph etc. UIs.", "Color": "0,255,0", "Rainbow": true, "Transparency": 0.55 },
