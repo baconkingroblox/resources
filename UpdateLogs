@@ -1,6 +1,6 @@
 {
   "Date": "August 23, 2023",
-  "1": { "Update": "Sometimes while joining the game, your avatar might glitch for a while.", "UpdateRating": "KindaBad",  "Transparency": "1" },
+  "1": { "Update": "Some players might experience glitching when joining the game or FPS drops after a while. There's currently no solution for this.", "UpdateRating": "KindaBad",  "Transparency": "1" },
   "2": { "Update": "Performance improvements. Game might lag less on lower end devices now.", "UpdateRating": "VeryGood",  "Transparency": "1" },
   "3": { "Update": "Replaced the exit door in maps with the map button.", "UpdateRating": "Good",  "Transparency": "1" },
   "4": { "Update": "Fixed the loading UI.", "UpdateRating": "Good",  "Transparency": "1" },
