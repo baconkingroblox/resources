@@ -1,5 +1,5 @@
 {
-  "Date": "August 23, 2023",
+  "Date": "August 27, 2023",
   "1": { "Update": "Fixed a bug where players had FPS drops or glitched while joining..", "UpdateRating": "VeryGood",  "Transparency": "1" },
   "2": { "Update": "Implemented a new map optimization system.", "UpdateRating": "Good",  "Transparency": "1" },
   "3": { "Update": "Fixed a bug where some map props/details are black on high graphics.", "UpdateRating": "Good",  "Transparency": "1" },
