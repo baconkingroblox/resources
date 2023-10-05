@@ -1,13 +1,16 @@
 {
-  "Date": "October 1, 2023",
- "1": { "Update": "Enabled voice chat and camera (Camera might not be supported).", "UpdateRating": "Good",  "Transparency": "1" },
- "2": { "Update": "Added Now playing info for the boombox/radio.", "UpdateRating": "Good",  "Transparency": "1" },
- "3": { "Update": "Added the block feature. (Please report any bugs with it)", "UpdateRating": "Good",  "Transparency": "1" },
- "4": { "Update": "Candy Hunt Event! Ends on November 2. Points will be claimable until November 31.", "UpdateRating": "VeryGood",  "Transparency": "1" },
- "5": { "Update": "Added the image offset option to the image library.", "UpdateRating": "Good",  "Transparency": "1" },
- "6": { "Update": "Fixed an issue where the audio library stops working after using exclusive categories.", "UpdateRating": "VeryGood",  "Transparency": "1" },
- "7": { "Update": "Added the favorites system to the audio library.", "UpdateRating": "Good",  "Transparency": "1" },
- "8": { "Update": "More UI improvements.", "UpdateRating": "VeryGood",  "Transparency": "1" },
- "9": { "Update": "August 30, 2023", "UpdateRating": "UpdateDate",  "Transparency": "0" },
- "10": { "Update": "(Sep 20) The experience won't be updated often due to the owner having school.", "UpdateRating": "Bad",  "Transparency": "1" }
+  "Date": "October 5, 2023",
+ "1": { "Update": "Small UI improvements.", "UpdateRating": "Good",  "Transparency": "1" },
+ "2": { "Update": "Added image details to the image library.", "UpdateRating": "Good",  "Transparency": "1" },
+ "3": { "Update": "October 1, 2023", "UpdateRating": "UpdateDate",  "Transparency": "0" },
+ "4": { "Update": "Enabled voice chat and camera (Camera might not be supported).", "UpdateRating": "Good",  "Transparency": "1" },
+ "5": { "Update": "Added "Now playing" info for the boombox/radio.", "UpdateRating": "Good",  "Transparency": "1" },
+ "6": { "Update": "Added the block feature. (Please report any bugs with it)", "UpdateRating": "Good",  "Transparency": "1" },
+ "7": { "Update": "Candy Hunt Event! Ends on November 2. Points will be claimable until November 31.", "UpdateRating": "VeryGood",  "Transparency": "1" },
+ "8": { "Update": "Added the image offset option to the image library.", "UpdateRating": "Good",  "Transparency": "1" },
+ "9": { "Update": "Fixed an issue where the audio library stops working after using exclusive categories.", "UpdateRating": "VeryGood",  "Transparency": "1" },
+ "10": { "Update": "Added the favorites system to the audio library.", "UpdateRating": "Good",  "Transparency": "1" },
+ "11": { "Update": "More UI improvements.", "UpdateRating": "VeryGood",  "Transparency": "1" },
+ "12": { "Update": "August 30, 2023", "UpdateRating": "UpdateDate",  "Transparency": "0" },
+ "13": { "Update": "(Sep 20) The experience won't be updated often due to the owner having school.", "UpdateRating": "Bad",  "Transparency": "1" }
 }
