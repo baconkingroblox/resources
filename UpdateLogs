@@ -1,11 +1,13 @@
 {
-  "Date": "October 19, 2023",
- "1": { "Update": "Changing the UI scale breaks scrolling frames.", "UpdateRating": "Bad",  "Transparency": "1" },
- "2": { "Update": "Fixed a bug where the overhead UI breaks when is added again while applying the RP name while sitting.", "UpdateRating": "Good",  "Transparency": "1" },
- "3": { "Update": "Fixed a bug where the offset value shows as 6 but is actually 0.", "UpdateRating": "Good",  "Transparency": "1" },
- "4": { "Update": "Fixed a bug where hiding the front image ID hides it, but it shows as 'ID:'.", "UpdateRating": "Good",  "Transparency": "1" },
- "5": { "Update": "Fixed a bug when the audio ID is changed using the text box, the audio name is not applied.", "UpdateRating": "Good",  "Transparency": "1" },
- "6": { "Update": "Fixed a bug where the favorite button doesn't work in the image library..", "UpdateRating": "Good",  "Transparency": "1" },
- "7": { "Update": "Fixed a bug where selecting an audio from the audio library doesn't detect if it's favorited or not.", "UpdateRating": "Good",  "Transparency": "1" },
- "8": { "Update": "October 16, 2023", "UpdateRating": "UpdateDate",  "Transparency": "0" }
+  "Date": "October 20, 2023",
+ "1": { "Update": "You can join the legacy version of CWRP (stable) and the first version of CWRP ever. (In tunnel > more games)", "UpdateRating": "Good",  "Transparency": "1" },
+ "2": { "Update": "October 19, 2023", "UpdateRating": "UpdateDate",  "Transparency": "0" },
+ "3": { "Update": "Changing the UI scale breaks scrolling frames.", "UpdateRating": "Bad",  "Transparency": "1" },
+ "4": { "Update": "Fixed a bug where the overhead UI breaks when is added again while applying the RP name while sitting.", "UpdateRating": "Good",  "Transparency": "1" },
+ "5": { "Update": "Fixed a bug where the offset value shows as 6 but is actually 0.", "UpdateRating": "Good",  "Transparency": "1" },
+ "6": { "Update": "Fixed a bug where hiding the front image ID hides it, but it shows as 'ID:'.", "UpdateRating": "Good",  "Transparency": "1" },
+ "7": { "Update": "Fixed a bug when the audio ID is changed using the text box, the audio name is not applied.", "UpdateRating": "Good",  "Transparency": "1" },
+ "8": { "Update": "Fixed a bug where the favorite button doesn't work in the image library..", "UpdateRating": "Good",  "Transparency": "1" },
+ "9": { "Update": "Fixed a bug where selecting an audio from the audio library doesn't detect if it's favorited or not.", "UpdateRating": "Good",  "Transparency": "1" },
+ "10": { "Update": "October 16, 2023", "UpdateRating": "UpdateDate",  "Transparency": "0" }
 }
