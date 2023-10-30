@@ -1,119 +1,119 @@
 [
-  {
-    "1": {
-      "Text": "Game Icon/Thumbnail Art Contest (2022)",
-      "Type": "Label"
+    {
+        "1": {
+            "Text": "Game Icon/Thumbnail Art Contest (2022)",
+            "Type": "Label"
+        }
+    },
+    {
+        "2": {
+            "Type": "FanArt",
+            "ImageId": "rbxassetid://9763794649",
+            "Text": "1st place (Winner): @Leafception"
+        }
+    },
+    {
+        "3": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=10049138575",
+            "Text": "2nd place: @blockypaws"
+        }
+    },
+    {
+        "4": {
+            "Type": "FanArt",
+            "ImageId": "rbxassetid://9763361163",
+            "Text": "3rd place: @DarwinChooses"
+        }
+    },
+    {
+        "5": {
+            "Text": "Fan Art",
+            "Type": "Label"
+        }
+    },
+    {
+        "6": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=10256457142",
+            "Text": "By @bacontheprolo"
+        }
+    },
+    {
+        "7": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=10635563231",
+            "Text": "By @bacontheprolo"
+        }
+    },
+    {
+        "8": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=12840215144",
+            "Text": "By @bacontheprolo"
+        }
+    },
+    {
+        "9": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=12965036378",
+            "Text": "By @bacontheprolo"
+        }
+    },
+    {
+        "10": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=10069215460",
+            "Text": "By @Yodjturnupthemusic"
+        }
+    },
+    {
+        "11": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=11427026017",
+            "Text": "By @mafieux0"
+        }
+    },
+    {
+        "12": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=11529581081",
+            "Text": "By @VampireMeowbahh"
+        }
+    },
+    {
+        "13": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=11529650518",
+            "Text": "By @cannynegatives20one"
+        }
+    },
+    {
+        "14": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=13104918762",
+            "Text": "By @TheRealLogoLore"
+        }
+    },
+    {
+        "15": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=15097468526",
+            "Text": "By @thatbacontheprolo"
+        }
+    },
+    {
+        "16": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=14519633608",
+            "Text": "By @SuperNoobIsbac"
+        }
+    },
+    {
+        "17": {
+            "Type": "FanArt",
+            "ImageId": "http://www.roblox.com/asset/?id=14924682262",
+            "Text": "By basil._.bagel"
+        }
     }
-  },
-{
-    "2": {
-      "Type": "FanArt",
-      "ImageId": "rbxassetid://9763794649",
-      "Text": "1st place (Winner): @Leafception"
-    }
-  },
-  {
-    "3": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=10049138575",
-      "Text": "2nd place: @blockypaws"
-    }
-  },
-  {
-    "4": {
-      "Type": "FanArt",
-      "ImageId": "rbxassetid://9763361163",
-      "Text": "3rd place: @DarwinChooses"
-    }
-  },
- {
-    "5": {
-      "Text": "Fan Art",
-      "Type": "Label"
-    }
-  }
-  {
-    "6": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=10256457142",
-      "Text": "By @bacontheprolo"
-    }
-  },
-  {
-    "7": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=10635563231",
-      "Text": "By @bacontheprolo"
-    }
-  },
-  {
-    "8": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=12840215144",
-      "Text": "By @bacontheprolo"
-    }
-  },
-  {
-    "9": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=12965036378",
-      "Text": "By @bacontheprolo"
-    }
-  },
-  {
-    "10": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=10069215460",
-      "Text": "By @Yodjturnupthemusic"
-    }
-  },
-  {
-    "11": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=11427026017",
-      "Text": "By @mafieux0"
-    }
-  },
-  {
-    "12": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=11529581081",
-      "Text": "By @VampireMeowbahh"
-    }
-  },
-  {
-    "13": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=11529650518",
-      "Text": "By @cannynegatives20one"
-    }
-  },
-  {
-    "14": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=13104918762",
-      "Text": "By @TheRealLogoLore"
-    }
-  },
-{
-    "15": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=15097468526",
-      "Text": "By @thatbacontheprolo"
-    }
-  },
-{
-    "16": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=14519633608",
-      "Text": "By @SuperNoobIsbac"
-    }
-  },
-{
-    "17": {
-      "Type": "FanArt",
-      "ImageId": "http://www.roblox.com/asset/?id=14924682262",
-      "Text": "By basil._.bagel"
-    }
-  }
 ]
