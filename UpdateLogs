@@ -1,6 +1,11 @@
 {
-  "Date": "October 30, 2023",
+  "Date": "November 4, 2023",
   "Updates": [
+    { "Update": "Fixed an issue where the animation speed doesn't apply properly for some UI elements.", "UpdateRating": "Good",  "Transparency": "1" },
+    { "Update": "Improved the phone prop UI a bit.", "UpdateRating": "Good",  "Transparency": "1" },
+    { "Update": "Changed the lobby theme to winter.", "UpdateRating": "Good",  "Transparency": "1" },
+    { "Update": "Partially fixed UI Scale customization and Overhead UI.", "UpdateRating": "Good",  "Transparency": "1" },
+    { "Update": "October 30, 2023", "UpdateRating": "UpdateDate",  "Transparency": "0" },
     { "Update": "Improved the update log layout (json) so adding new logs is way easier.", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "Partially fixed the overhead UI and map teleport system.", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "Fixed a bug where the hint text for the player list button didn't show up.", "UpdateRating": "Good",  "Transparency": "1" },
