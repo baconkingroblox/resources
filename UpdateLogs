@@ -1,8 +1,9 @@
 {
   "Date": "November 4, 2023",
   "Updates": [
+    { "Update": "Fixed a bug where the image library marketplace is unusable after switching to the favorites/recent tab (V4.13).", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "Fixed an issue where the animation speed doesn't apply properly for some UI elements.", "UpdateRating": "Good",  "Transparency": "1" },
-    { "Update": "Improved the phone prop UI a bit.", "UpdateRating": "Good",  "Transparency": "1" },
+    { "Update": "Improved the phone prop UI a bit (V4.12). Fixed the UI scaling (V4.13)", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "Changed the lobby theme to winter.", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "Partially fixed UI Scale customization and Overhead UI.", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "October 30, 2023", "UpdateRating": "UpdateDate",  "Transparency": "0" },
