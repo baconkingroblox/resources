@@ -1,6 +1,10 @@
 {
   "Date": "November 4, 2023",
   "Updates": [
+    { "Update": "Fixed a bug where the report feature doesn't work (V4.15).", "UpdateRating": "Good",  "Transparency": "1" },
+    { "Update": "Probably fixed a bug where the agree button is not working in the rules UI (V4.15).", "UpdateRating": "Good",  "Transparency": "1" },
+    { "Update": "Fixed a bug where entering a page value temporarily breaks the audio library (V4.15).", "UpdateRating": "Good",  "Transparency": "1" },
+    { "Update": "Fixed a bug where you can't favorite an image/audio on the 2nd time (V4.15).", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "Fixed a bug where the image library marketplace is unusable after switching to the favorites/recent tab (V4.13).", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "Fixed an issue where the animation speed doesn't apply properly for some UI elements.", "UpdateRating": "Good",  "Transparency": "1" },
     { "Update": "Improved the phone prop UI a bit (V4.12). Fixed the UI scaling (V4.13)", "UpdateRating": "Good",  "Transparency": "1" },
