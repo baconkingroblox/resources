@@ -11,6 +11,11 @@
 "Description: "We have decided to migrate some stuff from the lobby to a UI for easier access."
 },
  {
+"ImageID": "rbxassetid://14108571082",
+"UpdateRating": "Image",
+"Size": "Medium"
+},
+ {
 "Update": "Updated the changelog system.",
 "UpdateRating": "Good",
 "Description: "Added image banner, descriptions, cleaner UI, etc."
