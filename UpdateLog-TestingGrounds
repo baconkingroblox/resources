@@ -1,35 +1,37 @@
 {
   "UpdatesNew": [
-"1": {
+{
 "Title": "V4.16 Major improvements",
 "ImageBanner": "rbxassetid://",
+"BannerColor": "#ffffff",
 "Description": "Major fixes & improvements for CWRPF.",
 "Updates": [
  {
 "Update": "Migrated the changelog, more games, etc. to a UI.",
 "UpdateRating": "VeryGood",
-"Description: "We have decided to migrate some stuff from the lobby to a UI for easier access."
+"Description": "We have decided to migrate some stuff from the lobby to a UI for easier access."
 },
  {
 "ImageID": "rbxassetid://14108571082",
 "UpdateRating": "Image",
-"Size": "Medium"
+"Size": "Medium",
+"Color": "#ffffff"
 },
  {
 "Update": "Updated the changelog system.",
 "UpdateRating": "Good",
-"Description: "Added image banner, descriptions, cleaner UI, etc."
+"Description": "Added image banner, descriptions, cleaner UI, etc."
 },
  {
 "Update": "Added a supporter+! subscription.",
 "UpdateRating": "Good",
-"Description: "Roblox recently released a subscription feature so we decided to add a supporter+! subscription with more perks for $2.99/month."
+"Description": "Roblox recently released a subscription feature so we decided to add a supporter+! subscription with more perks for $2.99/month."
 },
  {
 "Update": "Fixed some bugs.",
 "UpdateRating": "Good",
-"Description: "This includes UI lags, UI color customization interfering with some UIs, morph system being partially broken for certain avatar sizes, props/decorations not being anchored, etc."
-},
+"Description": "This includes UI lags, UI color customization interfering with some UIs, morph system being partially broken for certain avatar sizes, props/decorations not being anchored, etc."
+}
 ]
 }
   ],
