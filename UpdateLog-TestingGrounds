@@ -8,14 +8,14 @@
 "Description": "Major fixes & improvements for CWRPF.",
 "Updates": [
  {
-"Update": "Migrated the changelog, more games, etc. to a UI.",
+"Update": "Migrated the changelog to a UI.",
 "UpdateRating": "VeryGood",
-"Description": "We have decided to migrate some stuff from the lobby to a UI for easier access."
+"Description": "We have decided to migrate the changelog from the lobby to a UI for easier access."
 },
  {
 "Update": "Added over 10 morphs from the upcoming Go!Animate movie.",
 "UpdateRating": "VeryGood",
-"Description": "Added about 13 morphs from the upcoming Go!Animate movie. This includes Ms. Mouth, Ground, Brian Schmidt, Richie Verdi, Mateo, Limmy, and Grayson."
+"Description": "Added about 13 morphs from the upcoming Go!Animate movie. This includes Ms. Mouth, Ground, Brian Schmidt, Richie Verdi, Mateo, Limmy, Grayson, etc."
 },
 {
 "Update": "Renamed the experience to 'Go!Animate Roleplay'.",
