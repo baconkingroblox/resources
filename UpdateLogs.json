@@ -5,7 +5,7 @@
 "Date": "November 26, 2023",
 "ImageBanner": "rbxassetid://15463679973",
 "BannerColor": "#ffffff",
-"Description": "Major fixes & improvements for GARP, formerly CWRPF.",
+"Description": "Major fixes & improvements for CWRPF.",
 "Updates": [
  {
 "Update": "Migrated the changelog to a UI.",
@@ -18,9 +18,9 @@
 "Description": "Added about 13 morphs from the upcoming Go!Animate movie. This includes Ms. Mouth, Ground, Brian Schmidt, Richie Verdi, Mateo, Limmy, Grayson, etc."
 },
 {
-"Update": "Renamed the experience to 'Go!Animate Roleplay'.",
+"Update": "<s>Renamed the experience to 'Go!Animate Roleplay'.</s>",
 "UpdateRating": "VeryGood",
-"Description": "Since we added non-comedy world morphs, we decided to rename this experience to 'Go!Animate Roleplay'."
+"Description": "Since we added non-comedy world morphs, we decided to rename this experience to 'Go!Animate Roleplay'. <b>This brought worse reputation to the game so we decided to revert the name back.</b>"
 },
  {
 "ImageID": "rbxassetid://14108571082",
