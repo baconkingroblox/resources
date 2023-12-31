@@ -13,9 +13,9 @@
           "Description": "Fixed UIs etc."
         },
         {
-          "Update": "Added a feature where the player list color is based on the headshot color.",
+          "Update": "<s>Added a feature where the player list color is based on the headshot color.</s>",
           "UpdateRating": "Good",
-          "Description": "Since Roblox implemented EditableImage, we decided to use it here. More coming soon."
+          "Description": "Since Roblox implemented EditableImage, we decided to use it here (removed because it's still in beta and not available in-game yet). More coming soon."
         },
         {
           "Update": "Added a new year countdown.",
