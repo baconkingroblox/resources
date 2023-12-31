@@ -1,49 +1,87 @@
 {
   "UpdatesNew": [
-{
-"Title": "V4.16 Major improvements",
-"Date": "November 26, 2023",
-"ImageBanner": "rbxassetid://15463679973",
-"BannerColor": "#ffffff",
-"Description": "Major fixes & improvements for CWRPF.",
-"Updates": [
- {
-"Update": "Migrated the changelog to a UI.",
-"UpdateRating": "VeryGood",
-"Description": "We have decided to migrate the changelog from the lobby to a UI for easier access."
-},
- {
-"Update": "Added over 10 morphs from the upcoming Go!Animate movie.",
-"UpdateRating": "VeryGood",
-"Description": "Added about 13 morphs from the upcoming Go!Animate movie. This includes Ms. Mouth, Ground, Brian Schmidt, Richie Verdi, Mateo, Limmy, Grayson, etc."
-},
-{
-"Update": "<s>Renamed the experience to 'Go!Animate Roleplay'.</s>",
-"UpdateRating": "VeryGood",
-"Description": "Since we added non-comedy world morphs, we decided to rename this experience to 'Go!Animate Roleplay'. <b>This brought worse reputation to the game so we decided to revert the name back.</b>"
-},
- {
-"ImageID": "rbxassetid://14108571082",
-"UpdateRating": "Image",
-"Color": "#ffffff"
-},
- {
-"Update": "Updated the changelog system.",
-"UpdateRating": "Good",
-"Description": "Added image banner, descriptions, cleaner UI, etc."
-},
- {
-"Update": "Added a supporter+! subscription.",
-"UpdateRating": "Good",
-"Description": "Roblox recently released a subscription feature so we decided to add a supporter+! subscription with more perks for $2.99/month."
-},
- {
-"Update": "Fixed some bugs.",
-"UpdateRating": "Good",
-"Description": "This includes UI lags, UI color customization interfering with some UIs, morph system being partially broken for certain avatar sizes, props/decorations not being anchored, etc."
-}
-]
-}
+    {
+      "Title": "V4.22 Release Notes",
+      "Date": "December 31, 2023",
+      "ImageBanner": "rbxassetid://15463679973",
+      "BannerColor": "#ffffff",
+      "Description": "Small improvements and features for CWRPF.",
+      "Updates": [
+        {
+          "Update": "Fixed some bugs.",
+          "UpdateRating": "Good",
+          "Description": "Fixed UIs etc."
+        },
+        {
+          "Update": "Added a feature where the player list color is based on the headshot color.",
+          "UpdateRating": "Good",
+          "Description": "Since Roblox implemented EditableImage, we decided to use it here. More coming soon."
+        },
+        {
+          "Update": "Added a new year countdown.",
+          "UpdateRating": "Good",
+          "Description": "Since 2023 is ending, we decided to add a new year countdown. It also has been revamped."
+        }
+      ]
+    },
+    {
+      "Title": "Lack Of Updates",
+      "Date": "Lack Of Updates",
+      "ImageBanner": "rbxassetid://15463679973",
+      "BannerColor": "#ffffff",
+      "Description": "Information regarding lack of updates, development, etc. from the creator.",
+      "Updates": [
+        {
+          "Update": "Why is that?",
+          "UpdateRating": "KindaBad",
+          "Description": "I have to work on other games & commissions, IRL stuff, school, etc. and I keep procrastinating. I apologize for the lack of updates. This includes other games I'm working on."
+        }
+      ]
+    },
+    {
+      "Title": "V4.16 Major improvements",
+      "Date": "November 26, 2023",
+      "ImageBanner": "rbxassetid://15463679973",
+      "BannerColor": "#ffffff",
+      "Description": "Major fixes & improvements for CWRPF.",
+      "Updates": [
+        {
+          "Update": "Migrated the changelog to a UI.",
+          "UpdateRating": "VeryGood",
+          "Description": "We have decided to migrate the changelog from the lobby to a UI for easier access."
+        },
+        {
+          "Update": "Added over 10 morphs from the upcoming Go!Animate movie.",
+          "UpdateRating": "VeryGood",
+          "Description": "Added about 13 morphs from the upcoming Go!Animate movie. This includes Ms. Mouth, Ground, Brian Schmidt, Richie Verdi, Mateo, Limmy, Grayson, etc."
+        },
+        {
+          "Update": "<s>Renamed the experience to 'Go!Animate Roleplay'.</s>",
+          "UpdateRating": "VeryGood",
+          "Description": "Since we added non-comedy world morphs, we decided to rename this experience to 'Go!Animate Roleplay'. <b>This brought worse reputation to the game so we decided to revert the name back.</b>"
+        },
+        {
+          "ImageID": "rbxassetid://14108571082",
+          "UpdateRating": "Image",
+          "Color": "#ffffff"
+        },
+        {
+          "Update": "Updated the changelog system.",
+          "UpdateRating": "Good",
+          "Description": "Added image banner, descriptions, cleaner UI, etc."
+        },
+        {
+          "Update": "Added a supporter+! subscription.",
+          "UpdateRating": "Good",
+          "Description": "Roblox recently released a subscription feature so we decided to add a supporter+! subscription with more perks for $2.99/month."
+        },
+        {
+          "Update": "Fixed some bugs.",
+          "UpdateRating": "Good",
+          "Description": "This includes UI lags, UI color customization interfering with some UIs, morph system being partially broken for certain avatar sizes, props/decorations not being anchored, etc."
+        }
+      ]
+    }
   ],
   "Updates": [
     { "Update": "November 4, 2023", "UpdateRating": "UpdateDate"},
