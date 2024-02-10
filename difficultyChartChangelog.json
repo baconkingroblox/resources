@@ -10,17 +10,17 @@
         {
           "Update": "Fixed some bugs.",
           "UpdateRating": "Good",
-          "Description": "No description available."
+          "Description": "We fixed several bugs that were reported by users, improving the overall stability and performance of the experience."
         },
         {
           "Update": "Added a changelog",
           "UpdateRating": "Good",
-          "Description": "No description available"
+          "Description": "Now users can keep track of changes and updates with the changelog feature."
         },
         {
           "Update": "Added a coins system and a shop.",
           "UpdateRating": "Good",
-          "Description": "No description available."
+          "Description": "We introduced a coins system to reward user engagement and a shop where users can spend their earned coins."
         }
       ]
     }
