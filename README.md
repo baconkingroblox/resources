@@ -1,6 +1,6 @@
-# [Comedy World RP Fixed](https://www.roblox.com/games/6946020219/) stuff
+# Bacon's resources (used for Roblox games).
 
- - Update Logs
+ - Changelogs
  - Featured Images
  - Fan Arts
  - etc.
