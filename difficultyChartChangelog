@@ -1,0 +1,30 @@
+{
+  "UpdatesNew": [
+    {
+      "Title": "V1.28 Release Notes",
+      "Date": "February 10, 2024",
+      "ImageBanner": "rbxassetid://16310875243",
+      "BannerColor": "#ffffff",
+      "Description": "Some improvements and features.",
+      "Updates": [
+        {
+          "Update": "Fixed some bugs.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+        {
+          "Update": "Added a changelog",
+          "UpdateRating": "Good",
+          "Description": "No description available"
+        },
+        {
+          "Update": "Added a coins system and a shop.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        }
+      ]
+    }
+      ]
+    }
+  ]
+}
