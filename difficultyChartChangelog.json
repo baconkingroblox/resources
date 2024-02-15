@@ -1,8 +1,8 @@
 {
   "UpdatesNew": [
      {
-      "Title": "Announcement 1",
-      "Date": "February 10, 2024",
+      "Title": "February 15 Patch Notes",
+      "Date": "February 15, 2024",
       "ImageBanner": "rbxassetid://16310875243",
       "BannerColor": "#ffffff",
       "Description": "No description available.",
@@ -11,6 +11,11 @@
           "Update": "New area coming soon.",
           "UpdateRating": "Good",
           "Description": "There will be a new area in probably the next update."
+        },
+        {
+          "Update": "Fixed the hard difficulty.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
         }
       ]
     },
