@@ -1,5 +1,19 @@
 {
   "UpdatesNew": [
+     {
+      "Title": "Announcement 1",
+      "Date": "February 10, 2024",
+      "ImageBanner": "rbxassetid://16310875243",
+      "BannerColor": "#ffffff",
+      "Description": "No description available.",
+      "Updates": [
+        {
+          "Update": "New area coming soon.",
+          "UpdateRating": "Good",
+          "Description": "There will be a new area in probably the next update."
+        }
+      ]
+    },
     {
       "Title": "V1.28 Release Notes",
       "Date": "February 10, 2024",
