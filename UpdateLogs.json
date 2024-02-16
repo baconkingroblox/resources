@@ -1,6 +1,20 @@
 {
   "UpdatesNew": [
     {
+      "Title": "V4.27 Release Notes",
+      "Date": "February 16, 2024",
+      "ImageBanner": "rbxassetid://15463679973",
+      "BannerColor": "#ffffff",
+      "Description": "Major bug fixes for CWRPF. This is the last update before the next major update V4.5 releases. (Unless more bugs or issues are found)",
+      "Updates": [
+        {
+          "Update": "Fixed many bugs and issue.",
+          "UpdateRating": "Good",
+          "Description": "Fixed many bugs reported by players for better experience."
+        }
+      ]
+    },
+    {
       "Title": "V4.22 Release Notes",
       "Date": "December 31, 2023",
       "ImageBanner": "rbxassetid://15463679973",
