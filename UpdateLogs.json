@@ -1,4 +1,4 @@
-{
+ {
   "UpdatesNew": [
     {
       "Title": "V4.27 Release Notes",
@@ -104,9 +104,9 @@
       "Description": "We're excited to announce that Baconify is partnering with WonderStars.",
       "Updates": [
         {
-          "Update": "Fixed many bugs and issue.",
+          "Update": "More features, items, props, etc.",
           "UpdateRating": "Good",
-          "Description": "Fixed many bugs reported by players for better experience."
+          "Description": "More features, items, props, etc. will be added."
         }
       ]
     },
