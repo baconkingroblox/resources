@@ -5,7 +5,7 @@
 "Date": "November 25, 2023",
 "ImageBanner": "rbxassetid://15463679973",
 "BannerColor": "#ffffff",
-"Description": "lorem ipsum. something",
+"Description": "lorem ipsum something",
 "Updates": [
  {
 "Update": "Migrated the changelog to a UI.",
