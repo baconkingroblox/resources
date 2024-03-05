@@ -1,6 +1,40 @@
  {
   "UpdatesNew": [
     {
+      "Title": "V4.35 Release Notes",
+      "Date": "March 5, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Yet another bug fix and improvement update.",
+      "Updates": [
+        {
+          "Update": "V4.5 is coming in a few weeks or months.",
+          "UpdateRating": "VeryGood",
+          "Description": "V4.5 aka the next major update will feature a new lobby, improved UIs, brand new name & look, etc."
+        },
+        {
+          "Update": "Removal of christmas props.",
+          "UpdateRating": "KindaBad",
+          "Description": "Changed the winter lobby to the regular lobby and removed christmas props."
+        },
+        {
+          "Update": "Fixed some bugs and issue.",
+          "UpdateRating": "Good",
+          "Description": "Fixed some bugs reported by players for better experience, including broken settings, props volume not saving, etc."
+        },
+         {
+          "Update": "Added unlimited recent images slots.",
+          "UpdateRating": "Good",
+          "Description": "This might fix some issues related to recent images not saving."
+        },
+       {
+          "Update": "Improved animations.",
+          "UpdateRating": "Good",
+          "Description": "Improved notification (default) and image, audio library & morph UI (search and preferences button) animations (usually cooldown and snapiness)."
+        }
+      ]
+    },
+    {
       "Title": "V4.27 Release Notes",
       "Date": "February 16, 2024",
       "ImageBanner": "rbxassetid://16486648968",
@@ -21,16 +55,6 @@
       "BannerColor": "#ffffff",
       "Description": "List of found bugs in CWRPF.",
       "Updates": [
-        {
-          "Update": "Morph UI animations are partially broken.",
-          "UpdateRating": "KindaBad",
-          "Description": "Hotfix: Press on another button, e.g. image library."
-        },
-        {
-          "Update": "Ripple effect option isn't saved.",
-          "UpdateRating": "KindaBad",
-          "Description": "It's difficult to fix and it most likely won't be fixed."
-        },
         {
           "Update": "Report system is partially broken.",
           "UpdateRating": "KindaBad",
@@ -106,7 +130,7 @@
         {
           "Update": "More features, items, props, etc.",
           "UpdateRating": "Good",
-          "Description": "More features, items, props, etc. will be added."
+          "Description": "More features, items, props, etc. will be added to 2D Image Roleplay and Comedy World RP Fixed."
         }
       ]
     },
