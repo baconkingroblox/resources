@@ -1,6 +1,20 @@
  {
   "UpdatesNew": [
     {
+      "Title": "V4.37 Release Notes",
+      "Date": "March 5, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Fixed a major bug regarding the image library.",
+      "Updates": [
+       {
+          "Update": "Fixed an issue where the image library doesn't load.",
+          "UpdateRating": "Good",
+          "Description": "Fixed an issue where the image library, recent images, and favorite images don't load at all."
+        }
+      ]
+    },
+    {
       "Title": "V4.35 Release Notes",
       "Date": "March 5, 2024",
       "ImageBanner": "rbxassetid://16486648968",
