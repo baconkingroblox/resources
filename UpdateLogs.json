@@ -1,8 +1,22 @@
  {
   "UpdatesNew": [
     {
+      "Title": "V4.38 Release Notes",
+      "Date": "March 11, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Small fixes and improvements.",
+      "Updates": [
+       {
+          "Update": "Fixed a few bugs.",
+          "UpdateRating": "Good",
+          "Description": "Fixed an issue where user settings don't save and where the block feature doesn't work sometimes."
+        }
+      ]
+    },
+    {
       "Title": "V4.37 Release Notes",
-      "Date": "March 5, 2024",
+      "Date": "March 6, 2024",
       "ImageBanner": "rbxassetid://16486648968",
       "BannerColor": "#ffffff",
       "Description": "Fixed a major bug regarding the image library.",
