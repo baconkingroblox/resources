@@ -1,5 +1,19 @@
  {
   "UpdatesNew": [
+ {
+      "Title": "V4.40 Release Notes",
+      "Date": "March 23, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Small security fixes.",
+      "Updates": [
+       {
+          "Update": "Blacklisted 2 users and fixed the blacklist system.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        }
+      ]
+    },
     {
       "Title": "V4.38 Release Notes",
       "Date": "March 11, 2024",
