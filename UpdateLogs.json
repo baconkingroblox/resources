@@ -1,6 +1,20 @@
  {
   "UpdatesNew": [
 {
+      "Title": "V4.45 Release Notes",
+      "Date": "April 3, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Small fixes.",
+      "Updates": [
+       {
+          "Update": "Fixed an issue where the RP Name placeholder (N/A) is visible.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        }
+      ]
+},
+{
       "Title": "V4.42 Release Notes",
       "Date": "April 1, 2024",
       "ImageBanner": "rbxassetid://16486648968",
