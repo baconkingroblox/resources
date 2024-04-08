@@ -1,5 +1,19 @@
  {
   "UpdatesNew": [
+   {
+      "Title": "V4.47 Release Notes",
+      "Date": "April 9, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Small fixes.",
+      "Updates": [
+       {
+          "Update": "Fixed an issue where report feature is broken.",
+          "UpdateRating": "Good",
+          "Description": "Untested. Let us know if it's still broken."
+        }
+      ]
+},
 {
       "Title": "V4.45 Release Notes",
       "Date": "April 3, 2024",
