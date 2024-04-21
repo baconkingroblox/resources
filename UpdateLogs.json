@@ -1,7 +1,26 @@
  {
   "UpdatesNew": [
-   {
+    {
       "Title": "V4.47 Release Notes",
+      "Date": "April 21, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "More fixes.",
+      "Updates": [
+       {
+          "Update": "Fixed an issue where the report feature is broken.",
+          "UpdateRating": "Good",
+          "Description": "It should work, but still partially broken."
+        },
+       {
+          "Update": "Blacklisted more images.",
+          "UpdateRating": "Good",
+          "Description": "Blacklisted several disturbing images which show up on the front page."
+        }
+      ]
+},
+   {
+      "Title": "V4.46 Release Notes",
       "Date": "April 9, 2024",
       "ImageBanner": "rbxassetid://16486648968",
       "BannerColor": "#ffffff",
