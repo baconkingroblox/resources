@@ -1,5 +1,19 @@
  {
   "UpdatesNew": [
+ {
+      "Title": "V4.49 Release Notes",
+      "Date": "April 23, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Last update before V4.5 unless there are more bugs.",
+      "Updates": [
+       {
+          "Update": "Added 4 new fonts.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        }
+      ]
+},
     {
       "Title": "V4.47 Release Notes",
       "Date": "April 21, 2024",
