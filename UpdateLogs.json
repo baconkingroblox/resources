@@ -174,14 +174,9 @@
       "Description": "List of found bugs in CWRPF.",
       "Updates": [
         {
-          "Update": "Report system is partially broken.",
-          "UpdateRating": "KindaBad",
-          "Description": "Not sure why."
-        },
-        {
           "Update": "Player list showing players which are not in-game sometimes.",
           "UpdateRating": "KindaBad",
-          "Description": "Might be difficult to fix as it's a rare bug."
+          "Description": "Might be difficult to fix since it's a rare bug."
         },
         {
           "Update": "Unfavoriting images or audios doesn't work properly.",
