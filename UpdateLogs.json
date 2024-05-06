@@ -1,11 +1,50 @@
  {
   "UpdatesNew": [
+    {
+      "Title": "V4.49.1 Release Notes",
+      "Date": "May 6, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "More bug fixes.",
+      "Updates": [
+         {
+          "Update": "Added Amburn anti-cheat from Wonderstars.",
+          "UpdateRating": "VeryGood",
+          "Description": "We have implemented Amburn, Wonderstars's proprietary anti-cheat engine used in 2DIRP, to prevent exploit attempts."
+        },
+       {
+          "Update": "Fixed a bug where the 'no results' text doesn't show up in the audio library.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+              {
+          "Update": "Fixed a bug where the close button for exclusive audios isn't working.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+         {
+          "Update": "Fixed a bug where the egg hunt event didn't fully end after May 1.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+              {
+          "Update": "Fixed a bug where the co-owner tag shows up as [Tag] or nothing.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+              {
+          "Update": "Fixed a bug where featured images don't show up properly.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+      ]
+},
  {
       "Title": "V4.49 Release Notes",
       "Date": "April 23, 2024",
       "ImageBanner": "rbxassetid://16486648968",
       "BannerColor": "#ffffff",
-      "Description": "Last update before V4.5 unless there are more bugs.",
+      "Description": "<s>Last update before V4.5 unless there are more bugs.</s>",
       "Updates": [
        {
           "Update": "Added 4 new fonts.",
