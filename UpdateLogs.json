@@ -1,6 +1,20 @@
  {
   "UpdatesNew": [
     {
+      "Title": "V4.49.2 Release Notes",
+      "Date": "May 7, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Fixed the anti-cheat engine.",
+      "Updates": [
+         {
+          "Update": "Fixed an issue where the anti-cheat system automatically bans you for using the fly command.",
+          "UpdateRating": "VeryGood",
+          "Description": "No description available."
+        }
+      ]
+},
+    {
       "Title": "V4.49.1 Release Notes",
       "Date": "May 6, 2024",
       "ImageBanner": "rbxassetid://16486648968",
