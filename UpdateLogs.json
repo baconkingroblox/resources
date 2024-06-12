@@ -1,5 +1,45 @@
  {
   "UpdatesNew": [
+      {
+      "Title": "V4.49.5 Release Notes",
+      "Date": "June 12, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Anniversary update, fixes, improvements, etc.",
+      "Updates": [
+         {
+          "Update": "Apologies for not adding V4.49..4 changelogs.",
+          "UpdateRating": "Okay",
+          "Description": "No description available."
+        },
+     {
+          "Update": "Added the anniversary badge and lobby props.",
+          "UpdateRating": "Good",
+          "Description": "If you join this experience during June 12-13, you'll get an anniversary badge."
+        },
+            {
+          "Update": "Updated Bacon's catalog.",
+          "UpdateRating": "VeryGood",
+          "Description": "Added more audios to the bacon's catalog in the audio library."
+        },
+            {
+          "Update": "Fixed issues with the audio library.",
+          "UpdateRating": "Good",
+          "Description": "This includes the close button not working for exclusive audios, no results text not showing up, etc."
+        },
+            {
+          "Update": "Added an option to disable auto-morph and topbar click effect when joining the experience.",
+          "UpdateRating": "VeryGood",
+          "Description": "No description available."
+        },
+            {
+          "Update": "Fixed issues with the Amburn anti-cheat.",
+          "UpdateRating": "Okay",
+          "Description": "Now it works."
+        }
+        
+      ]
+},
     {
       "Title": "V4.49.2 Release Notes",
       "Date": "May 7, 2024",
