@@ -7,11 +7,6 @@
       "BannerColor": "#ffffff",
       "Description": "Anniversary update, fixes, improvements, etc.",
       "Updates": [
-         {
-          "Update": "Apologies for not adding V4.49..4 changelogs.",
-          "UpdateRating": "Okay",
-          "Description": "No description available."
-        },
      {
           "Update": "Added the anniversary badge and lobby props.",
           "UpdateRating": "Good",
