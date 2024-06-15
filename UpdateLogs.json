@@ -1,5 +1,25 @@
- {
+M {
   "UpdatesNew": [
+    {
+      "Title": "V4.49.6 Release Notes",
+      "Date": "June 14, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Small update.",
+      "Updates": [
+     {
+          "Update": "Added MDify (RichText) to the chat.",
+          "UpdateRating": "VeryGood",
+          "Description": "Supported syntax: **Bold**, *Italic*, ***Bold&Italic***, ~~Striketrough~~, `code`, __Underline__, ==highlighting==, :emoji:"
+        },
+            {
+          "Update": "Fixed the version value.",
+          "UpdateRating": "VeryGood",
+          "Description": "It was V4.49.9 (not accurate), but now, it's V4.49.5."
+        }
+        
+      ]
+},
       {
       "Title": "V4.49.5 Release Notes",
       "Date": "June 12, 2024",
