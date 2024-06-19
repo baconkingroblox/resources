@@ -1,6 +1,20 @@
 {
   "UpdatesNew": [
     {
+      "Title": "V4.49.7 Release Notes",
+      "Date": "June 19, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Yet another small update.",
+      "Updates": [
+     {
+          "Update": "Added a blacklist image/audio system.",
+          "UpdateRating": "VeryGood",
+          "Description": "Staff can now blacklist images or audios using the blacklistid command. Example: blkid 12345,123456,772727"
+        }
+      ]
+},
+    {
       "Title": "V4.49.6 Release Notes",
       "Date": "June 14, 2024",
       "ImageBanner": "rbxassetid://16486648968",
