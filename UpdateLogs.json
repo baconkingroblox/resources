@@ -1,5 +1,24 @@
 {
   "UpdatesNew": [
+      {
+      "Title": "V4.49.8 Release Notes",
+      "Date": "July 2, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Major bug fixes..",
+      "Updates": [
+     {
+          "Update": "Fixed an issue where the image and audio library don't work.",
+          "UpdateRating": "VeryGood",
+          "Description": "Blacklisted IDs caused this issue."
+        },
+         {
+          "Update": "Fixed an issue where Amburn falsely bans people sometimes.",
+          "UpdateRating": "VeryGood",
+          "Description": "No description available."
+        }
+      ]
+},
     {
       "Title": "V4.49.7 Release Notes",
       "Date": "June 19, 2024",
