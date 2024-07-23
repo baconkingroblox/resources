@@ -1,5 +1,24 @@
 {
   "UpdatesNew": [
+     {
+      "Title": "V4.49.9 Release Notes",
+      "Date": "July 2, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "supporter+ gamepass and fixes",
+      "Updates": [
+     {
+          "Update": "Fixed an issue where people don't earn points.",
+          "UpdateRating": "VeryGood",
+          "Description": "Might have been caused by the supporter+ subscription being disabled."
+        },
+         {
+          "Update": "Replaced supporter+ subscription with gamepass.",
+          "UpdateRating": "VeryGood",
+          "Description": "No description available."
+        }
+      ]
+},
       {
       "Title": "V4.49.8 Release Notes",
       "Date": "July 2, 2024",
