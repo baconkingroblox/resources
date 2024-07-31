@@ -1,5 +1,24 @@
 {
   "UpdatesNew": [
+{
+      "Title": "V4.49.10 Release Notes",
+      "Date": "August 1, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Major fixes.",
+      "Updates": [
+     {
+          "Update": "Fixed an issue where people don't earn points.",
+          "UpdateRating": "VeryGood",
+          "Description": "Made a mistake in the points script which made it unusable."
+        },
+         {
+          "Update": "Descriptions with no description will not be shown in the changelog. ",
+          "UpdateRating": "VeryGood",
+          "Description": "No description available."
+        }
+      ]
+},
      {
       "Title": "V4.49.9 Release Notes",
       "Date": "July 23, 2024",
@@ -7,11 +26,6 @@
       "BannerColor": "#ffffff",
       "Description": "supporter+ gamepass and fixes",
       "Updates": [
-     {
-          "Update": "Fixed an issue where people don't earn points.",
-          "UpdateRating": "VeryGood",
-          "Description": "Might have been caused by the supporter+ subscription being disabled."
-        },
          {
           "Update": "Replaced supporter+ subscription with gamepass.",
           "UpdateRating": "VeryGood",
