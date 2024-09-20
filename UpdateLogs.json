@@ -28,11 +28,6 @@
           "Description": "No description available."
         },
          {
-          "Update": "When opening the morph GUI first time, the image library will be shown instead of CW morphs. ",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-         {
           "Update": "Implemented an add/remove promocode command, owner only. ",
           "UpdateRating": "Good",
           "Description": "No description available."
