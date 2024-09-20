@@ -1,5 +1,49 @@
 {
   "UpdatesNew": [
+    {
+      "Title": "V4.49.20 Release Notes",
+      "Date": "September 20, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Some major improvements and fixes.",
+      "Updates": [
+     {
+          "Update": "Revamped the lobby and added booths/stands.",
+          "UpdateRating": "VeryGood",
+          "Description": "First full lobby redesign/revamp in CWRPF."
+        },
+         {
+          "Update": "Fixed an issue where the player list doesn't work sometimes. ",
+          "UpdateRating": "VeryGood",
+          "Description": "No description available."
+        },
+         {
+          "Update": "Fixed an issue where the inventory/backpack hotbar has broken scaling. ",
+          "UpdateRating": "VeryGood",
+          "Description": "No description available."
+        },
+           {
+          "Update": "When opening the morph GUI first time, the image library will be shown instead of CW morphs. ",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+         {
+          "Update": "When opening the morph GUI first time, the image library will be shown instead of CW morphs. ",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+         {
+          "Update": "Implemented an add/remove promocode command, owner only. ",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+        {
+          "Update": "Improved the UI scale system. ",
+          "UpdateRating": "Good",
+          "Description": "On Desktop/Tablet, the default UI scale is 0.9. On Mobile, it's 1.25. Customized values are only applied for the current device type (e.g. Desktop)."
+        }
+      ]
+},
 {
       "Title": "V4.49.10 Release Notes",
       "Date": "August 1, 2024",
