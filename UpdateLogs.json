@@ -1,5 +1,39 @@
 {
   "UpdatesNew": [
+     {
+      "Title": "V4.49.25 Release Notes",
+      "Date": "September 22, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Major fixes and some revamps.",
+      "Updates": [
+     {
+          "Update": "Revamped the maps GUI.",
+          "UpdateRating": "VeryGood",
+          "Description": "Added category and creator info, and brand new layout."
+        },
+         {
+          "Update": "Improved icons/badges in the player list and player info. ",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+         {
+          "Update": "Fixed an issue where the inventory is visible despite being closed. ",
+          "UpdateRating": "VeryGood",
+          "Description": "No description available."
+        },
+           {
+          "Update": "Fixed an issue where the morph GUi is broken sometimes. ",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+         {
+          "Update": "Fixed an issue where booths are still claimed even if the player left. ",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        }
+      ]
+},
     {
       "Title": "V4.49.20 Release Notes",
       "Date": "September 20, 2024",
