@@ -1,5 +1,19 @@
 {
   "UpdatesNew": [
+      {
+      "Title": "V4.49.26 Release Notes",
+      "Date": "September 22, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "1 small improvement.",
+      "Updates": [
+     {
+          "Update": "Added more blacklisted keywords to the image library.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        }
+      ]
+},
      {
       "Title": "V4.49.25 Release Notes",
       "Date": "September 22, 2024",
