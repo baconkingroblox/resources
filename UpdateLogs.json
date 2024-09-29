@@ -1,6 +1,20 @@
 {
   "UpdatesNew": [
       {
+      "Title": "V4.49.27 Release Notes",
+      "Date": "September 29, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "1 small improvement.",
+      "Updates": [
+     {
+          "Update": "Fixed an issue where the player list sometimes doesn't work.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        }
+      ]
+},
+      {
       "Title": "V4.49.26 Release Notes",
       "Date": "September 22, 2024",
       "ImageBanner": "rbxassetid://16486648968",
