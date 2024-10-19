@@ -1,5 +1,84 @@
 {
   "UpdatesNew": [
+ {
+  "Title": "V4.49.30 Release Notes",
+  "Date": "October 19, 2024",
+  "ImageBanner": "rbxassetid://16486648968",
+  "BannerColor": "#ffffff",
+  "Description": "Big update and halloween event.",
+  "Updates": [
+    {
+      "Update": "Candy Hunt event is here! (Until November 1) Earn 15-40 points per candy.",
+      "UpdateRating": "VeryGood",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Fixed an issue where the glow effect is way too bright.",
+      "UpdateRating": "Good",
+      "Description": "This was caused by Roblox's new Lighting system."
+    },
+    {
+      "Update": "Some UI revamps.",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Revamped stats bar. (FPS, Points, etc.)",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Revamped topbar. (new icons, can position to right)",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Improved player list (shows max. 4 badges, fixed animations, username can be copied)",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Added more customization to the booths. (show image, text, both, or none, image scale type, booth color)",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Fixed GUI icons.",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Implemented a feature where the lobby theme changes based on the season and event. (winter, new years, christmas, fall, default)",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Fixed an issue where extra props from the old lobby are still available in the new lobby.",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Improved the admin system. (new ban GUI, Roblox Ban API)",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Added more features to the CWRPF framework. (color changer, select values)",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Added a 'reset configurations' option in settings.",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    },
+    {
+      "Update": "Maybe other stuff i didn't include here (forgot).",
+      "UpdateRating": "Good",
+      "Description": "No description available."
+    }
+  ]
+},
       {
       "Title": "V4.49.27 Release Notes",
       "Date": "September 29, 2024",
