@@ -1,5 +1,24 @@
 {
   "UpdatesNew": [
+        {
+      "Title": "V4.49.31 Release Notes",
+      "Date": "October 20, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Fixed game-breaking bugs.",
+      "Updates": [
+     {
+          "Update": "Fixed an issue where permanently banned players get automatically unbanned.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+             {
+          "Update": "Fixed an issue where staff can't close the ban gui.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        }
+      ]
+},
  {
   "Title": "V4.49.30 Release Notes",
   "Date": "October 19, 2024",
