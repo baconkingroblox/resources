@@ -1,5 +1,39 @@
 {
   "UpdatesNew": [
+   {
+      "Title": "V4.49.38 Release Notes",
+      "Date": "November 9, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Fixed game-breaking bugs, unfinished update",
+      "Updates": [
+                 {
+          "Update": "Added 3 new maps: Sprunki background, Sprunki horror background, and City (work in progress).",
+          "UpdateRating": "Good",
+          "Description": "Keep in mind that the city map is unfinished and is mostly empty."
+        },
+     {
+          "Update": "Fixed an issue where search bar is unusable.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+             {
+          "Update": "Fixed an issue where the lobby season system didn't update properly for winter.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+         {
+          "Update": "Candy hunt event sunsetting.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+                 {
+          "Update": "Improved quality of some maps.",
+          "UpdateRating": "Good",
+          "Description": "This includes adding better outlines/borders for some elements and better positioning/aligning."
+        }
+      ]
+},
         {
       "Title": "V4.49.31 Release Notes",
       "Date": "October 20, 2024",
