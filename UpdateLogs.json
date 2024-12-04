@@ -1,5 +1,54 @@
 {
   "UpdatesNew": [
+      {
+      "Title": "Bugs List",
+      "Date": "Bugs List",
+      "ImageBanner": "rbxassetid://16487022132",
+      "BannerColor": "#ffffff",
+      "Description": "List of found bugs in CWRPF.",
+      "Updates": [
+                {
+          "Update": "Search by creator feature is broken.",
+          "UpdateRating": "KindaBad",
+          "Description": ""
+        },
+                {
+          "Update": "Padding between player icon and image in the player list is way too close..",
+          "UpdateRating": "KindaBad",
+          "Description": "FIXED - WAIT FOR THE NEXT UPDATE."
+        },
+                {
+          "Update": "Suggested images aren't working properly and clicking on them does nothing.",
+          "UpdateRating": "KindaBad",
+          "Description": "Will be fixed. Idk how this happened. Maybe misclick."
+        },
+                {
+          "Update": "Image and audio library aren't working properly.",
+          "UpdateRating": "KindaBad",
+          "Description": "FIXED - WAIT FOR THE NEXT UPDATE. Roblox deprecated their catalog API."
+        },
+        {
+          "Update": "Player list showing players which are not in-game sometimes.",
+          "UpdateRating": "KindaBad",
+          "Description": "Might be difficult to fix since it's a rare bug."
+        },
+        {
+          "Update": "Unfavoriting images or audios doesn't work properly.",
+          "UpdateRating": "KindaBad",
+          "Description": "Not sure why. Very difficult to fix."
+        },
+        {
+          "Update": "Changing the UI scale breaks scrolling frames sometimes.",
+          "UpdateRating": "KindaBad",
+          "Description": "Most likely won't be fixed because it's too difficult to fix."
+        },
+        {
+          "Update": "Text multiplies when typing on iOS/iPadOS.",
+          "UpdateRating": "KindaBad",
+          "Description": "I think it's fixed??? if not, forget about it. Report this bug to Roblox or Apple since it has nothing to do with CWRPF."
+        }
+      ]
+    },
    {
       "Title": "V4.49.38 Release Notes",
       "Date": "November 9, 2024",
@@ -587,35 +636,7 @@
         }
       ]
     },
-    {
-      "Title": "Bugs List",
-      "Date": "Bugs List",
-      "ImageBanner": "rbxassetid://16487022132",
-      "BannerColor": "#ffffff",
-      "Description": "List of found bugs in CWRPF.",
-      "Updates": [
-        {
-          "Update": "Player list showing players which are not in-game sometimes.",
-          "UpdateRating": "KindaBad",
-          "Description": "Might be difficult to fix since it's a rare bug."
-        },
-        {
-          "Update": "Unfavoriting images or audios doesn't work properly.",
-          "UpdateRating": "KindaBad",
-          "Description": "Not sure why. Very difficult to fix."
-        },
-        {
-          "Update": "Changing the UI scale breaks scrolling frames sometimes.",
-          "UpdateRating": "KindaBad",
-          "Description": "Most likely won't be fixed because it's too difficult to fix."
-        },
-        {
-          "Update": "Text multiplies when typing on iOS/iPadOS.",
-          "UpdateRating": "KindaBad",
-          "Description": "Forget about it. Report this bug to Roblox or Apple since it has nothing to do with CWRPF."
-        }
-      ]
-    },
+
     {
       "Title": "V4.22 Release Notes",
       "Date": "December 31, 2023",
