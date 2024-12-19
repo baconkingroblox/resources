@@ -1,6 +1,30 @@
 {
   "UpdatesNew": [
 {
+      "Title": "V4.49.42 Release Notes",
+      "Date": "December 20, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Bug fixes",
+      "Updates": [
+             {
+          "Update": "Fixed mobile control for some vehicles.",
+          "UpdateRating": "Good",
+          "Description": "Now you can shift gears."
+        },
+         {
+          "Update": "Fixed an issue where some GUIs don't work.",
+          "UpdateRating": "Good",
+          "Description": ""
+        },
+                 {
+          "Update": "Added an Audi RS6 to the city map (car spawners).",
+          "UpdateRating": "Good",
+          "Description": "Currently the best available car model in CWRPF speaking of features and quality."
+        }
+      ]
+},
+{
       "Title": "V4.49.40 Release Notes",
       "Date": "December 19, 2024",
       "ImageBanner": "rbxassetid://16486648968",
