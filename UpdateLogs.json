@@ -1,5 +1,54 @@
 {
   "UpdatesNew": [
+{
+      "Title": "V4.49.40 Release Notes",
+      "Date": "December 19, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Massive update",
+      "Updates": [
+                 {
+          "Update": "City map is (almost) finished.",
+          "UpdateRating": "VeryGood",
+          "Description": "Now it has better cars, a bus, and many more things. (check it out)"
+        },
+                         {
+          "Update": "Added a channel bar to the chat",
+          "UpdateRating": "VeryGood",
+          "Description": "Roblox brought back this feature. It hasn't been in CWRPF since 2022-23."
+        },
+                                 {
+          "Update": "Updated the phone prop GUI (same as baconifyUI but no blurs)",
+          "UpdateRating": "VeryGood",
+          "Description": ""
+        },
+                                 {
+          "Update": "Implemented multiple map zones and areas.",
+          "UpdateRating": "Good",
+          "Description": "Mainly made for large maps like the city map."
+        },
+     {
+          "Update": "Fixed an issue where the image and audio library don't work.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+             {
+          "Update": "Fixed an issue where the padding between player headshot and morph were broken.",
+          "UpdateRating": "Good",
+          "Description": "No description available."
+        },
+         {
+          "Update": "Transfer points and high graphics option sunsetting.",
+          "UpdateRating": "Okay",
+          "Description": "No one uses these features and/or they're broken."
+        },
+                 {
+          "Update": "Improved quality of some maps.",
+          "UpdateRating": "Good",
+          "Description": "This includes adding better outlines/borders for some elements and better positioning/aligning."
+        }
+      ]
+},
       {
       "Title": "Bugs List",
       "Date": "Bugs List",
@@ -7,26 +56,6 @@
       "BannerColor": "#ffffff",
       "Description": "List of found bugs in CWRPF.",
       "Updates": [
-                {
-          "Update": "Search by creator feature is broken.",
-          "UpdateRating": "KindaBad",
-          "Description": ""
-        },
-                {
-          "Update": "Padding between player icon and image in the player list is way too close..",
-          "UpdateRating": "KindaBad",
-          "Description": "FIXED - WAIT FOR THE NEXT UPDATE."
-        },
-                {
-          "Update": "Suggested images aren't working properly and clicking on them does nothing.",
-          "UpdateRating": "KindaBad",
-          "Description": "Will be fixed. Idk how this happened. Maybe misclick."
-        },
-                {
-          "Update": "Image and audio library aren't working properly.",
-          "UpdateRating": "KindaBad",
-          "Description": "FIXED - WAIT FOR THE NEXT UPDATE. Roblox deprecated their catalog API."
-        },
         {
           "Update": "Player list showing players which are not in-game sometimes.",
           "UpdateRating": "KindaBad",
