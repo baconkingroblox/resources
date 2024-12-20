@@ -1,5 +1,34 @@
 {
   "UpdatesNew": [
+    {
+      "Title": "V4.49.43 Release Notes",
+      "Date": "December 20, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Quick update. Bug fixes.",
+      "Updates": [
+             {
+          "Update": "Fixed road markings on city map.",
+          "UpdateRating": "Good",
+          "Description": ""
+        },
+         {
+          "Update": "Fixed an issue where you can't teleport to the CW city map.",
+          "UpdateRating": "Good",
+          "Description": ""
+        },
+                 {
+          "Update": "Made improvements to the anti-cheat.",
+          "UpdateRating": "Good",
+          "Description": "Now it's less likely to false ban."
+        },
+          {
+          "Update": "Overall improvements.",
+          "UpdateRating": "Good",
+          "Description": "We are continuing to improve CWRPF."
+        }
+      ]
+},
 {
       "Title": "V4.49.42 Release Notes",
       "Date": "December 20, 2024",
@@ -725,20 +754,6 @@
           "Update": "Why is that?",
           "UpdateRating": "KindaBad",
           "Description": "I have to work on other games & commissions, IRL stuff, school, etc. and I keep procrastinating. I apologize for the lack of updates. This includes other games I'm working on."
-        }
-      ]
-    },
-    {
-      "Title": "WonderStars X Baconify Partnership",
-      "Date": "WonderStars X Baconify Partnership (December 2, 2023)",
-      "ImageBanner": "rbxassetid://17764314364",
-      "BannerColor": "#ffffff",
-      "Description": "We're excited to announce that Baconify is partnering with WonderStars.",
-      "Updates": [
-        {
-          "Update": "More features, items, props, etc.",
-          "UpdateRating": "Good",
-          "Description": "More features, items, props, etc. will be added to 2D Image Roleplay and Comedy World RP Fixed."
         }
       ]
     },
