@@ -1,5 +1,34 @@
 {
   "UpdatesNew": [
+     {
+      "Title": "V4.49.44 Release Notes",
+      "Date": "December 21, 2024",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Bug fixes.",
+      "Updates": [
+             {
+          "Update": "Fixed road signs on city map.",
+          "UpdateRating": "Good",
+          "Description": "Now correct signs (caution signs) are used on highway and tunnel curves instead of mandatory/enforcement signs to avoid confusion."
+        },
+         {
+          "Update": "Fixed an issue where a certain car could be heard all over the game.",
+          "UpdateRating": "Good",
+          "Description": ""
+        },
+                 {
+          "Update": "Fixed car regen system.",
+          "UpdateRating": "Good",
+          "Description": ""
+        },
+          {
+          "Update": "Overall improvements.",
+          "UpdateRating": "Good",
+          "Description": "Made cars a bit faster, removed jeep super speed, etc."
+        }
+      ]
+},
     {
       "Title": "V4.49.43 Release Notes",
       "Date": "December 20, 2024",
