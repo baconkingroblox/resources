@@ -196,7 +196,7 @@
           "Update": "Changing the UI scale breaks scrolling frames sometimes.",
           "UpdateRating": "KindaBad",
           "Description": "Most likely won't be fixed because it's too difficult to fix."
-        },
+        }
       ]
     },
    {
