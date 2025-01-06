@@ -1,5 +1,44 @@
 {
   "UpdatesNew": [
+     {
+      "Title": "V4.49.46 Release Notes",
+      "Date": "January 6 2025",
+      "ImageBanner": "rbxassetid://16486648968",
+      "BannerColor": "#ffffff",
+      "Description": "Bug fixes.",
+      "Updates": [
+         {
+          "Update": "Improved city cars.",
+          "UpdateRating": "Good",
+          "Description": "Small fixes, including the horn."
+        },
+          {
+          "Update": "Fixed anomalies in the city map.",
+          "UpdateRating": "Good",
+          "Description": ""
+        },
+                  {
+          "Update": "Staff room revamped.",
+          "UpdateRating": "Good",
+          "Description": ""
+        },
+          {
+          "Update": "80 player servers.",
+          "UpdateRating": "Good",
+          "Description": ""
+        },
+          {
+          "Update": "New features to BK/baconify Admin.",
+          "UpdateRating": "Good",
+          "Description": "Poll logs (staff only), more args (staff, coowners, supervisors, etc), and qualifiers (map, cars)"
+        },
+                {
+          "Update": "Fixed audio and image library???",
+          "UpdateRating": "Good",
+          "Description": ""
+        }
+      ]
+},
        {
       "Title": "V4.49.45 Release Notes",
       "Date": "December 31, 2024",
