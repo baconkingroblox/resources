@@ -47,6 +47,18 @@
     "description": "Birds fly.",
     "type": "newsPhoto"
   },
+          {
+    "assetId": "rbxassetid://259239498",
+    "title": "Daily News",
+    "description": "Water is wet.",
+    "type": "newsPhoto"
+  },
+          {
+    "assetId": "rbxassetid://136907420072744",
+    "title": "Daily News",
+    "description": "Fish swim.",
+    "type": "newsPhoto"
+  },
      {
     "assetId": "rbxassetid://5608398904",
     "title": "",
