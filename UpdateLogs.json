@@ -1,5 +1,122 @@
 {
   "UpdatesNew": [
+    {
+    "Title": "TMP Temporarily Unavailable",
+    "Date": "Notice 1",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "TMP is temporarily unavailable due to falsely getting moderated by Roblox.",
+    "Updates": [
+      {
+        "Update": "Will TMP come back?.",
+        "UpdateRating": "Good",
+        "Description": "I hope so, and it should. I contacted Roblox support."
+      },
+      {
+        "Update": "What do we do in the meantime?",
+        "UpdateRating": "Good",
+        "Description": "In the meantime (while TMP is unavailable), you can play 'TMP Testing Grounds'. Though it's an unfinished version of the upcoming V4.49.5 update."
+      }
+    ]
+  },
+  {
+    "Title": "V4.49.48 Release Notes",
+    "Date": "February 20 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "Bug fixes update.",
+    "Updates": [
+      {
+        "Update": "Fixed an issue where cars didn't spawn.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Fixed an issue where some parts in vehicles weren't welded.",
+        "UpdateRating": "Good",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "Title": "V4.49.47 Release Notes",
+    "Date": "February 19 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "Feature and improvement update.",
+    "Updates": [
+      {
+        "Update": "Added a vehicle spawner GUI.",
+        "UpdateRating": "VeryGood",
+        "Description": ""
+      },
+      {
+        "Update": "Made some improvements to the city map.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Improved anti-cheat.",
+        "UpdateRating": "VeryGood",
+        "Description": ""
+      },
+      {
+        "Update": "Bypassing certain words using escape characters is no longer possible.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Revamped the lobby.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Moved the market building (inside) to the lobby.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Fixed an issue where the sit button doesn't work.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Fixed an issue where searching maps doesn't work.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Added country/region-based license plates for vehicles.",
+        "UpdateRating": "VeryGood",
+        "Description": ""
+      },
+      {
+        "Update": "Staff room doors are fixed.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Made an improvement to the rules GUI.",
+        "UpdateRating": "VeryGood",
+        "Description": "Now a player has to acknowledge every rule before playing the game, so they're less likely to violate the rules."
+      },
+      {
+        "Update": "Disabled player collisions.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Most likely fixed an issue where all overhead tags are rainbow.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Added Discord Rich Presence to Bloxstrap users.",
+        "UpdateRating": "Good",
+        "Description": "Shows in which map you currently are."
+      }
+    ]
+  },
      {
       "Title": "V4.49.46 Release Notes",
       "Date": "January 6 2025",
