@@ -1,22 +1,17 @@
 {
   "UpdatesNew": [
     {
-    "Title": "TMP Temporarily Unavailable",
+    "Title": "TMP Is Back",
     "Date": "Notice 1",
     "ImageBanner": "rbxassetid://16486648968",
     "BannerColor": "#ffffff",
-    "Description": "TMP is temporarily unavailable due to falsely getting moderated by Roblox.",
+    "Description": "TMP was temporarily unavailable due to falsely getting moderated by Roblox, but now it's restored.",
     "Updates": [
       {
-        "Update": "Will TMP come back?.",
+        "Update": "What happened?.",
         "UpdateRating": "Good",
-        "Description": "I hope so, and it should. I contacted Roblox support."
+        "Description": "TMP has been falsely moderated by Roblox's automation a while ago, causing players to move to an unstable version of TMP."
       },
-      {
-        "Update": "What do we do in the meantime?",
-        "UpdateRating": "Good",
-        "Description": "In the meantime (while TMP is unavailable), you can play 'TMP Testing Grounds'. Though it's an unfinished version of the upcoming V4.49.5 update."
-      }
     ]
   },
   {
