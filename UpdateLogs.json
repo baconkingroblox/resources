@@ -2,13 +2,13 @@
   "UpdatesNew": [
     {
     "Title": "TMP Is Back",
-    "Date": "Notice 1",
+    "Date": "TMP Restored",
     "ImageBanner": "rbxassetid://16486648968",
     "BannerColor": "#ffffff",
     "Description": "TMP was temporarily unavailable due to falsely getting moderated by Roblox, but now it's restored.",
     "Updates": [
       {
-        "Update": "What happened?.",
+        "Update": "What happened?",
         "UpdateRating": "Good",
         "Description": "TMP has been falsely moderated by Roblox's automation a while ago, causing players to move to an unstable version of TMP."
       }
