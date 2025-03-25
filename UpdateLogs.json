@@ -1,5 +1,49 @@
 {
   "UpdatesNew": [
+ {
+    "Title": "V4.49.49 Release Notes",
+    "Date": "March 25 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "Bug fixes update.",
+    "Updates": [
+      {
+        "Update": "Fixed an issue where cars didn't spawn properly.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Fixed an issue where some parts in vehicles weren't welded.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Day-night cycle is now global.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Rules will only have to be acknowledged once, or after getting unbanned or warned.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Made some improvements to the city map.",
+        "UpdateRating": "Good",
+        "Description": "> Mainly performance improvements and tiny changes."
+      },
+      {
+        "Update": "Improved the gauge cluster for Adira vehicles.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Renamed some vehicles.",
+        "UpdateRating": "Good",
+        "Description": ""
+      }
+    ]
+  },
     {
     "Title": "TMP Is Back",
     "Date": "TMP Restored",
