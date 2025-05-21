@@ -1,46 +1,23 @@
 {
-  "UpdatesNew": [
-{
-"Title": "V4.16 Major improvements",
-"Date": "November 25, 2023",
-"ImageBanner": "rbxassetid://15463679973",
-"BannerColor": "#ffffff",
-"Description": "lorem ipsum something.",
-"Updates": [
- {
-"Update": "Migrated the changelog to a UI.",
-"UpdateRating": "VeryGood",
-"Description": "We have decided to migrate the changelog from the lobby to a UI for easier access."
-},
- {
-"Update": "Added over 10 morphs from the upcoming Go!Animate movie.",
-"UpdateRating": "VeryGood",
-"Description": "Added about 13 morphs from the upcoming Go!Animate movie. This includes Ms. Mouth, Ground, Brian Schmidt, Richie Verdi, Mateo, Limmy, Grayson, etc."
-},
- {
-"ImageID": "rbxassetid://14108571082",
-"UpdateRating": "Image",
-"Color": "#ffffff"
-},
- {
-"Update": "Updated the changelog system.",
-"UpdateRating": "Good",
-"Description": "Added image banner, descriptions, cleaner UI, etc."
-},
- {
-"Update": "Added a supporter+! subscription.",
-"UpdateRating": "Good",
-"Description": "Roblox recently released a subscription feature so we decided to add a supporter+! subscription with more perks for $2.99/month."
-},
- {
-"Update": "Fixed some bugs.",
-"UpdateRating": "Good",
-"Description": "This includes UI lags, UI color customization interfering with some UIs, morph system being partially broken for certain avatar sizes, props/decorations not being anchored, etc."
-}
-]
-}
+  "new": [
+    {
+      "id": 25072501,
+      "title": "V4.49.50 Release Notes",
+      "date": "May 21 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "massive fixes.",
+      "updates": [
+        {
+          "title": "too many things.",
+          "type": "fix",
+          "rating": "good",
+          "description": ""
+        }
+      ]
+    }
   ],
-  "Updates": [
+  "old": [
     { "Update": "November 4, 2023", "UpdateRating": "UpdateDate"},
     { "Update": "Fixed a bug where the report feature doesn't work (V4.15).", "UpdateRating": "Good"},
     { "Update": "Probably fixed a bug where the agree button is not working in the rules UI (V4.15).", "UpdateRating": "Good"},
