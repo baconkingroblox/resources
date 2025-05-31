@@ -1,5 +1,54 @@
 {
   "UpdatesNew": [
+     {
+    "Title": "V4.49a Release Notes",
+    "Date": "May 31 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "Hotfix update + some new things.",
+    "Updates": [
+      {
+        "Update": "TMP now uses streaming for maps.",
+        "UpdateRating": "VeryGood",
+        "Description": "This will improve performance for most people."
+      },
+      {
+        "Update": "Fixed an issue where the text sign doesn't work.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Version format improved.",
+        "UpdateRating": "Good",
+        "Description": "Instead of something like VX.YY.ZZ, it will be VX.YY (a).\n(a) - patch suffix representing small updates and hotfixes."
+      },
+      {
+        "Update": "Made improvements to the city map. (WIP)",
+        "UpdateRating": "Good",
+        "Description": "Replaced/added areas, some optimizations, improved decorations"
+      },
+      {
+        "Update": "Added 3 maps",
+        "UpdateRating": "Good",
+        "Description": "FNF Week 1, 2, and 3.."
+      },
+      {
+        "Update": "Made some improvements to the anti-cheat.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Fixed an issue where the current morph in the player list doesn't update.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+        {
+        "Update": "Fixed an issue where the group role shows up as 'Guest' in player info.",
+        "UpdateRating": "Good",
+        "Description": ""
+      }
+    ]
+  },
  {
     "Title": "V4.49.49 Release Notes",
     "Date": "March 25 2025",
