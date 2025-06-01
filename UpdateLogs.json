@@ -1,5 +1,24 @@
 {
   "UpdatesNew": [
+      {
+    "Title": "V4.49b Release Notes",
+    "Date": "May 31 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "Small bug fixes.",
+    "Updates": [
+      {
+        "Update": "Fixed an issue related to streaming — booths and market.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Fixed an issue where the agree button doesn't show up for new players.",
+        "UpdateRating": "Good",
+        "Description": ""
+      }
+    ]
+  },
      {
     "Title": "V4.49a Release Notes",
     "Date": "May 31 2025",
