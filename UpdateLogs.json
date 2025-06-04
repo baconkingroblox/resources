@@ -1,5 +1,34 @@
 {
   "UpdatesNew": [
+          {
+    "Title": "V4.49c Release Notes",
+    "Date": "June 4 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "Bug fixes.",
+    "Updates": [
+      {
+        "Update": "Fixed an issue related to maps.",
+        "UpdateRating": "Good",
+        "Description": "Teleporting to FNF maps, not teleporting back to map when falling through."
+      },
+      {
+        "Update": "Moved the back button in the maps UI to the right.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+         {
+        "Update": "Fixed an issue with the block system.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+         {
+        "Update": "Fixed an issue where polls didn't work.",
+        "UpdateRating": "Good",
+        "Description": ""
+      }
+    ]
+  },
       {
     "Title": "V4.49b Release Notes",
     "Date": "June 1 2025",
