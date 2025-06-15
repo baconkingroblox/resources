@@ -1,5 +1,24 @@
 {
   "UpdatesNew": [
+       {
+    "Title": "V4.49d Release Notes",
+    "Date": "June 15 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "Optimization and new cars.",
+    "Updates": [
+      {
+        "Update": "Performance improvements (City and lobby optimization)",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+         {
+        "Update": "Added 2 vehicles.",
+        "UpdateRating": "Good",
+        "Description": "Bugger Werona, Mecredenz CLS55"
+      }
+    ]
+  },
           {
     "Title": "V4.49c Release Notes",
     "Date": "June 4 2025",
