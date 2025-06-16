@@ -1,5 +1,29 @@
 {
   "UpdatesNew": [
+      {
+    "Title": "V4.49e Release Notes",
+    "Date": "June 16 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "Fixed game-breaking bugs.",
+    "Updates": [
+      {
+        "Update": "Small performance improvements.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+         {
+        "Update": "Fixed an issue where you couldn't teleport to some maps.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Fixed an issue where doors on the 'Bugger Werona' were broken.",
+        "UpdateRating": "Good",
+        "Description": ""
+      }
+    ]
+  },
        {
     "Title": "V4.49d Release Notes",
     "Date": "June 15 2025",
