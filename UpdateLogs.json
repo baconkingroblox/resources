@@ -1,5 +1,34 @@
 {
   "UpdatesNew": [
+  {
+    "Title": "V4.49f Release Notes",
+    "Date": "June 17 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "More optimization and improvements.",
+    "Updates": [
+      {
+        "Update": "Performance improvements (city and lobby optimization.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+         {
+        "Update": "Fixed an issue where the suspension on the 'Mecredenz Urbano' was broken.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Fixed streaming for the school map.",
+        "UpdateRating": "Good",
+        "Description": "(no longer falling through in most cases)"
+      },
+            {
+        "Update": "Possibly fixed overhead GUI preview.",
+        "UpdateRating": "Good",
+        "Description": ""
+      }
+    ]
+  },
       {
     "Title": "V4.49e Release Notes",
     "Date": "June 16 2025",
