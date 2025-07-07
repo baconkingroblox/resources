@@ -1,5 +1,59 @@
 {
   "UpdatesNew": [
+     {
+    "Title": "V4.49g Release Notes",
+    "Date": "July 7 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "Security improvements and new things.",
+    "Updates": [
+      {
+        "Update": "Fixed an issue where you couldn't teleport to certain maps.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Added ERPSearcher from RubenSIm.",
+        "UpdateRating": "Good",
+        "Description": "ERPSearcher checks if a player is a known violator and kicks them if found."
+      },
+      {
+        "Update": "Made some improvements to the city map.",
+        "UpdateRating": "Good",
+        "Description": "Roads, vehicles, and road signs are accurately sized. Some reworks were done."
+      },
+      {
+        "Update": "Improved day-night cycle.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Made improvements to certain vehicles.",
+        "UpdateRating": "Good",
+        "Description": "BNS Arc-M5 (Engine sounds), Mecredenz CLS55 (general improvements)"
+      },
+      {
+        "Update": "Vehicles now have randomized colors.",
+        "UpdateRating": "Good",
+        "Description": "In the future, color customization will be implemented."
+      },
+      {
+        "Update": "Improved the vehicle license plate system.",
+        "UpdateRating": "Good",
+        "Description": "Improved design, reworked polish plate, added an option to toggle region-based plates in settings."
+      },
+      {
+        "Update": "Improved the chat blacklist system.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+      {
+        "Update": "Improved the image and audio blacklist system.",
+        "UpdateRating": "Good",
+        "Description": "False positives might occur. Report them if necessary."
+      }
+    ]
+  },
   {
     "Title": "V4.49f Release Notes",
     "Date": "June 17 2025",
