@@ -1,5 +1,24 @@
 {
   "UpdatesNew": [
+      {
+    "Title": "V4.49h Release Notes",
+    "Date": "July 13 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "Bug fixes.",
+    "Updates": [
+      {
+        "Update": "Fixed issues relating to morphing.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+         {
+        "Update": "Fixed an issue where the unmuteradio command would make radios very loud.",
+        "UpdateRating": "Good",
+        "Description": ""
+      }
+    ]
+  },
      {
     "Title": "V4.49g Release Notes",
     "Date": "July 7 2025",
