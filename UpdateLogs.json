@@ -1,5 +1,29 @@
 {
   "UpdatesNew": [
+     {
+    "Title": "V4.49i Release Notes",
+    "Date": "July 19 2025",
+    "ImageBanner": "rbxassetid://16486648968",
+    "BannerColor": "#ffffff",
+    "Description": "Optimization and fixes.",
+    "Updates": [
+      {
+        "Update": "Improved stability and faster responses in the image and audio library.",
+        "UpdateRating": "VeryGood",
+        "Description": ""
+      },
+         {
+        "Update": "Done some optimizations to the game.",
+        "UpdateRating": "Good",
+        "Description": ""
+      },
+       {
+        "Update": "Reworked the 'Roblox Car' vehicle.",
+        "UpdateRating": "Good",
+        "Description": "Upgraded the chassis, and it can be driven on mobile."
+      }
+    ]
+  },
       {
     "Title": "V4.49h Release Notes",
     "Date": "July 13 2025",
