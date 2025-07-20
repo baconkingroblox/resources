@@ -20,6 +20,11 @@
           "Visually worse when opening/closing, but performance is improved."
         ],
         [
+          "Improved the rules GUI.",
+          "good",
+          "Reclarified some things, and fixed an issue where you couldn't exit."
+        ],
+        [
           "Volume of boomboxes are now even.",
           "good",
           "Thanks to CompressorSoundEffect, it makes an even volume for the audio."
