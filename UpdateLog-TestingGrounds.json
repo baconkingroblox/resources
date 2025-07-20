@@ -1,5 +1,6 @@
 {
-  "new": [
+"latest": 25072501,
+  "list": [
     {
       "id": 25072501,
       "title": "V4.49.50 Release Notes",
@@ -8,54 +9,12 @@
       "bannerColor": "#ffffff",
       "description": "massive fixes.",
       "updates": [
-        {
-          "title": "too many things.",
-          "type": "fix",
-          "rating": "good",
-          "description": ""
-        }
+        [
+          "update",
+          "good",
+          "description"
+        ]
       ]
     }
-  ],
-  "old": [
-    { "Update": "November 4, 2023", "UpdateRating": "UpdateDate"},
-    { "Update": "Fixed a bug where the report feature doesn't work (V4.15).", "UpdateRating": "Good"},
-    { "Update": "Probably fixed a bug where the agree button is not working in the rules UI (V4.15).", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where entering a page value temporarily breaks the audio library (V4.15).", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where you can't favorite an image/audio on the 2nd time (V4.15).", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where the image library marketplace is unusable after switching to the favorites/recent tab (V4.13).", "UpdateRating": "Good"},
-    { "Update": "Fixed an issue where the animation speed doesn't apply properly for some UI elements.", "UpdateRating": "Good"},
-    { "Update": "Improved the phone prop UI a bit (V4.12). Fixed the UI scaling (V4.13)", "UpdateRating": "Good"},
-    { "Update": "Changed the lobby theme to winter.", "UpdateRating": "Good"},
-    { "Update": "Partially fixed UI Scale customization and Overhead UI.", "UpdateRating": "Good"},
-    { "Update": "October 30, 2023", "UpdateRating": "UpdateDate"},
-    { "Update": "Improved the update log layout (json) so adding new logs is way easier.", "UpdateRating": "Good"},
-    { "Update": "Partially fixed the overhead UI and map teleport system.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where the hint text for the player list button didn't show up.", "UpdateRating": "Good"},
-    { "Update": "Added immersive ads. (not sure if they will work)", "UpdateRating": "Good"},
-    { "Update": "Added more supporter perks. Larger image size (up to 15) and expanded RP name limit.", "UpdateRating": "Good"},
-    { "Update": "Fixed an issue where players couldn't find the brick egg.", "UpdateRating": "Good"},
-    { "Update": "October 21, 2023", "UpdateRating": "UpdateDate"},
-    { "Update": "Added a chat tag color command (for rank 3 and higher).", "UpdateRating": "Good"},
-    { "Update": "Probably fixed a bug where the overhead UI's offset is set to way different values (i.e. it appears at the bottom) or doesn't show up.", "UpdateRating": "Good"},
-    { "Update": "Removed topbar icon color customization due to a bug causing it to change to random colors.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where sliders/progress bars have a smaller maximum value than expected.", "UpdateRating": "Good"},
-    { "Update": "Added haptic feedback for topbar buttons and notifications (you can toggle it in settings).", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where some toggles aren't applying options properly.", "UpdateRating": "Good"},
-    { "Update": "Partially fixed a bug where the topbar icon color changes to a random color.", "UpdateRating": "Good"},
-    { "Update": "Added UI color customization support for the chat UI.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where the player info breaks in some cases.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where the overhead UI adder script fails to find the player's character.", "UpdateRating": "Good"},
-    { "Update": "October 20, 2023", "UpdateRating": "UpdateDate"},
-    { "Update": "You can join the legacy version of CWRP (stable) and the first version of CWRP ever. (In tunnel > more games)", "UpdateRating": "Good"},
-    { "Update": "October 19, 2023", "UpdateRating": "UpdateDate"},
-    { "Update": "Changing the UI scale breaks scrolling frames.", "UpdateRating": "Bad"},
-    { "Update": "Fixed a bug where the overhead UI breaks when is added again while applying the RP name while sitting.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where the offset value shows as 6 but is actually 0.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where hiding the front image ID hides it, but it shows as 'ID:'.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug when the audio ID is changed using the text box, the audio name is not applied.", "UpdateRating": "Good"},
-    {  "Update": "Fixed a bug where the favorite button doesn't work in the image library..", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where selecting an audio from the audio library doesn't detect if it's favorited or not.", "UpdateRating": "Good"},
-    { "Update": "October 16, 2023", "UpdateRating": "UpdateDate"}
   ]
 }
