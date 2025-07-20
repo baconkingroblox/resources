@@ -1,6 +1,41 @@
 {
-  "latest": 25071901,
+  "latest": 25072001,
   "list": [
+    {
+      "id": 25072001,
+      "title": "V4.49j Release Notes",
+      "date": "July 20 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "More optimization and fixes.",
+      "updates": [
+        [
+          "Improved scaling of most GUIs.",
+          "verygood",
+          "With mobile users in mind."
+        ],
+        [
+          "Opening certain UIs shouldn't lag anymore.",
+          "good",
+          "Visually worse when opening/closing, but performance is improved."
+        ],
+        [
+          "Volume of boomboxes are now even.",
+          "good",
+          "Thanks to CompressorSoundEffect, it makes an even volume for the audio."
+        ],
+        [
+          "Fixed an issue where feedback and report systems didn't work",
+          "good",
+          ""
+        ],
+        [
+          "Sunsetting UI scale customization.",
+          "good",
+          "They were inconsistent, and no longer needed since scaling is pretty much good as of now."
+        ]
+      ]
+    },
     {
       "id": 25071901,
       "title": "V4.49i Release Notes",
@@ -642,12 +677,12 @@
         [
           "Fixed an issue where the image and audio library don't work.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Fixed an issue where the padding between player headshot and morph were broken.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Transfer points and high graphics option sunsetting.",
@@ -677,17 +712,17 @@
         [
           "Fixed an issue where search bar is unusable.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Fixed an issue where the lobby season system didn't update properly for winter.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Candy hunt event sunsetting.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Improved quality of some maps.",
@@ -707,12 +742,12 @@
         [
           "Fixed an issue where permanently banned players get automatically unbanned.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Fixed an issue where staff can't close the ban gui.",
           "good",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -727,7 +762,7 @@
         [
           "Candy Hunt event is here! (Until November 1) Earn 15-40 points per candy.",
           "verygood",
-          "No description available."
+          ""
         ],
         [
           "Fixed an issue where the glow effect is way too bright.",
@@ -737,62 +772,62 @@
         [
           "Some UI revamps.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Revamped stats bar. (FPS, Points, etc.)",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Revamped topbar. (new icons, can position to right)",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Improved player list (shows max. 4 badges, fixed animations, username can be copied)",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Added more customization to the booths. (show image, text, both, or none, image scale type, booth color)",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Fixed GUI icons.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Implemented a feature where the lobby theme changes based on the season and event. (winter, new years, christmas, fall, default)",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Fixed an issue where extra props from the old lobby are still available in the new lobby.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Improved the admin system. (new ban GUI, Roblox Ban API)",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Added more features to the CWRPF framework. (color changer, select values)",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Added a 'reset configurations' option in settings.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Maybe other stuff i didn't include here (forgot).",
           "good",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -807,7 +842,7 @@
         [
           "Fixed an issue where the player list sometimes doesn't work.",
           "good",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -822,7 +857,7 @@
         [
           "Added more blacklisted keywords to the image library.",
           "good",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -842,22 +877,22 @@
         [
           "Improved icons/badges in the player list and player info. ",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Fixed an issue where the inventory is visible despite being closed. ",
           "verygood",
-          "No description available."
+          ""
         ],
         [
           "Fixed an issue where the morph GUi is broken sometimes. ",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Fixed an issue where booths are still claimed even if the player left. ",
           "good",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -877,22 +912,22 @@
         [
           "Fixed an issue where the player list doesn't work sometimes. ",
           "verygood",
-          "No description available."
+          ""
         ],
         [
           "Fixed an issue where the inventory/backpack hotbar has broken scaling. ",
           "verygood",
-          "No description available."
+          ""
         ],
         [
           "When opening the morph GUI first time, the image library will be shown instead of CW morphs. ",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Implemented an add/remove promocode command, owner only. ",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Improved the UI scale system. ",
@@ -917,7 +952,7 @@
         [
           "Descriptions with no description will not be shown in the changelog. ",
           "verygood",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -932,7 +967,7 @@
         [
           "Replaced supporter+ subscription with gamepass.",
           "verygood",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -952,7 +987,7 @@
         [
           "Fixed an issue where Amburn falsely bans people sometimes.",
           "verygood",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -1017,7 +1052,7 @@
         [
           "Added an option to disable auto-morph and topbar click effect when joining the experience.",
           "verygood",
-          "No description available."
+          ""
         ],
         [
           "Fixed issues with the Amburn anti-cheat.",
@@ -1037,7 +1072,7 @@
         [
           "Fixed an issue where the anti-cheat system automatically bans you for using the fly command.",
           "verygood",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -1057,27 +1092,27 @@
         [
           "Fixed a bug where the 'no results' text doesn't show up in the audio library.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Fixed a bug where the close button for exclusive audios isn't working.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Fixed a bug where the egg hunt event didn't fully end after May 1.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Fixed a bug where the co-owner tag shows up as [Tag] or nothing.",
           "good",
-          "No description available."
+          ""
         ],
         [
           "Fixed a bug where featured images don't show up properly.",
           "good",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -1092,7 +1127,7 @@
         [
           "Added 4 new fonts.",
           "good",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -1142,7 +1177,7 @@
         [
           "Fixed an issue where the RP Name placeholder (N/A) is visible.",
           "good",
-          "No description available."
+          ""
         ]
       ]
     },
@@ -1187,7 +1222,7 @@
         [
           "Blacklisted 2 users and fixed the blacklist system.",
           "good",
-          "No description available."
+          ""
         ]
       ]
     },
