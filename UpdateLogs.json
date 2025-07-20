@@ -1,1375 +1,1515 @@
 {
-  "UpdatesNew": [
-     {
-    "Title": "V4.49i Release Notes",
-    "Date": "July 19 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "Optimization and fixes.",
-    "Updates": [
-      {
-        "Update": "Improved stability and faster responses in the image and audio library.",
-        "UpdateRating": "VeryGood",
-        "Description": ""
-      },
-         {
-        "Update": "Done some optimizations to the game.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-       {
-        "Update": "Reworked the 'Roblox Car' vehicle.",
-        "UpdateRating": "Good",
-        "Description": "Upgraded the chassis, and it can be driven on mobile."
-      }
-    ]
-  },
-      {
-    "Title": "V4.49h Release Notes",
-    "Date": "July 13 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "Bug fixes.",
-    "Updates": [
-      {
-        "Update": "Fixed issues relating to morphing.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-         {
-        "Update": "Fixed an issue where the unmuteradio command would make radios very loud.",
-        "UpdateRating": "Good",
-        "Description": ""
-      }
-    ]
-  },
-     {
-    "Title": "V4.49g Release Notes",
-    "Date": "July 7 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "Security improvements and new things.",
-    "Updates": [
-      {
-        "Update": "Fixed an issue where you couldn't teleport to certain maps.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Added ERPSearcher from RubenSIm.",
-        "UpdateRating": "Good",
-        "Description": "ERPSearcher checks if a player is a known violator and kicks them if found."
-      },
-      {
-        "Update": "Made some improvements to the city map.",
-        "UpdateRating": "Good",
-        "Description": "Roads, vehicles, and road signs are accurately sized. Some reworks were done."
-      },
-      {
-        "Update": "Improved day-night cycle.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Made improvements to certain vehicles.",
-        "UpdateRating": "Good",
-        "Description": "BNS Arc-M5 (Engine sounds), Mecredenz CLS55 (general improvements)"
-      },
-      {
-        "Update": "Vehicles now have randomized colors.",
-        "UpdateRating": "Good",
-        "Description": "In the future, color customization will be implemented."
-      },
-      {
-        "Update": "Improved the vehicle license plate system.",
-        "UpdateRating": "Good",
-        "Description": "Improved design, reworked polish plate, added an option to toggle region-based plates in settings."
-      },
-      {
-        "Update": "Improved the chat blacklist system.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Improved the image and audio blacklist system.",
-        "UpdateRating": "Good",
-        "Description": "False positives might occur. Report them if necessary."
-      }
-    ]
-  },
-  {
-    "Title": "V4.49f Release Notes",
-    "Date": "June 17 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "More optimization and improvements.",
-    "Updates": [
-      {
-        "Update": "Performance improvements (city and lobby optimization.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-         {
-        "Update": "Fixed an issue where the suspension on the 'Mecredenz Urbano' was broken.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Fixed streaming for the school map.",
-        "UpdateRating": "Good",
-        "Description": "(no longer falling through in most cases)"
-      },
-            {
-        "Update": "Possibly fixed overhead GUI preview.",
-        "UpdateRating": "Good",
-        "Description": ""
-      }
-    ]
-  },
-      {
-    "Title": "V4.49e Release Notes",
-    "Date": "June 16 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "Fixed game-breaking bugs.",
-    "Updates": [
-      {
-        "Update": "Small performance improvements.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-         {
-        "Update": "Fixed an issue where you couldn't teleport to some maps.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Fixed an issue where doors on the 'Bugger Werona' were broken.",
-        "UpdateRating": "Good",
-        "Description": ""
-      }
-    ]
-  },
-       {
-    "Title": "V4.49d Release Notes",
-    "Date": "June 15 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "Optimization and new cars.",
-    "Updates": [
-      {
-        "Update": "Performance improvements (City and lobby optimization)",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-         {
-        "Update": "Added 2 vehicles.",
-        "UpdateRating": "Good",
-        "Description": "Bugger Werona, Mecredenz CLS55"
-      }
-    ]
-  },
-          {
-    "Title": "V4.49c Release Notes",
-    "Date": "June 4 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "Bug fixes.",
-    "Updates": [
-      {
-        "Update": "Fixed an issue related to maps.",
-        "UpdateRating": "Good",
-        "Description": "Teleporting to FNF maps, not teleporting back to map when falling through."
-      },
-      {
-        "Update": "Moved the back button in the maps UI to the right.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-         {
-        "Update": "Fixed an issue with the block system.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-         {
-        "Update": "Fixed an issue where polls didn't work.",
-        "UpdateRating": "Good",
-        "Description": ""
-      }
-    ]
-  },
-      {
-    "Title": "V4.49b Release Notes",
-    "Date": "June 1 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "Small bug fixes.",
-    "Updates": [
-      {
-        "Update": "Fixed an issue related to streaming — booths and market.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Fixed an issue where the agree button doesn't show up for new players.",
-        "UpdateRating": "Good",
-        "Description": ""
-      }
-    ]
-  },
-     {
-    "Title": "V4.49a Release Notes",
-    "Date": "May 31 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "Hotfix update + some new things.",
-    "Updates": [
-      {
-        "Update": "TMP now uses streaming for maps.",
-        "UpdateRating": "VeryGood",
-        "Description": "This will improve performance for most people."
-      },
-      {
-        "Update": "Fixed an issue where the text sign doesn't work.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Version format improved.",
-        "UpdateRating": "Good",
-        "Description": "Instead of something like VX.YY.ZZ, it will be VX.YY (a).\n(a) - patch suffix representing small updates and hotfixes."
-      },
-      {
-        "Update": "Made improvements to the city map. (WIP)",
-        "UpdateRating": "Good",
-        "Description": "Replaced/added areas, some optimizations, improved decorations"
-      },
-      {
-        "Update": "Added 3 maps",
-        "UpdateRating": "Good",
-        "Description": "FNF Week 1, 2, and 3.."
-      },
-      {
-        "Update": "Made some improvements to the anti-cheat.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Fixed an issue where the current morph in the player list doesn't update.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-        {
-        "Update": "Fixed an issue where the group role shows up as 'Guest' in player info.",
-        "UpdateRating": "Good",
-        "Description": ""
-      }
-    ]
-  },
- {
-    "Title": "V4.49.49 Release Notes",
-    "Date": "March 25 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "Bug fixes update.",
-    "Updates": [
-      {
-        "Update": "Fixed an issue where cars didn't spawn properly.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Fixed an issue where some parts in vehicles weren't welded.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Day-night cycle is now global.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Rules will only have to be acknowledged once, or after getting unbanned or warned.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Made some improvements to the city map.",
-        "UpdateRating": "Good",
-        "Description": "> Mainly performance improvements and tiny changes."
-      },
-      {
-        "Update": "Improved the gauge cluster for Adira vehicles.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Renamed some vehicles.",
-        "UpdateRating": "Good",
-        "Description": ""
-      }
-    ]
-  },
+  "latest": 25071901,
+  "list": [
     {
-    "Title": "TMP Is Back",
-    "Date": "TMP Restored",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "TMP was temporarily unavailable due to falsely getting moderated by Roblox, but now it's restored.",
-    "Updates": [
-      {
-        "Update": "What happened?",
-        "UpdateRating": "Good",
-        "Description": "TMP has been falsely moderated by Roblox's automation a while ago, causing players to move to an unstable version of TMP."
-      }
-    ]
-  },
-  {
-    "Title": "V4.49.48 Release Notes",
-    "Date": "February 20 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "Bug fixes update.",
-    "Updates": [
-      {
-        "Update": "Fixed an issue where cars didn't spawn.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Fixed an issue where some parts in vehicles weren't welded.",
-        "UpdateRating": "Good",
-        "Description": ""
-      }
-    ]
-  },
-  {
-    "Title": "V4.49.47 Release Notes",
-    "Date": "February 19 2025",
-    "ImageBanner": "rbxassetid://16486648968",
-    "BannerColor": "#ffffff",
-    "Description": "Feature and improvement update.",
-    "Updates": [
-      {
-        "Update": "Added a vehicle spawner GUI.",
-        "UpdateRating": "VeryGood",
-        "Description": ""
-      },
-      {
-        "Update": "Made some improvements to the city map.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Improved anti-cheat.",
-        "UpdateRating": "VeryGood",
-        "Description": ""
-      },
-      {
-        "Update": "Bypassing certain words using escape characters is no longer possible.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Revamped the lobby.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Moved the market building (inside) to the lobby.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Fixed an issue where the sit button doesn't work.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Fixed an issue where searching maps doesn't work.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Added country/region-based license plates for vehicles.",
-        "UpdateRating": "VeryGood",
-        "Description": ""
-      },
-      {
-        "Update": "Staff room doors are fixed.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Made an improvement to the rules GUI.",
-        "UpdateRating": "VeryGood",
-        "Description": "Now a player has to acknowledge every rule before playing the game, so they're less likely to violate the rules."
-      },
-      {
-        "Update": "Disabled player collisions.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Most likely fixed an issue where all overhead tags are rainbow.",
-        "UpdateRating": "Good",
-        "Description": ""
-      },
-      {
-        "Update": "Added Discord Rich Presence to Bloxstrap users.",
-        "UpdateRating": "Good",
-        "Description": "Shows in which map you currently are."
-      }
-    ]
-  },
-     {
-      "Title": "V4.49.46 Release Notes",
-      "Date": "January 6 2025",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Bug fixes.",
-      "Updates": [
-         {
-          "Update": "Improved city cars.",
-          "UpdateRating": "Good",
-          "Description": "Small fixes, including the horn."
-        },
-          {
-          "Update": "Fixed anomalies in the city map.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-                  {
-          "Update": "Staff room revamped.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-          {
-          "Update": "80 player servers.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-          {
-          "Update": "New features to BK/baconify Admin.",
-          "UpdateRating": "Good",
-          "Description": "Poll logs (staff only), more args (staff, coowners, supervisors, etc), and qualifiers (map, cars)"
-        },
-                {
-          "Update": "Fixed audio and image library???",
-          "UpdateRating": "Good",
-          "Description": ""
-        }
-      ]
-},
-       {
-      "Title": "V4.49.45 Release Notes",
-      "Date": "December 31, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Last update of 2024.",
-      "Updates": [
-             {
-          "Update": "Rebranded the game.",
-          "UpdateRating": "VeryGood",
-          "Description": "We're adding morphs and maps from various fandoms, so we decided to rebrand Comedy World RP Fixed to The Multiverse Project."
-        },
-         {
-          "Update": "Improved city cars and buses.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-                 {
-          "Update": "Fixed an issue where players can push the city bus.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-          {
-          "Update": "Fixed anti-cheat.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-          {
-          "Update": "Fixed anomalies in the city map.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-                  {
-          "Update": "Admin GUI improvements.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-          {
-          "Update": "Fixed new year countdown board.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-          {
-          "Update": "Added credits statues in lobby.",
-          "UpdateRating": "Good",
-          "Description": ""
-        }
-      ]
-},
-     {
-      "Title": "V4.49.44 Release Notes",
-      "Date": "December 21, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Bug fixes.",
-      "Updates": [
-             {
-          "Update": "Fixed road signs on city map.",
-          "UpdateRating": "Good",
-          "Description": "Now correct signs (caution signs) are used on highway and tunnel curves instead of mandatory/enforcement signs to avoid confusion."
-        },
-         {
-          "Update": "Fixed an issue where a certain car could be heard all over the game.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-                 {
-          "Update": "Fixed car regen system.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-          {
-          "Update": "Overall improvements.",
-          "UpdateRating": "Good",
-          "Description": "Made cars a bit faster, removed jeep super speed, etc."
-        }
-      ]
-},
-    {
-      "Title": "V4.49.43 Release Notes",
-      "Date": "December 20, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Quick update. Bug fixes.",
-      "Updates": [
-             {
-          "Update": "Fixed road markings on city map.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-         {
-          "Update": "Fixed an issue where you can't teleport to the CW city map.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-                 {
-          "Update": "Made improvements to the anti-cheat.",
-          "UpdateRating": "Good",
-          "Description": "Now it's less likely to false ban."
-        },
-          {
-          "Update": "Overall improvements.",
-          "UpdateRating": "Good",
-          "Description": "We are continuing to improve CWRPF."
-        }
-      ]
-},
-{
-      "Title": "V4.49.42 Release Notes",
-      "Date": "December 20, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Bug fixes",
-      "Updates": [
-             {
-          "Update": "Fixed mobile control for some vehicles.",
-          "UpdateRating": "Good",
-          "Description": "Now you can shift gears."
-        },
-         {
-          "Update": "Fixed an issue where some GUIs don't work.",
-          "UpdateRating": "Good",
-          "Description": ""
-        },
-                 {
-          "Update": "Added an Audi RS6 to the city map (car spawners).",
-          "UpdateRating": "Good",
-          "Description": "Currently the best available car model in CWRPF speaking of features and quality."
-        }
-      ]
-},
-{
-      "Title": "V4.49.40 Release Notes",
-      "Date": "December 19, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Massive update",
-      "Updates": [
-                 {
-          "Update": "City map is (almost) finished.",
-          "UpdateRating": "VeryGood",
-          "Description": "Now it has better cars, a bus, and many more things. (check it out)"
-        },
-                         {
-          "Update": "Added a channel bar to the chat",
-          "UpdateRating": "VeryGood",
-          "Description": "Roblox brought back this feature. It hasn't been in CWRPF since 2022-23."
-        },
-                                 {
-          "Update": "Updated the phone prop GUI (same as baconifyUI but no blurs)",
-          "UpdateRating": "VeryGood",
-          "Description": ""
-        },
-                                 {
-          "Update": "Implemented multiple map zones and areas.",
-          "UpdateRating": "Good",
-          "Description": "Mainly made for large maps like the city map."
-        },
-     {
-          "Update": "Fixed an issue where the image and audio library don't work.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-             {
-          "Update": "Fixed an issue where the padding between player headshot and morph were broken.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-         {
-          "Update": "Transfer points and high graphics option sunsetting.",
-          "UpdateRating": "Okay",
-          "Description": "No one uses these features and/or they're broken."
-        },
-                 {
-          "Update": "Improved quality of some maps.",
-          "UpdateRating": "Good",
-          "Description": "This includes adding better outlines/borders for some elements and better positioning/aligning."
-        }
-      ]
-},
-      {
-      "Title": "Bugs List",
-      "Date": "Bugs List",
-      "ImageBanner": "rbxassetid://16487022132",
-      "BannerColor": "#ffffff",
-      "Description": "List of found bugs in CWRPF.",
-      "Updates": [
-        {
-          "Update": "Player list showing players which are not in-game sometimes.",
-          "UpdateRating": "KindaBad",
-          "Description": "Might be difficult to fix since it's a rare bug."
-        },
-        {
-          "Update": "Changing the UI scale breaks scrolling frames sometimes.",
-          "UpdateRating": "KindaBad",
-          "Description": "Most likely won't be fixed because it's too difficult to fix."
-        }
+      "id": 25071901,
+      "title": "V4.49i Release Notes",
+      "date": "July 19 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Optimization and fixes.",
+      "updates": [
+        [
+          "Improved stability and faster responses in the image and audio library.",
+          "verygood",
+          ""
+        ],
+        [
+          "Done some optimizations to the game.",
+          "good",
+          ""
+        ],
+        [
+          "Reworked the 'Roblox Car' vehicle.",
+          "good",
+          "Upgraded the chassis, and it can be driven on mobile."
+        ]
       ]
     },
-   {
-      "Title": "V4.49.38 Release Notes",
-      "Date": "November 9, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Fixed game-breaking bugs, unfinished update",
-      "Updates": [
-                 {
-          "Update": "Added 3 new maps: Sprunki background, Sprunki horror background, and City (work in progress).",
-          "UpdateRating": "Good",
-          "Description": "Keep in mind that the city map is unfinished and is mostly empty."
-        },
-     {
-          "Update": "Fixed an issue where search bar is unusable.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-             {
-          "Update": "Fixed an issue where the lobby season system didn't update properly for winter.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-         {
-          "Update": "Candy hunt event sunsetting.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-                 {
-          "Update": "Improved quality of some maps.",
-          "UpdateRating": "Good",
-          "Description": "This includes adding better outlines/borders for some elements and better positioning/aligning."
-        }
+    {
+      "id": 25071301,
+      "title": "V4.49h Release Notes",
+      "date": "July 13 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Bug fixes.",
+      "updates": [
+        [
+          "Fixed issues relating to morphing.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where the unmuteradio command would make radios very loud.",
+          "good",
+          ""
+        ]
       ]
-},
-        {
-      "Title": "V4.49.31 Release Notes",
-      "Date": "October 20, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Fixed game-breaking bugs.",
-      "Updates": [
-     {
-          "Update": "Fixed an issue where permanently banned players get automatically unbanned.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-             {
-          "Update": "Fixed an issue where staff can't close the ban gui.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        }
+    },
+    {
+      "id": 25070701,
+      "title": "V4.49g Release Notes",
+      "date": "July 7 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Security improvements and new things.",
+      "updates": [
+        [
+          "Fixed an issue where you couldn't teleport to certain maps.",
+          "good",
+          ""
+        ],
+        [
+          "Added ERPSearcher from RubenSIm.",
+          "good",
+          "ERPSearcher checks if a player is a known violator and kicks them if found."
+        ],
+        [
+          "Made some improvements to the city map.",
+          "good",
+          "Roads, vehicles, and road signs are accurately sized. Some reworks were done."
+        ],
+        [
+          "Improved day-night cycle.",
+          "good",
+          ""
+        ],
+        [
+          "Made improvements to certain vehicles.",
+          "good",
+          "BNS Arc-M5 (Engine sounds), Mecredenz CLS55 (general improvements)"
+        ],
+        [
+          "Vehicles now have randomized colors.",
+          "good",
+          "In the future, color customization will be implemented."
+        ],
+        [
+          "Improved the vehicle license plate system.",
+          "good",
+          "Improved design, reworked polish plate, added an option to toggle region-based plates in settings."
+        ],
+        [
+          "Improved the chat blacklist system.",
+          "good",
+          ""
+        ],
+        [
+          "Improved the image and audio blacklist system.",
+          "good",
+          "False positives might occur. Report them if necessary."
+        ]
       ]
-},
- {
-  "Title": "V4.49.30 Release Notes",
-  "Date": "October 19, 2024",
-  "ImageBanner": "rbxassetid://16486648968",
-  "BannerColor": "#ffffff",
-  "Description": "Big update and halloween event.",
-  "Updates": [
-    {
-      "Update": "Candy Hunt event is here! (Until November 1) Earn 15-40 points per candy.",
-      "UpdateRating": "VeryGood",
-      "Description": "No description available."
     },
     {
-      "Update": "Fixed an issue where the glow effect is way too bright.",
-      "UpdateRating": "Good",
-      "Description": "This was caused by Roblox's new Lighting system."
+      "id": 25061701,
+      "title": "V4.49f Release Notes",
+      "date": "June 17 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "More optimization and improvements.",
+      "updates": [
+        [
+          "Performance improvements (city and lobby optimization.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where the suspension on the 'Mecredenz Urbano' was broken.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed streaming for the school map.",
+          "good",
+          "(no longer falling through in most cases)"
+        ],
+        [
+          "Possibly fixed overhead GUI preview.",
+          "good",
+          ""
+        ]
+      ]
     },
     {
-      "Update": "Some UI revamps.",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 25061601,
+      "title": "V4.49e Release Notes",
+      "date": "June 16 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Fixed game-breaking bugs.",
+      "updates": [
+        [
+          "Small performance improvements.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where you couldn't teleport to some maps.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where doors on the 'Bugger Werona' were broken.",
+          "good",
+          ""
+        ]
+      ]
     },
     {
-      "Update": "Revamped stats bar. (FPS, Points, etc.)",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 25061501,
+      "title": "V4.49d Release Notes",
+      "date": "June 15 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Optimization and new cars.",
+      "updates": [
+        [
+          "Performance improvements (City and lobby optimization)",
+          "good",
+          ""
+        ],
+        [
+          "Added 2 vehicles.",
+          "good",
+          "Bugger Werona, Mecredenz CLS55"
+        ]
+      ]
     },
     {
-      "Update": "Revamped topbar. (new icons, can position to right)",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 25060401,
+      "title": "V4.49c Release Notes",
+      "date": "June 4 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Bug fixes.",
+      "updates": [
+        [
+          "Fixed an issue related to maps.",
+          "good",
+          "Teleporting to FNF maps, not teleporting back to map when falling through."
+        ],
+        [
+          "Moved the back button in the maps UI to the right.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue with the block system.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where polls didn't work.",
+          "good",
+          ""
+        ]
+      ]
     },
     {
-      "Update": "Improved player list (shows max. 4 badges, fixed animations, username can be copied)",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 25060101,
+      "title": "V4.49b Release Notes",
+      "date": "June 1 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Small bug fixes.",
+      "updates": [
+        [
+          "Fixed an issue related to streaming \u2014 booths and market.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where the agree button doesn't show up for new players.",
+          "good",
+          ""
+        ]
+      ]
     },
     {
-      "Update": "Added more customization to the booths. (show image, text, both, or none, image scale type, booth color)",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 25053101,
+      "title": "V4.49a Release Notes",
+      "date": "May 31 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Hotfix update + some new things.",
+      "updates": [
+        [
+          "TMP now uses streaming for maps.",
+          "verygood",
+          "This will improve performance for most people."
+        ],
+        [
+          "Fixed an issue where the text sign doesn't work.",
+          "good",
+          ""
+        ],
+        [
+          "Version format improved.",
+          "good",
+          "Instead of something like VX.YY.ZZ, it will be VX.YY (a).\n(a) - patch suffix representing small updates and hotfixes."
+        ],
+        [
+          "Made improvements to the city map. (WIP)",
+          "good",
+          "Replaced/added areas, some optimizations, improved decorations"
+        ],
+        [
+          "Added 3 maps",
+          "good",
+          "FNF Week 1, 2, and 3.."
+        ],
+        [
+          "Made some improvements to the anti-cheat.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where the current morph in the player list doesn't update.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where the group role shows up as 'Guest' in player info.",
+          "good",
+          ""
+        ]
+      ]
     },
     {
-      "Update": "Fixed GUI icons.",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 25032501,
+      "title": "V4.49.49 Release Notes",
+      "date": "March 25 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Bug fixes update.",
+      "updates": [
+        [
+          "Fixed an issue where cars didn't spawn properly.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where some parts in vehicles weren't welded.",
+          "good",
+          ""
+        ],
+        [
+          "Day-night cycle is now global.",
+          "good",
+          ""
+        ],
+        [
+          "Rules will only have to be acknowledged once, or after getting unbanned or warned.",
+          "good",
+          ""
+        ],
+        [
+          "Made some improvements to the city map.",
+          "good",
+          "> Mainly performance improvements and tiny changes."
+        ],
+        [
+          "Improved the gauge cluster for Adira vehicles.",
+          "good",
+          ""
+        ],
+        [
+          "Renamed some vehicles.",
+          "good",
+          ""
+        ]
+      ]
     },
     {
-      "Update": "Implemented a feature where the lobby theme changes based on the season and event. (winter, new years, christmas, fall, default)",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 25032401,
+      "title": "TMP Is Back",
+      "date": "TMP Restored",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "TMP was temporarily unavailable due to falsely getting moderated by Roblox, but now it's restored.",
+      "updates": [
+        [
+          "What happened?",
+          "good",
+          "TMP has been falsely moderated by Roblox's automation a while ago, causing players to move to an unstable version of TMP."
+        ]
+      ]
     },
     {
-      "Update": "Fixed an issue where extra props from the old lobby are still available in the new lobby.",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 25022001,
+      "title": "V4.49.48 Release Notes",
+      "date": "February 20 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Bug fixes update.",
+      "updates": [
+        [
+          "Fixed an issue where cars didn't spawn.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where some parts in vehicles weren't welded.",
+          "good",
+          ""
+        ]
+      ]
     },
     {
-      "Update": "Improved the admin system. (new ban GUI, Roblox Ban API)",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 25021901,
+      "title": "V4.49.47 Release Notes",
+      "date": "February 19 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Feature and improvement update.",
+      "updates": [
+        [
+          "Added a vehicle spawner GUI.",
+          "verygood",
+          ""
+        ],
+        [
+          "Made some improvements to the city map.",
+          "good",
+          ""
+        ],
+        [
+          "Improved anti-cheat.",
+          "verygood",
+          ""
+        ],
+        [
+          "Bypassing certain words using escape characters is no longer possible.",
+          "good",
+          ""
+        ],
+        [
+          "Revamped the lobby.",
+          "good",
+          ""
+        ],
+        [
+          "Moved the market building (inside) to the lobby.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where the sit button doesn't work.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where searching maps doesn't work.",
+          "good",
+          ""
+        ],
+        [
+          "Added country/region-based license plates for vehicles.",
+          "verygood",
+          ""
+        ],
+        [
+          "Staff room doors are fixed.",
+          "good",
+          ""
+        ],
+        [
+          "Made an improvement to the rules GUI.",
+          "verygood",
+          "Now a player has to acknowledge every rule before playing the game, so they're less likely to violate the rules."
+        ],
+        [
+          "Disabled player collisions.",
+          "good",
+          ""
+        ],
+        [
+          "Most likely fixed an issue where all overhead tags are rainbow.",
+          "good",
+          ""
+        ],
+        [
+          "Added Discord Rich Presence to Bloxstrap users.",
+          "good",
+          "Shows in which map you currently are."
+        ]
+      ]
     },
     {
-      "Update": "Added more features to the CWRPF framework. (color changer, select values)",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 25010601,
+      "title": "V4.49.46 Release Notes",
+      "date": "January 6 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Bug fixes.",
+      "updates": [
+        [
+          "Improved city cars.",
+          "good",
+          "Small fixes, including the horn."
+        ],
+        [
+          "Fixed anomalies in the city map.",
+          "good",
+          ""
+        ],
+        [
+          "Staff room revamped.",
+          "good",
+          ""
+        ],
+        [
+          "80 player servers.",
+          "good",
+          ""
+        ],
+        [
+          "New features to BK/baconify Admin.",
+          "good",
+          "Poll logs (staff only), more args (staff, coowners, supervisors, etc), and qualifiers (map, cars)"
+        ],
+        [
+          "Fixed audio and image library???",
+          "good",
+          ""
+        ]
+      ]
     },
     {
-      "Update": "Added a 'reset configurations' option in settings.",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 24123101,
+      "title": "V4.49.45 Release Notes",
+      "date": "December 31, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Last update of 2024.",
+      "updates": [
+        [
+          "Rebranded the game.",
+          "verygood",
+          "We're adding morphs and maps from various fandoms, so we decided to rebrand Comedy World RP Fixed to The Multiverse Project."
+        ],
+        [
+          "Improved city cars and buses.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where players can push the city bus.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed anti-cheat.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed anomalies in the city map.",
+          "good",
+          ""
+        ],
+        [
+          "Admin GUI improvements.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed new year countdown board.",
+          "good",
+          ""
+        ],
+        [
+          "Added credits statues in lobby.",
+          "good",
+          ""
+        ]
+      ]
     },
     {
-      "Update": "Maybe other stuff i didn't include here (forgot).",
-      "UpdateRating": "Good",
-      "Description": "No description available."
+      "id": 24122101,
+      "title": "V4.49.44 Release Notes",
+      "date": "December 21, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Bug fixes.",
+      "updates": [
+        [
+          "Fixed road signs on city map.",
+          "good",
+          "Now correct signs (caution signs) are used on highway and tunnel curves instead of mandatory/enforcement signs to avoid confusion."
+        ],
+        [
+          "Fixed an issue where a certain car could be heard all over the game.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed car regen system.",
+          "good",
+          ""
+        ],
+        [
+          "Overall improvements.",
+          "good",
+          "Made cars a bit faster, removed jeep super speed, etc."
+        ]
+      ]
+    },
+    {
+      "id": 24122001,
+      "title": "V4.49.43 Release Notes",
+      "date": "December 20, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Quick update. Bug fixes.",
+      "updates": [
+        [
+          "Fixed road markings on city map.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where you can't teleport to the CW city map.",
+          "good",
+          ""
+        ],
+        [
+          "Made improvements to the anti-cheat.",
+          "good",
+          "Now it's less likely to false ban."
+        ],
+        [
+          "Overall improvements.",
+          "good",
+          "We are continuing to improve CWRPF."
+        ]
+      ]
+    },
+    {
+      "id": 24122001,
+      "title": "V4.49.42 Release Notes",
+      "date": "December 20, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Bug fixes",
+      "updates": [
+        [
+          "Fixed mobile control for some vehicles.",
+          "good",
+          "Now you can shift gears."
+        ],
+        [
+          "Fixed an issue where some GUIs don't work.",
+          "good",
+          ""
+        ],
+        [
+          "Added an Audi RS6 to the city map (car spawners).",
+          "good",
+          "Currently the best available car model in CWRPF speaking of features and quality."
+        ]
+      ]
+    },
+    {
+      "id": 24121901,
+      "title": "V4.49.40 Release Notes",
+      "date": "December 19, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Massive update",
+      "updates": [
+        [
+          "City map is (almost) finished.",
+          "verygood",
+          "Now it has better cars, a bus, and many more things. (check it out)"
+        ],
+        [
+          "Added a channel bar to the chat",
+          "verygood",
+          "Roblox brought back this feature. It hasn't been in CWRPF since 2022-23."
+        ],
+        [
+          "Updated the phone prop GUI (same as baconifyUI but no blurs)",
+          "verygood",
+          ""
+        ],
+        [
+          "Implemented multiple map zones and areas.",
+          "good",
+          "Mainly made for large maps like the city map."
+        ],
+        [
+          "Fixed an issue where the image and audio library don't work.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Fixed an issue where the padding between player headshot and morph were broken.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Transfer points and high graphics option sunsetting.",
+          "okay",
+          "No one uses these features and/or they're broken."
+        ],
+        [
+          "Improved quality of some maps.",
+          "good",
+          "This includes adding better outlines/borders for some elements and better positioning/aligning."
+        ]
+      ]
+    },
+    {
+      "id": 24110901,
+      "title": "V4.49.38 Release Notes",
+      "date": "November 9, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Fixed game-breaking bugs, unfinished update",
+      "updates": [
+        [
+          "Added 3 new maps: Sprunki background, Sprunki horror background, and City (work in progress).",
+          "good",
+          "Keep in mind that the city map is unfinished and is mostly empty."
+        ],
+        [
+          "Fixed an issue where search bar is unusable.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Fixed an issue where the lobby season system didn't update properly for winter.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Candy hunt event sunsetting.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Improved quality of some maps.",
+          "good",
+          "This includes adding better outlines/borders for some elements and better positioning/aligning."
+        ]
+      ]
+    },
+    {
+      "id": 24102001,
+      "title": "V4.49.31 Release Notes",
+      "date": "October 20, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Fixed game-breaking bugs.",
+      "updates": [
+        [
+          "Fixed an issue where permanently banned players get automatically unbanned.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Fixed an issue where staff can't close the ban gui.",
+          "good",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24101901,
+      "title": "V4.49.30 Release Notes",
+      "date": "October 19, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Big update and halloween event.",
+      "updates": [
+        [
+          "Candy Hunt event is here! (Until November 1) Earn 15-40 points per candy.",
+          "verygood",
+          "No description available."
+        ],
+        [
+          "Fixed an issue where the glow effect is way too bright.",
+          "good",
+          "This was caused by Roblox's new Lighting system."
+        ],
+        [
+          "Some UI revamps.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Revamped stats bar. (FPS, Points, etc.)",
+          "good",
+          "No description available."
+        ],
+        [
+          "Revamped topbar. (new icons, can position to right)",
+          "good",
+          "No description available."
+        ],
+        [
+          "Improved player list (shows max. 4 badges, fixed animations, username can be copied)",
+          "good",
+          "No description available."
+        ],
+        [
+          "Added more customization to the booths. (show image, text, both, or none, image scale type, booth color)",
+          "good",
+          "No description available."
+        ],
+        [
+          "Fixed GUI icons.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Implemented a feature where the lobby theme changes based on the season and event. (winter, new years, christmas, fall, default)",
+          "good",
+          "No description available."
+        ],
+        [
+          "Fixed an issue where extra props from the old lobby are still available in the new lobby.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Improved the admin system. (new ban GUI, Roblox Ban API)",
+          "good",
+          "No description available."
+        ],
+        [
+          "Added more features to the CWRPF framework. (color changer, select values)",
+          "good",
+          "No description available."
+        ],
+        [
+          "Added a 'reset configurations' option in settings.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Maybe other stuff i didn't include here (forgot).",
+          "good",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24092901,
+      "title": "V4.49.27 Release Notes",
+      "date": "September 29, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "1 small improvement.",
+      "updates": [
+        [
+          "Fixed an issue where the player list sometimes doesn't work.",
+          "good",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24092201,
+      "title": "V4.49.26 Release Notes",
+      "date": "September 22, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "1 small improvement.",
+      "updates": [
+        [
+          "Added more blacklisted keywords to the image library.",
+          "good",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24092201,
+      "title": "V4.49.25 Release Notes",
+      "date": "September 22, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Major fixes and some revamps.",
+      "updates": [
+        [
+          "Revamped the maps GUI.",
+          "verygood",
+          "Added category and creator info, and brand new layout."
+        ],
+        [
+          "Improved icons/badges in the player list and player info. ",
+          "good",
+          "No description available."
+        ],
+        [
+          "Fixed an issue where the inventory is visible despite being closed. ",
+          "verygood",
+          "No description available."
+        ],
+        [
+          "Fixed an issue where the morph GUi is broken sometimes. ",
+          "good",
+          "No description available."
+        ],
+        [
+          "Fixed an issue where booths are still claimed even if the player left. ",
+          "good",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24092001,
+      "title": "V4.49.20 Release Notes",
+      "date": "September 20, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Some major improvements and fixes.",
+      "updates": [
+        [
+          "Revamped the lobby and added booths/stands.",
+          "verygood",
+          "First full lobby redesign/revamp in CWRPF."
+        ],
+        [
+          "Fixed an issue where the player list doesn't work sometimes. ",
+          "verygood",
+          "No description available."
+        ],
+        [
+          "Fixed an issue where the inventory/backpack hotbar has broken scaling. ",
+          "verygood",
+          "No description available."
+        ],
+        [
+          "When opening the morph GUI first time, the image library will be shown instead of CW morphs. ",
+          "good",
+          "No description available."
+        ],
+        [
+          "Implemented an add/remove promocode command, owner only. ",
+          "good",
+          "No description available."
+        ],
+        [
+          "Improved the UI scale system. ",
+          "good",
+          "On Desktop/Tablet, the default UI scale is 0.9. On Mobile, it's 1.25. Customized values are only applied for the current device type (e.g. Desktop)."
+        ]
+      ]
+    },
+    {
+      "id": 24080101,
+      "title": "V4.49.10 Release Notes",
+      "date": "August 1, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Major fixes.",
+      "updates": [
+        [
+          "Fixed an issue where people don't earn points.",
+          "verygood",
+          "Made a mistake in the points script which made it unusable."
+        ],
+        [
+          "Descriptions with no description will not be shown in the changelog. ",
+          "verygood",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24072301,
+      "title": "V4.49.9 Release Notes",
+      "date": "July 23, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "supporter+ gamepass and fixes",
+      "updates": [
+        [
+          "Replaced supporter+ subscription with gamepass.",
+          "verygood",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24070201,
+      "title": "V4.49.8 Release Notes",
+      "date": "July 2, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Major bug fixes..",
+      "updates": [
+        [
+          "Fixed an issue where the image and audio library don't work.",
+          "verygood",
+          "Blacklisted IDs caused this issue."
+        ],
+        [
+          "Fixed an issue where Amburn falsely bans people sometimes.",
+          "verygood",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24061901,
+      "title": "V4.49.7 Release Notes",
+      "date": "June 19, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Yet another small update.",
+      "updates": [
+        [
+          "Added a blacklist image/audio system.",
+          "verygood",
+          "Staff can now blacklist images or audios using the blacklistid command. Example: blkid 12345,123456,772727"
+        ]
+      ]
+    },
+    {
+      "id": 24061401,
+      "title": "V4.49.6 Release Notes",
+      "date": "June 14, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Small update.",
+      "updates": [
+        [
+          "Added MDify (RichText) to the chat.",
+          "verygood",
+          "Supported syntax: **Bold**, *Italic*, ***Bold&Italic***, ~~Striketrough~~, `code`, __Underline__, ==highlighting==, :emoji:"
+        ],
+        [
+          "Fixed the version value.",
+          "verygood",
+          "It was V4.49.9 (not accurate), but now, it's V4.49.5."
+        ]
+      ]
+    },
+    {
+      "id": 24061201,
+      "title": "V4.49.5 Release Notes",
+      "date": "June 12, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Anniversary update, fixes, improvements, etc.",
+      "updates": [
+        [
+          "Added the anniversary badge and lobby props.",
+          "good",
+          "If you join this experience during June 12-13, you'll get an anniversary badge."
+        ],
+        [
+          "Updated Bacon's catalog.",
+          "verygood",
+          "Added more audios to the bacon's catalog in the audio library."
+        ],
+        [
+          "Fixed issues with the audio library.",
+          "good",
+          "This includes the close button not working for exclusive audios, no results text not showing up, etc."
+        ],
+        [
+          "Added an option to disable auto-morph and topbar click effect when joining the experience.",
+          "verygood",
+          "No description available."
+        ],
+        [
+          "Fixed issues with the Amburn anti-cheat.",
+          "okay",
+          "Now it works."
+        ]
+      ]
+    },
+    {
+      "id": 24050701,
+      "title": "V4.49.2 Release Notes",
+      "date": "May 7, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Fixed the anti-cheat engine.",
+      "updates": [
+        [
+          "Fixed an issue where the anti-cheat system automatically bans you for using the fly command.",
+          "verygood",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24050601,
+      "title": "V4.49.1 Release Notes",
+      "date": "May 6, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "More bug fixes.",
+      "updates": [
+        [
+          "Added Amburn anti-cheat from Wonderstars.",
+          "verygood",
+          "We have implemented Amburn, Wonderstars's proprietary anti-cheat engine used in 2DIRP, to prevent exploit attempts."
+        ],
+        [
+          "Fixed a bug where the 'no results' text doesn't show up in the audio library.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Fixed a bug where the close button for exclusive audios isn't working.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Fixed a bug where the egg hunt event didn't fully end after May 1.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Fixed a bug where the co-owner tag shows up as [Tag] or nothing.",
+          "good",
+          "No description available."
+        ],
+        [
+          "Fixed a bug where featured images don't show up properly.",
+          "good",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24042301,
+      "title": "V4.49 Release Notes",
+      "date": "April 23, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "<s>Last update before V4.5 unless there are more bugs.</s>",
+      "updates": [
+        [
+          "Added 4 new fonts.",
+          "good",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24042101,
+      "title": "V4.47 Release Notes",
+      "date": "April 21, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "More fixes.",
+      "updates": [
+        [
+          "Fixed an issue where the report feature is broken.",
+          "good",
+          "It should work, but still partially broken."
+        ],
+        [
+          "Blacklisted more images.",
+          "good",
+          "Blacklisted several disturbing images which show up on the front page."
+        ]
+      ]
+    },
+    {
+      "id": 24040901,
+      "title": "V4.46 Release Notes",
+      "date": "April 9, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Small fixes.",
+      "updates": [
+        [
+          "Fixed an issue where report feature is broken.",
+          "good",
+          "Untested. Let us know if it's still broken."
+        ]
+      ]
+    },
+    {
+      "id": 24040301,
+      "title": "V4.45 Release Notes",
+      "date": "April 3, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Small fixes.",
+      "updates": [
+        [
+          "Fixed an issue where the RP Name placeholder (N/A) is visible.",
+          "good",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24040101,
+      "title": "V4.42 Release Notes",
+      "date": "April 1, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "TOMFOOLERY DAY AKA APRIL FOOLS.",
+      "updates": [
+        [
+          "The Egg Hunt event has been unveiled.",
+          "verygood",
+          "Available during April. Rewards can be collected until the end of May. Added a new egg: CaseOh Egg."
+        ],
+        [
+          "added tomfoolery day.",
+          "verygood",
+          "added tomfooleru day stuff and more and other stuff etc"
+        ],
+        [
+          "Improved some animations.",
+          "good",
+          "Improved the cooldown when rapidly opening and closing the menu. (small detail)"
+        ],
+        [
+          "Added the bean from 2D Image Roleplay's lobby.",
+          "good",
+          "Since Baconify Games is partnering with WonderStars, we decided to add the bean to the lobby which can be found in 2D Image Roleplay's lobby."
+        ]
+      ]
+    },
+    {
+      "id": 24032301,
+      "title": "V4.40 Release Notes",
+      "date": "March 23, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Small security fixes.",
+      "updates": [
+        [
+          "Blacklisted 2 users and fixed the blacklist system.",
+          "good",
+          "No description available."
+        ]
+      ]
+    },
+    {
+      "id": 24031101,
+      "title": "V4.38 Release Notes",
+      "date": "March 11, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Small fixes and improvements.",
+      "updates": [
+        [
+          "Fixed a few bugs.",
+          "good",
+          "Fixed an issue where user settings don't save and where the block feature doesn't work sometimes."
+        ]
+      ]
+    },
+    {
+      "id": 24030601,
+      "title": "V4.37 Release Notes",
+      "date": "March 6, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Fixed a major bug regarding the image library.",
+      "updates": [
+        [
+          "Fixed an issue where the image library doesn't load.",
+          "good",
+          "Fixed an issue where the image library, recent images, and favorite images don't load at all."
+        ]
+      ]
+    },
+    {
+      "id": 24030501,
+      "title": "V4.35 Release Notes",
+      "date": "March 5, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Yet another bug fix and improvement update.",
+      "updates": [
+        [
+          "V4.5 is coming in a few weeks or months.",
+          "verygood",
+          "V4.5 aka the next major update will feature a new lobby, improved UIs, brand new name & look, etc."
+        ],
+        [
+          "Removal of christmas props.",
+          "kindabad",
+          "Changed the winter lobby to the regular lobby and removed christmas props."
+        ],
+        [
+          "Fixed some bugs and issue.",
+          "good",
+          "Fixed some bugs reported by players for better experience, including broken settings, props volume not saving, etc."
+        ],
+        [
+          "Added unlimited recent images slots.",
+          "good",
+          "This might fix some issues related to recent images not saving."
+        ],
+        [
+          "Improved animations.",
+          "good",
+          "Improved notification (default) and image, audio library & morph UI (search and preferences button) animations (usually cooldown and snapiness)."
+        ]
+      ]
+    },
+    {
+      "id": 24021601,
+      "title": "V4.27 Release Notes",
+      "date": "February 16, 2024",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Major bug fixes for CWRPF. This is the last update before the next major update V4.5 releases. (Unless more bugs or issues are found)",
+      "updates": [
+        [
+          "Fixed many bugs and issue.",
+          "good",
+          "Fixed many bugs reported by players for better experience."
+        ]
+      ]
+    },
+    {
+      "id": 23123101,
+      "title": "V4.22 Release Notes",
+      "date": "December 31, 2023",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Small improvements and features for CWRPF.",
+      "updates": [
+        [
+          "Fixed some bugs.",
+          "good",
+          "Fixed UIs etc."
+        ],
+        [
+          "<s>Added a feature where the player list color is based on the headshot color.</s>",
+          "good",
+          "Since Roblox implemented EditableImage, we decided to use it here (removed because it's still in beta and not available in-game yet). More coming soon."
+        ],
+        [
+          "Added a new year countdown.",
+          "good",
+          "Since 2023 is ending, we decided to add a new year countdown. It also has been revamped."
+        ]
+      ]
+    },
+    {
+      "id": 23112601,
+      "title": "V4.16 Major improvements",
+      "date": "November 26, 2023",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Major fixes & improvements for CWRPF.",
+      "updates": [
+        [
+          "Migrated the changelog to a UI.",
+          "verygood",
+          "We have decided to migrate the changelog from the lobby to a UI for easier access."
+        ],
+        [
+          "Added over 10 morphs from the upcoming Go!Animate movie.",
+          "verygood",
+          "Added about 13 morphs from the upcoming Go!Animate movie. This includes Ms. Mouth, Ground, Brian Schmidt, Richie Verdi, Mateo, Limmy, Grayson, etc."
+        ],
+        [
+          "<s>Renamed the experience to 'Go!Animate Roleplay'.</s>",
+          "verygood",
+          "Since we added non-comedy world morphs, we decided to rename this experience to 'Go!Animate Roleplay'. <b>This brought worse reputation to the game so we decided to revert the name back.</b>"
+        ],
+        [
+          "Updated the changelog system.",
+          "good",
+          "Added image banner, descriptions, cleaner UI, etc."
+        ],
+        [
+          "Added a supporter+! subscription.",
+          "good",
+          "Roblox recently released a subscription feature so we decided to add a supporter+! subscription with more perks for $2.99/month."
+        ],
+        [
+          "Fixed some bugs.",
+          "good",
+          "This includes UI lags, UI color customization interfering with some UIs, morph system being partially broken for certain avatar sizes, props/decorations not being anchored, etc."
+        ]
+      ]
+    },
+    {
+      "id": 23101601,
+      "title": "Older Updates",
+      "date": "October 16, 2023",
+      "imageBanner": "",
+      "bannerColor": "#ffffff",
+      "description": "Previous updates before full changelog UI.",
+      "updates": [
+        [
+          "Fixed a bug where the report feature doesn't work (V4.15).",
+          "good",
+          ""
+        ],
+        [
+          "Probably fixed a bug where the agree button is not working in the rules UI (V4.15).",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where entering a page value temporarily breaks the audio library (V4.15).",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where you can't favorite an image/audio on the 2nd time (V4.15).",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where the image library marketplace is unusable after switching to the favorites/recent tab (V4.13).",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where the animation speed doesn't apply properly for some UI elements.",
+          "good",
+          ""
+        ],
+        [
+          "Improved the phone prop UI a bit (V4.12). Fixed the UI scaling (V4.13)",
+          "good",
+          ""
+        ],
+        [
+          "Changed the lobby theme to winter.",
+          "good",
+          ""
+        ],
+        [
+          "Partially fixed UI Scale customization and Overhead UI.",
+          "good",
+          ""
+        ],
+        [
+          "Improved the update log layout (json) so adding new logs is way easier.",
+          "good",
+          ""
+        ],
+        [
+          "Partially fixed the overhead UI and map teleport system.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where the hint text for the player list button didn't show up.",
+          "good",
+          ""
+        ],
+        [
+          "Added immersive ads. (not sure if they will work)",
+          "good",
+          ""
+        ],
+        [
+          "Added more supporter perks. Larger image size (up to 15) and expanded RP name limit.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed an issue where players couldn't find the brick egg.",
+          "good",
+          ""
+        ],
+        [
+          "Added a chat tag color command (for rank 3 and higher).",
+          "good",
+          ""
+        ],
+        [
+          "Probably fixed a bug where the overhead UI's offset is set to way different values (i.e. it appears at the bottom) or doesn't show up.",
+          "good",
+          ""
+        ],
+        [
+          "Removed topbar icon color customization due to a bug causing it to change to random colors.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where sliders/progress bars have a smaller maximum value than expected.",
+          "good",
+          ""
+        ],
+        [
+          "Added haptic feedback for topbar buttons and notifications (you can toggle it in settings).",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where some toggles aren't applying options properly.",
+          "good",
+          ""
+        ],
+        [
+          "Partially fixed a bug where the topbar icon color changes to a random color.",
+          "good",
+          ""
+        ],
+        [
+          "Added UI color customization support for the chat UI.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where the player info breaks in some cases.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where the overhead UI adder script fails to find the player's character.",
+          "good",
+          ""
+        ],
+        [
+          "You can join the legacy version of CWRP (stable) and the first version of CWRP ever. (In tunnel > more games)",
+          "good",
+          ""
+        ],
+        [
+          "Changing the UI scale breaks scrolling frames.",
+          "bad",
+          ""
+        ],
+        [
+          "Fixed a bug where the overhead UI breaks when is added again while applying the RP name while sitting.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where the offset value shows as 6 but is actually 0.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where hiding the front image ID hides it, but it shows as 'ID:'.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug when the audio ID is changed using the text box, the audio name is not applied.",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where the favorite button doesn't work in the image library..",
+          "good",
+          ""
+        ],
+        [
+          "Fixed a bug where selecting an audio from the audio library doesn't detect if it's favorited or not.",
+          "good",
+          ""
+        ]
+      ]
     }
-  ]
-},
-      {
-      "Title": "V4.49.27 Release Notes",
-      "Date": "September 29, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "1 small improvement.",
-      "Updates": [
-     {
-          "Update": "Fixed an issue where the player list sometimes doesn't work.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        }
-      ]
-},
-      {
-      "Title": "V4.49.26 Release Notes",
-      "Date": "September 22, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "1 small improvement.",
-      "Updates": [
-     {
-          "Update": "Added more blacklisted keywords to the image library.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        }
-      ]
-},
-     {
-      "Title": "V4.49.25 Release Notes",
-      "Date": "September 22, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Major fixes and some revamps.",
-      "Updates": [
-     {
-          "Update": "Revamped the maps GUI.",
-          "UpdateRating": "VeryGood",
-          "Description": "Added category and creator info, and brand new layout."
-        },
-         {
-          "Update": "Improved icons/badges in the player list and player info. ",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-         {
-          "Update": "Fixed an issue where the inventory is visible despite being closed. ",
-          "UpdateRating": "VeryGood",
-          "Description": "No description available."
-        },
-           {
-          "Update": "Fixed an issue where the morph GUi is broken sometimes. ",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-         {
-          "Update": "Fixed an issue where booths are still claimed even if the player left. ",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        }
-      ]
-},
-    {
-      "Title": "V4.49.20 Release Notes",
-      "Date": "September 20, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Some major improvements and fixes.",
-      "Updates": [
-     {
-          "Update": "Revamped the lobby and added booths/stands.",
-          "UpdateRating": "VeryGood",
-          "Description": "First full lobby redesign/revamp in CWRPF."
-        },
-         {
-          "Update": "Fixed an issue where the player list doesn't work sometimes. ",
-          "UpdateRating": "VeryGood",
-          "Description": "No description available."
-        },
-         {
-          "Update": "Fixed an issue where the inventory/backpack hotbar has broken scaling. ",
-          "UpdateRating": "VeryGood",
-          "Description": "No description available."
-        },
-           {
-          "Update": "When opening the morph GUI first time, the image library will be shown instead of CW morphs. ",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-         {
-          "Update": "Implemented an add/remove promocode command, owner only. ",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-        {
-          "Update": "Improved the UI scale system. ",
-          "UpdateRating": "Good",
-          "Description": "On Desktop/Tablet, the default UI scale is 0.9. On Mobile, it's 1.25. Customized values are only applied for the current device type (e.g. Desktop)."
-        }
-      ]
-},
-{
-      "Title": "V4.49.10 Release Notes",
-      "Date": "August 1, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Major fixes.",
-      "Updates": [
-     {
-          "Update": "Fixed an issue where people don't earn points.",
-          "UpdateRating": "VeryGood",
-          "Description": "Made a mistake in the points script which made it unusable."
-        },
-         {
-          "Update": "Descriptions with no description will not be shown in the changelog. ",
-          "UpdateRating": "VeryGood",
-          "Description": "No description available."
-        }
-      ]
-},
-     {
-      "Title": "V4.49.9 Release Notes",
-      "Date": "July 23, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "supporter+ gamepass and fixes",
-      "Updates": [
-         {
-          "Update": "Replaced supporter+ subscription with gamepass.",
-          "UpdateRating": "VeryGood",
-          "Description": "No description available."
-        }
-      ]
-},
-      {
-      "Title": "V4.49.8 Release Notes",
-      "Date": "July 2, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Major bug fixes..",
-      "Updates": [
-     {
-          "Update": "Fixed an issue where the image and audio library don't work.",
-          "UpdateRating": "VeryGood",
-          "Description": "Blacklisted IDs caused this issue."
-        },
-         {
-          "Update": "Fixed an issue where Amburn falsely bans people sometimes.",
-          "UpdateRating": "VeryGood",
-          "Description": "No description available."
-        }
-      ]
-},
-    {
-      "Title": "V4.49.7 Release Notes",
-      "Date": "June 19, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Yet another small update.",
-      "Updates": [
-     {
-          "Update": "Added a blacklist image/audio system.",
-          "UpdateRating": "VeryGood",
-          "Description": "Staff can now blacklist images or audios using the blacklistid command. Example: blkid 12345,123456,772727"
-        }
-      ]
-},
-    {
-      "Title": "V4.49.6 Release Notes",
-      "Date": "June 14, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Small update.",
-      "Updates": [
-     {
-          "Update": "Added MDify (RichText) to the chat.",
-          "UpdateRating": "VeryGood",
-          "Description": "Supported syntax: **Bold**, *Italic*, ***Bold&Italic***, ~~Striketrough~~, `code`, __Underline__, ==highlighting==, :emoji:"
-        },
-            {
-          "Update": "Fixed the version value.",
-          "UpdateRating": "VeryGood",
-          "Description": "It was V4.49.9 (not accurate), but now, it's V4.49.5."
-        }
-        
-      ]
-},
-      {
-      "Title": "V4.49.5 Release Notes",
-      "Date": "June 12, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Anniversary update, fixes, improvements, etc.",
-      "Updates": [
-     {
-          "Update": "Added the anniversary badge and lobby props.",
-          "UpdateRating": "Good",
-          "Description": "If you join this experience during June 12-13, you'll get an anniversary badge."
-        },
-            {
-          "Update": "Updated Bacon's catalog.",
-          "UpdateRating": "VeryGood",
-          "Description": "Added more audios to the bacon's catalog in the audio library."
-        },
-            {
-          "Update": "Fixed issues with the audio library.",
-          "UpdateRating": "Good",
-          "Description": "This includes the close button not working for exclusive audios, no results text not showing up, etc."
-        },
-            {
-          "Update": "Added an option to disable auto-morph and topbar click effect when joining the experience.",
-          "UpdateRating": "VeryGood",
-          "Description": "No description available."
-        },
-            {
-          "Update": "Fixed issues with the Amburn anti-cheat.",
-          "UpdateRating": "Okay",
-          "Description": "Now it works."
-        }
-        
-      ]
-},
-    {
-      "Title": "V4.49.2 Release Notes",
-      "Date": "May 7, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Fixed the anti-cheat engine.",
-      "Updates": [
-         {
-          "Update": "Fixed an issue where the anti-cheat system automatically bans you for using the fly command.",
-          "UpdateRating": "VeryGood",
-          "Description": "No description available."
-        }
-      ]
-},
-    {
-      "Title": "V4.49.1 Release Notes",
-      "Date": "May 6, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "More bug fixes.",
-      "Updates": [
-         {
-          "Update": "Added Amburn anti-cheat from Wonderstars.",
-          "UpdateRating": "VeryGood",
-          "Description": "We have implemented Amburn, Wonderstars's proprietary anti-cheat engine used in 2DIRP, to prevent exploit attempts."
-        },
-       {
-          "Update": "Fixed a bug where the 'no results' text doesn't show up in the audio library.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-              {
-          "Update": "Fixed a bug where the close button for exclusive audios isn't working.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-         {
-          "Update": "Fixed a bug where the egg hunt event didn't fully end after May 1.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-              {
-          "Update": "Fixed a bug where the co-owner tag shows up as [Tag] or nothing.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        },
-              {
-          "Update": "Fixed a bug where featured images don't show up properly.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        }
-      ]
-},
- {
-      "Title": "V4.49 Release Notes",
-      "Date": "April 23, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "<s>Last update before V4.5 unless there are more bugs.</s>",
-      "Updates": [
-       {
-          "Update": "Added 4 new fonts.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        }
-      ]
-},
-    {
-      "Title": "V4.47 Release Notes",
-      "Date": "April 21, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "More fixes.",
-      "Updates": [
-       {
-          "Update": "Fixed an issue where the report feature is broken.",
-          "UpdateRating": "Good",
-          "Description": "It should work, but still partially broken."
-        },
-       {
-          "Update": "Blacklisted more images.",
-          "UpdateRating": "Good",
-          "Description": "Blacklisted several disturbing images which show up on the front page."
-        }
-      ]
-},
-   {
-      "Title": "V4.46 Release Notes",
-      "Date": "April 9, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Small fixes.",
-      "Updates": [
-       {
-          "Update": "Fixed an issue where report feature is broken.",
-          "UpdateRating": "Good",
-          "Description": "Untested. Let us know if it's still broken."
-        }
-      ]
-},
-{
-      "Title": "V4.45 Release Notes",
-      "Date": "April 3, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Small fixes.",
-      "Updates": [
-       {
-          "Update": "Fixed an issue where the RP Name placeholder (N/A) is visible.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        }
-      ]
-},
-{
-      "Title": "V4.42 Release Notes",
-      "Date": "April 1, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "TOMFOOLERY DAY AKA APRIL FOOLS.",
-      "Updates": [
-       {
-          "Update": "The Egg Hunt event has been unveiled.",
-          "UpdateRating": "VeryGood",
-          "Description": "Available during April. Rewards can be collected until the end of May. Added a new egg: CaseOh Egg."
-        },
-        {
-          "Update": "added tomfoolery day.",
-          "UpdateRating": "VeryGood",
-          "Description": "added tomfooleru day stuff and more and other stuff etc"
-        },
-        {
-          "Update": "Improved some animations.",
-          "UpdateRating": "Good",
-          "Description": "Improved the cooldown when rapidly opening and closing the menu. (small detail)"
-        },
-        {
-          "Update": "Added the bean from 2D Image Roleplay's lobby.",
-          "UpdateRating": "Good",
-          "Description": "Since Baconify Games is partnering with WonderStars, we decided to add the bean to the lobby which can be found in 2D Image Roleplay's lobby."
-        }
-      ]
-    },
- {
-      "Title": "V4.40 Release Notes",
-      "Date": "March 23, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Small security fixes.",
-      "Updates": [
-       {
-          "Update": "Blacklisted 2 users and fixed the blacklist system.",
-          "UpdateRating": "Good",
-          "Description": "No description available."
-        }
-      ]
-    },
-    {
-      "Title": "V4.38 Release Notes",
-      "Date": "March 11, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Small fixes and improvements.",
-      "Updates": [
-       {
-          "Update": "Fixed a few bugs.",
-          "UpdateRating": "Good",
-          "Description": "Fixed an issue where user settings don't save and where the block feature doesn't work sometimes."
-        }
-      ]
-    },
-    {
-      "Title": "V4.37 Release Notes",
-      "Date": "March 6, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Fixed a major bug regarding the image library.",
-      "Updates": [
-       {
-          "Update": "Fixed an issue where the image library doesn't load.",
-          "UpdateRating": "Good",
-          "Description": "Fixed an issue where the image library, recent images, and favorite images don't load at all."
-        }
-      ]
-    },
-    {
-      "Title": "V4.35 Release Notes",
-      "Date": "March 5, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Yet another bug fix and improvement update.",
-      "Updates": [
-        {
-          "Update": "V4.5 is coming in a few weeks or months.",
-          "UpdateRating": "VeryGood",
-          "Description": "V4.5 aka the next major update will feature a new lobby, improved UIs, brand new name & look, etc."
-        },
-        {
-          "Update": "Removal of christmas props.",
-          "UpdateRating": "KindaBad",
-          "Description": "Changed the winter lobby to the regular lobby and removed christmas props."
-        },
-        {
-          "Update": "Fixed some bugs and issue.",
-          "UpdateRating": "Good",
-          "Description": "Fixed some bugs reported by players for better experience, including broken settings, props volume not saving, etc."
-        },
-         {
-          "Update": "Added unlimited recent images slots.",
-          "UpdateRating": "Good",
-          "Description": "This might fix some issues related to recent images not saving."
-        },
-       {
-          "Update": "Improved animations.",
-          "UpdateRating": "Good",
-          "Description": "Improved notification (default) and image, audio library & morph UI (search and preferences button) animations (usually cooldown and snapiness)."
-        }
-      ]
-    },
-    {
-      "Title": "V4.27 Release Notes",
-      "Date": "February 16, 2024",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Major bug fixes for CWRPF. This is the last update before the next major update V4.5 releases. (Unless more bugs or issues are found)",
-      "Updates": [
-        {
-          "Update": "Fixed many bugs and issue.",
-          "UpdateRating": "Good",
-          "Description": "Fixed many bugs reported by players for better experience."
-        }
-      ]
-    },
-
-    {
-      "Title": "V4.22 Release Notes",
-      "Date": "December 31, 2023",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Small improvements and features for CWRPF.",
-      "Updates": [
-        {
-          "Update": "Fixed some bugs.",
-          "UpdateRating": "Good",
-          "Description": "Fixed UIs etc."
-        },
-        {
-          "Update": "<s>Added a feature where the player list color is based on the headshot color.</s>",
-          "UpdateRating": "Good",
-          "Description": "Since Roblox implemented EditableImage, we decided to use it here (removed because it's still in beta and not available in-game yet). More coming soon."
-        },
-        {
-          "Update": "Added a new year countdown.",
-          "UpdateRating": "Good",
-          "Description": "Since 2023 is ending, we decided to add a new year countdown. It also has been revamped."
-        }
-      ]
-    },
-    {
-      "Title": "Lack Of Updates",
-      "Date": "Lack Of Updates",
-      "ImageBanner": "rbxassetid://16487023403",
-      "BannerColor": "#ffffff",
-      "Description": "Information regarding lack of updates, development, etc. from the creator.",
-      "Updates": [
-        {
-          "Update": "Why is that?",
-          "UpdateRating": "KindaBad",
-          "Description": "I have to work on other games & commissions, IRL stuff, school, etc. and I keep procrastinating. I apologize for the lack of updates. This includes other games I'm working on."
-        }
-      ]
-    },
-    {
-      "Title": "V4.16 Major improvements",
-      "Date": "November 26, 2023",
-      "ImageBanner": "rbxassetid://16486648968",
-      "BannerColor": "#ffffff",
-      "Description": "Major fixes & improvements for CWRPF.",
-      "Updates": [
-        {
-          "Update": "Migrated the changelog to a UI.",
-          "UpdateRating": "VeryGood",
-          "Description": "We have decided to migrate the changelog from the lobby to a UI for easier access."
-        },
-        {
-          "Update": "Added over 10 morphs from the upcoming Go!Animate movie.",
-          "UpdateRating": "VeryGood",
-          "Description": "Added about 13 morphs from the upcoming Go!Animate movie. This includes Ms. Mouth, Ground, Brian Schmidt, Richie Verdi, Mateo, Limmy, Grayson, etc."
-        },
-        {
-          "Update": "<s>Renamed the experience to 'Go!Animate Roleplay'.</s>",
-          "UpdateRating": "VeryGood",
-          "Description": "Since we added non-comedy world morphs, we decided to rename this experience to 'Go!Animate Roleplay'. <b>This brought worse reputation to the game so we decided to revert the name back.</b>"
-        },
-        {
-          "ImageID": "rbxassetid://14108571082",
-          "UpdateRating": "Image",
-          "Color": "#ffffff"
-        },
-        {
-          "Update": "Updated the changelog system.",
-          "UpdateRating": "Good",
-          "Description": "Added image banner, descriptions, cleaner UI, etc."
-        },
-        {
-          "Update": "Added a supporter+! subscription.",
-          "UpdateRating": "Good",
-          "Description": "Roblox recently released a subscription feature so we decided to add a supporter+! subscription with more perks for $2.99/month."
-        },
-        {
-          "Update": "Fixed some bugs.",
-          "UpdateRating": "Good",
-          "Description": "This includes UI lags, UI color customization interfering with some UIs, morph system being partially broken for certain avatar sizes, props/decorations not being anchored, etc."
-        }
-      ]
-    }
-  ],
-  "Updates": [
-    { "Update": "November 4, 2023", "UpdateRating": "UpdateDate"},
-    { "Update": "Fixed a bug where the report feature doesn't work (V4.15).", "UpdateRating": "Good"},
-    { "Update": "Probably fixed a bug where the agree button is not working in the rules UI (V4.15).", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where entering a page value temporarily breaks the audio library (V4.15).", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where you can't favorite an image/audio on the 2nd time (V4.15).", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where the image library marketplace is unusable after switching to the favorites/recent tab (V4.13).", "UpdateRating": "Good"},
-    { "Update": "Fixed an issue where the animation speed doesn't apply properly for some UI elements.", "UpdateRating": "Good"},
-    { "Update": "Improved the phone prop UI a bit (V4.12). Fixed the UI scaling (V4.13)", "UpdateRating": "Good"},
-    { "Update": "Changed the lobby theme to winter.", "UpdateRating": "Good"},
-    { "Update": "Partially fixed UI Scale customization and Overhead UI.", "UpdateRating": "Good"},
-    { "Update": "October 30, 2023", "UpdateRating": "UpdateDate"},
-    { "Update": "Improved the update log layout (json) so adding new logs is way easier.", "UpdateRating": "Good"},
-    { "Update": "Partially fixed the overhead UI and map teleport system.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where the hint text for the player list button didn't show up.", "UpdateRating": "Good"},
-    { "Update": "Added immersive ads. (not sure if they will work)", "UpdateRating": "Good"},
-    { "Update": "Added more supporter perks. Larger image size (up to 15) and expanded RP name limit.", "UpdateRating": "Good"},
-    { "Update": "Fixed an issue where players couldn't find the brick egg.", "UpdateRating": "Good"},
-    { "Update": "October 21, 2023", "UpdateRating": "UpdateDate"},
-    { "Update": "Added a chat tag color command (for rank 3 and higher).", "UpdateRating": "Good"},
-    { "Update": "Probably fixed a bug where the overhead UI's offset is set to way different values (i.e. it appears at the bottom) or doesn't show up.", "UpdateRating": "Good"},
-    { "Update": "Removed topbar icon color customization due to a bug causing it to change to random colors.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where sliders/progress bars have a smaller maximum value than expected.", "UpdateRating": "Good"},
-    { "Update": "Added haptic feedback for topbar buttons and notifications (you can toggle it in settings).", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where some toggles aren't applying options properly.", "UpdateRating": "Good"},
-    { "Update": "Partially fixed a bug where the topbar icon color changes to a random color.", "UpdateRating": "Good"},
-    { "Update": "Added UI color customization support for the chat UI.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where the player info breaks in some cases.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where the overhead UI adder script fails to find the player's character.", "UpdateRating": "Good"},
-    { "Update": "October 20, 2023", "UpdateRating": "UpdateDate"},
-    { "Update": "You can join the legacy version of CWRP (stable) and the first version of CWRP ever. (In tunnel > more games)", "UpdateRating": "Good"},
-    { "Update": "October 19, 2023", "UpdateRating": "UpdateDate"},
-    { "Update": "Changing the UI scale breaks scrolling frames.", "UpdateRating": "Bad"},
-    { "Update": "Fixed a bug where the overhead UI breaks when is added again while applying the RP name while sitting.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where the offset value shows as 6 but is actually 0.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where hiding the front image ID hides it, but it shows as 'ID:'.", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug when the audio ID is changed using the text box, the audio name is not applied.", "UpdateRating": "Good"},
-    {  "Update": "Fixed a bug where the favorite button doesn't work in the image library..", "UpdateRating": "Good"},
-    { "Update": "Fixed a bug where selecting an audio from the audio library doesn't detect if it's favorited or not.", "UpdateRating": "Good"},
-    { "Update": "October 16, 2023", "UpdateRating": "UpdateDate"}
   ]
 }
