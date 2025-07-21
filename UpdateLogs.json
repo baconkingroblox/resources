@@ -1,6 +1,26 @@
 {
   "latest": 25072001,
   "list": [
+     {
+      "id": 25072101,
+      "title": "V4.49k Release Notes",
+      "date": "July 21 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Fixed game-breaking bugs.",
+      "updates": [
+        [
+          "Fixed issues related to the morph GUI.",
+          "good",
+          ""
+        ],
+        [
+          "Other small fixes.",
+          "good",
+          "Materials, scroll frames, etc."
+        ]
+      ]
+    },
     {
       "id": 25072001,
       "title": "V4.49j Release Notes",
