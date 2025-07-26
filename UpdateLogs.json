@@ -1,6 +1,36 @@
 {
   "latest": 25072001,
   "list": [
+ {
+      "id": 25072602,
+      "title": "V4.49m Release Notes",
+      "date": "July 26 2025 (2)",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Optimization and fixes.",
+      "updates": [
+        [
+          "Done some optimization to the game.",
+          "good",
+          "Mainly physics (collision fidelity) and network."
+        ],
+        [
+          "Improved map teleporting.",
+          "good",
+          ""
+        ],
+           [
+          "Fixed an issue where the rules GUI didn't appear for some.",
+          "good",
+          ""
+        ],
+           [
+          "Fixed an issue where the market proximity prompt didn't show.",
+          "good",
+          ""
+        ]
+      ]
+    },
      {
       "id": 25072601,
       "title": "V4.49l Release Notes",
