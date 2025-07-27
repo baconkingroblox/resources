@@ -1,6 +1,31 @@
 {
   "latest": 25072001,
   "list": [
+     {
+      "id": 25072701,
+      "title": "V4.49n Release Notes",
+      "date": "July 27 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Optimization, fixes, new admin system.",
+      "updates": [
+        [
+          "Fixed a vulnerability that allowed exploiters to change everyone's data.",
+          "good",
+          "Affected RP names, morphs, etc. of players in a certain server."
+        ],
+        [
+          "Replaced HD Admin with Adonis Admin.",
+          "good",
+          "Migration of certain commands is still in progress."
+        ],
+           [
+          "Done some optimization to the game.",
+          "good",
+          ""
+        ]
+      ]
+    },
  {
       "id": 25072602,
       "title": "V4.49m Release Notes",
