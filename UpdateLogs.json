@@ -1,6 +1,31 @@
 {
   "latest": 25072001,
   "list": [
+       {
+      "id": 25072801,
+      "title": "V4.49o Release Notes",
+      "date": "July 28 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Optimization, fixes, improvements.",
+      "updates": [
+        [
+          "Expanded the hangout area and done some improvements in the lobby.",
+          "good",
+          "From 13 booths to 22. Small polishes."
+        ],
+        [
+          "Done some optimizations to the game.",
+          "good",
+          ""
+        ],
+           [
+          "Fixed some issues with Adonis Admin.",
+          "good",
+          ""
+        ]
+      ]
+    },
      {
       "id": 25072701,
       "title": "V4.49n Release Notes",
