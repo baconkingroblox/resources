@@ -1,6 +1,41 @@
 {
   "latest": 25072001,
   "list": [
+     {
+      "id": 25072801,
+      "title": "V4.49p Release Notes",
+      "date": "July 31 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Fixed game-breaking bugs, and optimization.",
+      "updates": [
+        [
+          "Fixed yet another issues with Adonis Admin. (i hope so)",
+          "good",
+          "From 13 booths to 22. Small polishes."
+        ],
+        [
+          "Disabled player collisions once again.",
+          "good",
+          "I recently implemented a vehicle-player collision system, and forgot to make some adjustments."
+        ],
+           [
+          "Done some optimization to the game.",
+          "good",
+          "Improved performance, Changing UI colors is faster, sliders are smoother, etc."
+        ],
+          [
+          "Fixed issues related to vehicles and other stuff.",
+          "good",
+          ""
+        ],
+             [
+          "Updated the partnerships screen in the lobby.",
+          "good",
+          ""
+        ]
+      ]
+    },
        {
       "id": 25072801,
       "title": "V4.49o Release Notes",
