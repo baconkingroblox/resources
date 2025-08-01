@@ -2,7 +2,52 @@
   "latest": 25072001,
   "list": [
      {
-      "id": 25072801,
+      "id": 25080201,
+      "title": "V4.49r Release Notes",
+      "date": "August 2 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Some improvements.",
+      "updates": [
+           [
+          "Made improvements to the filter system.",
+          "good",
+          "Better accuracy, fixed false-positives, etc."
+        ],
+          [
+          "Done some optimization to the game.",
+          "good",
+          ""
+        ]
+      ]
+    },
+     {
+      "id": 25080101,
+      "title": "V4.49q Release Notes",
+      "date": "August 1 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Fixed game-breaking bugs, and optimization.",
+      "updates": [
+           [
+          "Fixed issues with font customization.",
+          "good",
+          ""
+        ],
+          [
+          "Done some optimization to the game.",
+          "good",
+          ""
+        ],
+             [
+          "Other bug fixes.",
+          "good",
+          ""
+        ]
+      ]
+    },
+     {
+      "id": 25073101,
       "title": "V4.49p Release Notes",
       "date": "July 31 2025",
       "imageBanner": "rbxassetid://16486648968",
