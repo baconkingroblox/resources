@@ -1,6 +1,31 @@
 {
   "latest": 25072001,
   "list": [
+       {
+      "id": 25080202,
+      "title": "V4.49s Release Notes",
+      "date": "August 2 2025 (2)",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Some improvements etc etc.",
+      "updates": [
+           [
+          "Improved the city map.",
+          "good",
+          "Roads (material, markings, etc)"
+        ],
+          [
+          "Added more terms to the filter/word blacklist system.",
+          "good",
+          "As always, TMP puts community safety and player experience first."
+        ],
+          [
+          "Done some optimization to the game.",
+          "good",
+          ""
+        ]
+      ]
+    },
      {
       "id": 25080201,
       "title": "V4.49r Release Notes",
