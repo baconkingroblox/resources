@@ -1,7 +1,10 @@
-# Sounds Plugin by Baconify v0.9
+# Sounds Plugin by Baconify v0.93
 ## Supported versions*:
-- A-Chassis 1.6.6+ (tested)
-- A-Chassis 1.7.1+
+- A-Chassis 1.6.6
+- A-Chassis 1.7.1
+- A-Chassis 1.5
+- A-Chassis 6.81T
+- A-Chassis 6.52S2
 ## Features:
 - Engine, Exhaust, Turbo, Supercharger, BOV, and Transmission sounds
 - Uses the new Roblox Audio API
