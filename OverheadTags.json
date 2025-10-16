@@ -1,0 +1,129 @@
+{
+  "specialRanks": {
+    "mrflimflam": {
+      "text": "[Content Creator]",
+      "color": "#0EFFB7",
+      "rainbow": true,
+      "entireRainbow": false
+    },
+    "Leafception": {
+      "text": "[👑 Contest Winner 👑]",
+      "color": "#0EFFB7",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+    "Niestrat996": {
+      "text": "[👑 Contest Winner 👑]",
+      "color": "#0EFFB7",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+    "edgarfrancisco632": {
+      "text": "[👑 Contest Winner 👑]",
+      "color": "#0EFFB7",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+    "Niestrat998": {
+      "text": "[👑 Contest Winner 👑]",
+      "color": "#0EFFB7",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+    "b3e_leyy": {
+      "text": "[Content Creator]",
+      "color": "#0EFFB7",
+      "rainbow": true,
+      "entireRainbow": false
+    },
+    "anmanman_gizma": {
+      "text": "[👑 Contest Winner 👑]",
+      "color": "#0EFFB7",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+    "Remainings": {
+      "text": "[Content Creator]",
+      "color": "#0EFFB7",
+      "rainbow": true,
+      "entireRainbow": false
+    },
+    "RossPandaBlox": {
+      "text": "[Content Creator] [Founder of CWRP]",
+      "color": "#0EFFB7",
+      "rainbow": true,
+      "entireRainbow": false
+    },
+    "XXxxANDxxXX": {
+      "text": "[Content Creator]",
+      "color": "#0EFFB7",
+      "rainbow": true,
+      "entireRainbow": false
+    },
+    "OfficialFriendzy": {
+      "text": "[🔨 Developer 🔨]",
+      "color": "#0EFFB7",
+      "rainbow": true,
+      "entireRainbow": false
+    },
+    "RelicMelodies": {
+      "text": "[🔨 Developer 🔨]",
+      "color": "#0EFFB7",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+    "kingbj14jr": {
+      "text": "[🔨 Developer 🔨][Veteran]",
+      "color": "#0EFFB7",
+      "rainbow": true,
+      "entireRainbow": false
+    }
+  },
+  "staffRank": {
+    "2": {
+      "text": "[Staff Assistant]",
+      "color": "#FFFF6C",
+      "rainbow": false
+    },
+    "3": {
+      "text": "[Supervisor]",
+      "color": "#FFFF00",
+      "rainbow": false
+    },
+    "4": {
+      "text": "[🔨Admin Manager🔨]",
+      "color": "#78FF6C",
+      "rainbow": false
+    },
+    "5": {
+      "text": "[🔨Vice President Manager🔨]",
+      "color": "#48FF37",
+      "rainbow": false
+    },
+    "6": {
+      "text": "[🔨President Manager🔨]",
+      "color": "#2C9620",
+      "rainbow": false
+    },
+    "7": {
+      "text": "[🔨Senior President Manager🔨]",
+      "color": "#237619",
+      "rainbow": false
+    },
+    "8": {
+      "text": "[🔨Co-Owner👑]",
+      "color": "#0EBDC3",
+      "rainbow": false
+    },
+    "254": {
+      "text": "[🔨Alt | Owner👑]",
+      "color": "#3471FF",
+      "rainbow": true
+    },
+    "255": {
+      "text": "[🔨Owner👑]",
+      "color": "#3471FF",
+      "rainbow": true
+    }
+  }
+}
