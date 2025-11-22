@@ -2,18 +2,89 @@
 "latest": 25072501,
   "list": [
     {
-      "id": 25072501,
-      "title": "V4.49.50 Release Notes",
-      "date": "May 21 2025",
+      "id": 25121101,
+      "title": "V4.49t Release Notes",
+      "date": "December ?? 2025",
       "imageBanner": "rbxassetid://16486648968",
       "bannerColor": "#ffffff",
-      "description": "massive fixes.",
+      "description": "wip - Massive fixes and improvements. Not V4.5 yet.",
       "updates": [
         [
-          "update",
+          "Candy Hunt Event is here!",
+          "verygood",
+          "Was supposed to be during October, but delayed due to many tasks. Ends on December 20."
+        ],
+                [
+          "Revamped morph GUI",
+          "verygood",
+          "Fixed sizes, better user experience, and many more."
+        ],
+                [
+          "Revamped audio library/boombox system!",
+          "verygood",
+          "New UI, audio thumbnails, next/previous system, recents, crossfade, etc."
+        ],
+                        [
+          "Done many optimizations",
           "good",
-          "description"
+          "Optimizations to maps, scripts, etc. Tidying up backend to make development easier. Performance is improved. Bugs are fixed."
+        ],
+                        [
+          "Security improvements",
+          "good",
+          "This includes changes where new players won't be able to use private, recently created, moderated, or non-decal images."
+        ],
+                                [
+          "TMP is now available for console!",
+          "good",
+          "Controller/gamepad-specific controls were implemented, why not add support for console?"
+        ],
+                        [
+          "Implemented image spoilers.",
+          "good",
+          "You can now spoiler your morph (front/back side). To view it, click on the side(s) that say 'Spoiler'. This feature will be introduced to booths and image signs in future updates."
+        ],
+                        [
+          "Implemented 1-sided morph type",
+          "good",
+          "You can now have 1-sided morphs that follow your camera."
+        ],
+                        [
+          "Implemented spritesheet image type",
+          "good",
+          "You can now have animated morphs with states for walking, jumping, sitting, etc."
+        ],
+                        [
+          "Reworked vehicles",
+          "good",
+          "Better mobile controls, improved details/sounds, better handling. Currently done for the Mecredenz CLS55."
+        ],
+                        [
+          "Fixed non-working anti-cheat",
+          "good",
+          "It should work now."
+        ],
+                        [
+          "Fixed an issue where keybinds/controls activated when typing.",
+          "good",
+          "Roblox introduced changes to their engine without notice that caused this issue in many games."
+        ],
+                        [
+          "Fixed an issue where shadows and outlines were visible through morphs.",
+          "good",
+          ""
+        ],
+                        [
+          "Implemented typing status to the chat interface.",
+          "good",
+          ""
+        ],
+                        [
+          "Bus route system (job) - phase 1",
+          "good",
+          "Staff can spawn buses in the city map and do routes/shifts. No timetables yet. Stops and routes are currently limited, they will be expanded, fully functional, and available for all when the city map is expanded/big enough."
         ]
+        
       ]
     }
   ]
