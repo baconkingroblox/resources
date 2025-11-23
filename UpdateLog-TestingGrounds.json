@@ -24,6 +24,11 @@
           "verygood",
           "New UI, audio thumbnails, next/previous system, recents, crossfade, etc."
         ],
+                               [
+          "Overhauled the filter system",
+          "good",
+          "This includes certain bypassing methods and false positives where you couldn't say living room, skyscraper, etc."
+        ],
                         [
           "Done many optimizations",
           "good",
