@@ -2,6 +2,66 @@
   "latest": 25072001,
   "list": [
        {
+      "id": 25122801,
+      "title": "V4.49t Release Notes",
+      "date": "December 28 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Was supposed to be a major update, but too much work.",
+      "updates": [
+            [
+          "Overhauled the filter system",
+          "good",
+          "This includes certain bypassing methods and false positives where you couldn't say living room, skyscraper, etc."
+        ],
+          [
+          "Some security improvements",
+          "good",
+          "This includes changes where new players won't be able to use private, recently created, moderated, or non-decal images."
+        ],
+         [
+          "Reworked vehicles",
+          "good",
+          "Better mobile controls, better handling, improved details (CLS55), improved sounds (Perquen 900 GT, RS6/RS7, BNS Arc-M5)"
+        ],
+                                [
+          "Fixed an issue where shadows and outlines were visible through morphs.",
+          "good",
+          "Haven't fixed it for CW morphs yet."
+        ],
+          [
+          "Player info loads faster.",
+          "good",
+          ""
+        ],
+          [
+          "Fixed issues with the overhead GUI.",
+          "good",
+          "Should work most of the time, rainbow tags were fixed as well."
+        ],
+          [
+          "Fixed an issue where keybinds/controls activated when typing.",
+          "good",
+          "Roblox introduced changes to their engine without notice that caused this issue in many games."
+        ],
+                                [
+          "Preparing for the age-gating updates",
+          "good",
+          "Beginning from January 2026, users will be required to verify their age in order to chat, and will be only to chat within similar/close age grouos. The overhead (next to username) will indicate if the user can't globally chat, or can't communicate with you/you can't communicate with them. Messages sent from different age groups will show in the chat as hidden."
+        ],
+           [
+          "Implemented typing status to the chat interface.",
+          "good",
+          ""
+        ],
+          [
+          "Bus route system (job) - phase 1",
+          "good",
+          "Staff can spawn buses in the city map and do routes/shifts. No timetables yet. Stops and routes are currently limited, they will be expanded, fully functional, and available for all when the city map is expanded/big enough."
+        ]
+      ]
+    },
+       {
       "id": 25080202,
       "title": "V4.49s Release Notes",
       "date": "August 2 2025 (2)",
