@@ -1,6 +1,46 @@
 {
   "latest": 25072001,
   "list": [
+           {
+      "id": 25122802,
+      "title": "V4.49t Hotfix + info",
+      "date": "December 28 2025 (2)",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Hotfix and additional info.",
+      "updates": [
+            [
+          "Fixed false positives with the filter system",
+          "good",
+          ""
+        ],
+           [
+          "Fixed issues with RP name/bio",
+          "good",
+          ""
+        ],
+             [
+          "Fixed the muteradio command",
+          "good",
+          ""
+        ],
+             [
+          "Morphs and booths won't be affected by lighting",
+          "good",
+          ""
+        ],
+             [
+          "Other fixes",
+          "good",
+          "Such as vehicle controls, "
+        ],
+         [
+      "TMP chat markdown",
+      "info",
+      "***bold italic***\n*italic*\n**bold**\n~~strikethrough~~\n`code`\n__underline__\n==yellowish text==\n{{red: text}}\n{{blue: text}}\n{{green: text}}\n{{purple: text}}\n{{cyan: text}}\n!!orange text!!\n~grey text~\n^small text^\n#big text#\n$$italic font$$\n@@scary font@@\n||highwaygothic font||"
+    ]
+      ]
+    },
        {
       "id": 25122801,
       "title": "V4.49t Release Notes",
