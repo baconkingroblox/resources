@@ -34,11 +34,102 @@
           "good",
           "Such as vehicle controls, "
         ],
-         [
-      "TMP chat markdown",
-      "info",
-      "***bold italic***\n*italic*\n**bold**\n~~strikethrough~~\n`code`\n__underline__\n==yellowish text==\n{{red: text}}\n{{blue: text}}\n{{green: text}}\n{{purple: text}}\n{{cyan: text}}\n!!orange text!!\n~grey text~\n^small text^\n#big text#\n$$italic font$$\n@@scary font@@\n||highwaygothic font||"
-    ]
+        [
+  "TMP chat markdown",
+  "info",
+  "***bold italic***"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "*italic*"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "**bold**"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "~~strikethrough~~"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "`code`"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "__underline__"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "==yellowish text=="
+],
+[
+  "TMP chat markdown",
+  "info",
+  "{{red: text}}"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "{{blue: text}}"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "{{green: text}}"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "{{purple: text}}"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "{{cyan: text}}"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "!!orange text!!"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "~grey text~"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "^small text^"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "#big text#"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "$$italic font$$"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "@@scary font@@"
+],
+[
+  "TMP chat markdown",
+  "info",
+  "||highwaygothic font||"
+]
+
       ]
     },
        {
