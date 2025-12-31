@@ -1,6 +1,57 @@
 {
   "latest": 25072001,
   "list": [
+      {
+      "id": 25122301,
+      "title": "V4.49u Release Notes",
+      "date": "December 31 2025",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Last update of this year. Issue fixes.",
+      "updates": [
+                       [
+          "Happy New Year from TMP!",
+          "verygood",
+          "The main event will be from 10:00 PM - 2:00 AM (Polish Time / CET / GMT+1)."
+        ],
+            [
+          "Addressed false positives of the filter system",
+          "good",
+          "These words shouldn't be blocked anymore: scrapped, simple, etc."
+        ],
+          [
+          "Fixed issues where the RP name would not apply",
+          "good",
+          "Not sure if it's actually fixed. Let me know."
+        ],
+          [
+          "Fixed issues with the overhead GUI.",
+          "good",
+          "Positioning should be better."
+        ],
+          [
+          "Fixed issues regarding morphs.",
+          "good",
+          "This includes dissapearing morphs, and wrongly positioned morphs."
+        ],
+                                [
+          "Preparing for the age-gating updates (forgot to implement it earlier)",
+          "good",
+          "Beginning from January 2026, users will be required to verify their age in order to chat, and will be only to chat within similar/close age grouos. The overhead (next to username) will indicate if the user can't globally chat, or can't communicate with you/you can't communicate with them. Messages sent from different age groups will show in the chat as hidden."
+        ],
+                   [
+          "If you can't chat, RP Name/Bio and text sign features won't be available.",
+          "kindabad",
+          ""
+        ],
+           [
+          "Boombox ID now shows properly.",
+          "good",
+          ""
+        ]
+    
+      ]
+    },
            {
       "id": 25122802,
       "title": "V4.49t Hotfix + info",
