@@ -67,19 +67,19 @@
       "entireRainbow": false
     },
     "OfficialFriendzy": {
-      "text": "[🔨 Developer 🔨]",
+      "text": "[Developer🔨]",
       "color": "#0EFFB7",
       "rainbow": true,
       "entireRainbow": false
     },
-    "RelicMelodies": {
-      "text": "[🔨 Developer 🔨]",
+    "MrBalu0": {
+      "text": "[Developer🔨]",
       "color": "#0EFFB7",
       "rainbow": false,
       "entireRainbow": false
     },
     "kingbj14jr": {
-      "text": "[🔨 Developer 🔨][Veteran]",
+      "text": "[Veteran]",
       "color": "#0EFFB7",
       "rainbow": true,
       "entireRainbow": false
@@ -87,38 +87,33 @@
   },
   "staffRank": {
     "2": {
-      "text": "[Staff Assistant]",
-      "color": "#FFFF6C",
+      "text": "[Trial Mod]",
+      "color": "#2ecc71",
       "rainbow": false
     },
     "3": {
-      "text": "[Supervisor]",
-      "color": "#FFFF00",
-      "rainbow": false
-    },
-    "4": {
-      "text": "[🔨Admin Manager🔨]",
-      "color": "#78FF6C",
+      "text": "[Moderator]",
+      "color": "#f1c40f",
       "rainbow": false
     },
     "5": {
-      "text": "[🔨Vice President Manager🔨]",
-      "color": "#48FF37",
+      "text": "[Lead Admin🔨]",
+      "color": "#1abc9c",
       "rainbow": false
     },
     "6": {
-      "text": "[🔨President Manager🔨]",
-      "color": "#2C9620",
+      "text": "[Assistant Head Manager🔨]",
+      "color": "#11806a",
       "rainbow": false
     },
     "7": {
-      "text": "[🔨Senior President Manager🔨]",
-      "color": "#237619",
+      "text": "[Head Manager🔨]",
+      "color": "#1f8b4c",
       "rainbow": false
     },
     "8": {
-      "text": "[🔨Co-Owner👑]",
-      "color": "#0EBDC3",
+      "text": "[🔨Assistant Owner👑]",
+      "color": "#56d3da",
       "rainbow": false
     },
     "254": {
