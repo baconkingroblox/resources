@@ -3,6 +3,26 @@
   "list": [
       {
       "id": 25122301,
+      "title": "TMP Status Update",
+      "date": "January 3 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "TMP IS BACK ONLINE!",
+      "updates": [
+           [
+          "Removed staff-player communication override for age-gating.",
+          "bad",
+          "Nothing we can do about it other than removing it."
+        ],
+    [
+          "Backend fixes in order for this type of stuff not to happen anymore.",
+          "good",
+          ""
+        ]
+      ]
+    },
+      {
+      "id": 25122301,
       "title": "V4.49u Release Notes",
       "date": "December 31 2025",
       "imageBanner": "rbxassetid://16486648968",
