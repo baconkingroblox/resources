@@ -2,22 +2,27 @@
   "latest": 25072001,
   "list": [
       {
-      "id": 25122301,
+      "id": 26010301,
       "title": "TMP Status Update",
       "date": "January 3 2026",
       "imageBanner": "rbxassetid://16486648968",
       "bannerColor": "#ffffff",
-      "description": "TMP IS BACK ONLINE!",
+      "description": "TMP IS BACK ONLINE! Stability & Compliance Patch.",
       "updates": [
            [
-          "Removed staff-player communication override for age-gating.",
+          "Removed Staff-Player Chat Override.",
           "bad",
-          "Nothing we can do about it other than removing it."
+          "Required to comply with new Platform Safety Standards. Staff can no longer bypass age-gating blocks."
         ],
     [
-          "Backend fixes in order for this type of stuff not to happen anymore.",
+          "Critical Backend Security Fixes.",
           "good",
-          ""
+          "Patched internal systems to prevent future auto-moderation suspensions."
+        ],
+          [
+          "Upcoming: Non-Verbal RP Tools.",
+          "good",
+         "We are working on new items and emotes that allow you to express yourself and RP without text."
         ]
       ]
     },
