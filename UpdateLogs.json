@@ -1,6 +1,66 @@
 {
   "latest": 25072001,
   "list": [
+        {
+      "id": 26010301,
+      "title": "V4.49v Release Notes",
+      "date": "January 4 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Bug fixes, some new things",
+      "updates": [
+           [
+          "Fixed an issue where mute/lock icons wouldn't show on the overhead.",
+          "good",
+          ""
+        ],
+    [
+          "Text sign is now a starter prop.",
+          "good",
+          "If you can't chat, you'll have an emoji picker (curated list of emojis, image-based so it's compliant)"
+        ],
+          [
+          "Added new props: Question Mark, Gift, Riot Shield, and Money Bag.",
+          "good",
+         ""
+        ],
+         [
+          "Editing the image sign is now done via the morph GUI. ",
+          "good",
+         ""
+        ],
+         [
+          "Overhauled first person camera system for vehicles",
+          "good",
+         "Passengers can now go into first person mode (V on keyboard, R3 on controller, and a button for mobile users)\nSlight improvements (camera moves along with g-forces)"
+        ]
+         [
+          "Fixed some issues with the playerlist. Frames are now colored based on the avatar icon.",
+          "good",
+         ""
+        ],
+               [
+          "Fixed an issue where certain number/license plates would show up as placeholders. (US-123-nil)",
+          "good",
+         ""
+        ],
+               [
+          "Done some optimizations to the city and school map.",
+          "good",
+         ""
+        ],
+               [
+          "Playback speed is now limited to 0.8-1.2 to mitigate audio bypasses (chipmunk method)",
+          "good",
+         ""
+        ],
+        [
+          "[Staff] Fixed an issue where the staff room couldn't be teleported to.",
+          "good",
+         ""
+        ]
+      ]
+    },
       {
       "id": 26010301,
       "title": "TMP Status Update",
