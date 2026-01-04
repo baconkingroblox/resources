@@ -33,7 +33,7 @@
           "Overhauled first person camera system for vehicles",
           "good",
          "Passengers can now go into first person mode (V on keyboard, R3 on controller, and a button for mobile users)\nSlight improvements (camera moves along with g-forces)"
-        ]
+        ],
          [
           "Fixed some issues with the playerlist. Frames are now colored based on the avatar icon.",
           "good",
