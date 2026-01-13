@@ -1,6 +1,41 @@
 {
   "latest": 25072001,
   "list": [
+     {
+      "id": 26011301,
+      "title": "V4.49v Hotfix",
+      "date": "January 4 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Fixed game-breaking bugs.",
+      "updates": [
+           [
+          "Fixed an issue where player data wouldn't save or sometimes load.",
+          "good",
+          ""
+        ],
+ [
+          "Possibly fixed an issue where mute/lock icons wouldn't show on the overhead.",
+          "good",
+          ""
+        ],
+         [
+          "Fixed an issue where the player list becomes unresponsive.",
+          "good",
+          ""
+        ],
+         [
+          "Fixed map teleporting.",
+          "good",
+          ""
+        ],
+         [
+          "Fixed an issue where 'hidden by safety settings' messages wouldn't show.",
+          "good",
+          ""
+        ],
+      ]
+    },
         {
       "id": 26010401,
       "title": "V4.49v Release Notes",
