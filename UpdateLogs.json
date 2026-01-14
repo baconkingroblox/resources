@@ -2,9 +2,54 @@
   "latest": 25072001,
   "list": [
      {
+      "id": 26011401,
+      "title": "V4.49w Release Notes",
+      "date": "January 14 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Some patches and fixes.",
+      "updates": [
+           [
+          "Commands can be used without chat on non-keyboard devices.",
+          "good",
+          "There's now a button to open the console/command bar on the bottom right."
+        ],
+ [
+          "Modifying RP names/bios, booth text, and text signs no longer require you to chat.",
+          "verygood",
+          "I have reviewed Roblox's documentation again. Turns out this restriction wasn't needed."
+        ],
+         [
+          "Fixed issues with the player list.",
+          "good",
+          ""
+        ],
+         [
+          "The player list now has icons indicating regarding chat restrictions. See below.",
+          "good",
+          ""
+        ],
+         [
+          "About overhead/player icons and hidden messages (roblox's age segregation update):",
+          "good",
+          ""
+        ],
+         [
+          "🔒 and 'Hidden by safety settings' means you and the player can't communicate with you.",
+          "good",
+          ""
+        ],
+         [
+          "🔇 means the player can't chat at all.",
+          "good",
+          ""
+        ]
+      ]
+    },
+     {
       "id": 26011301,
       "title": "V4.49v Hotfix",
-      "date": "January 4 2026",
+      "date": "January 13 2026",
       "imageBanner": "rbxassetid://16486648968",
       "bannerColor": "#ffffff",
       "description": "Fixed game-breaking bugs.",
