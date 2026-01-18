@@ -2,6 +2,41 @@
   "latest": 25072001,
   "list": [
      {
+      "id": 26011801,
+      "title": "V4.49w Hotfix",
+      "date": "January 18 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Fixes. V4.5 is reserved for a major update. that's why we're doing v.4.49[letter]",
+      "updates": [
+           [
+          "Possibly fixed issues with data saving (playtime)",
+          "good",
+          ""
+        ],
+ [
+          "Fixed an issue where favoriting audios and certain audio library features didn't work",
+          "verygood",
+          "I have reviewed Roblox's documentation again. Turns out this restriction wasn't needed."
+        ],
+         [
+          "Fixed an issue where player list badges wouldn't load.",
+          "good",
+          ""
+        ],
+         [
+          "Auto morph has been fixed.",
+          "good",
+          ""
+        ],
+         [
+          "Done some improvements to vehicles. ",
+          "good",
+          "Mainly staff-only vehicles, vehicle sounds, and paint on the RS6 and RS7"
+        ]
+      ]
+    },
+     {
       "id": 26011401,
       "title": "V4.49w Release Notes",
       "date": "January 14 2026",
