@@ -1,6 +1,46 @@
 {
   "latest": 25072001,
   "list": [
+      {
+      "id": 26012501,
+      "title": "V4.49x Release Notes",
+      "date": "January 25 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Patches and fixes.",
+      "updates": [
+           [
+          "Fixed false positives with messages/text/queries being blocked.",
+          "good",
+          "Example. 'oh gosh its' and 'get water' would be blocked because they contain a bad word. Should no longer happen"
+        ],
+ [
+          "Fixed an issue where morphing while flying would result in the morph being wrongly positioned.",
+          "good",
+          ""
+        ],
+         [
+          "Fixed issues with the player list (unresponsive/not loading)",
+          "good",
+          ""
+        ],
+         [
+          "Done some small changes to the city map.",
+          "good",
+          "There's now a driving test yard next to the parking lot 2."
+        ],
+          [
+          "Made some UIs smaller.",
+          "good",
+          "They were too big. (notifications, inventory, etc)"
+        ],
+         [
+          "Overhauling moderation tools - Part 1",
+          "good",
+          "Doesn't bring much to regular players other than reports being more effective since it's more convenient for staff."
+        ]
+      ]
+    },
      {
       "id": 26011801,
       "title": "V4.49w Hotfix",
