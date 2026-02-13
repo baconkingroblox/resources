@@ -1,10 +1,13 @@
-# Sounds Plugin by Baconify v0.99
+# Sounds Plugin by Baconify v1.0
 ## Supported/tested versions:
 - A-Chassis 1.6.6
 - A-Chassis 1.7.1
 - A-Chassis 1.5
 - A-Chassis 6.81T
 - A-Chassis 6.52S2
+- NVNA Constraint Type: Motorcycle
+- A-Chassis 1.7.1M
+- Soulo's Bike Chassis
 ## Features:
 - Engine, Exhaust, Turbo, Supercharger, BOV, Intake, Burble, Ignition, and Transmission sounds
 - Uses the new Roblox Audio API
@@ -18,7 +21,7 @@
 ## Usage/Setup
 - Make sure CharacterSoundsUseNewApi is enabled/default in SoundService and/or UseAudioApi is enabled/default in VoiceChatService.
 - Place the **SoundSystem** folder into `A-Chassis Tune.Plugins`
-- Optional: Add parts named **Engine**, **Exhaust**, etc. inside `Car.Body` to position sounds, then adjust the parent name in the sound modules. If not found, it parents to DriveSeat.
+- Add parts named **Engine**, **Exhaust**, **Transmission**, etc. inside `Car.Body` to position sounds, then adjust the parent name in the sound modules. If not found, it parents to DriveSeat.
 
 
 ## Custom Sounds
