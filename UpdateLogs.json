@@ -1,6 +1,66 @@
 {
   "latest": 25072001,
   "list": [
+          {
+      "id": 26012501,
+      "title": "V4.49y Release Notes",
+      "date": "March 8 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "UI fixes, improvements/optimizations.",
+      "updates": [
+           [
+          "Fixed false positives with messages/text/queries being blocked.",
+          "good",
+          "Example. 'oh gosh its' and 'get water' would be blocked because they contain a bad word. Should no longer happen"
+        ],
+ [
+          "Done some optimization/performance improvements.",
+          "good",
+          "Morphs - crowded areas will lag less. And other stuff."
+        ],
+         [
+          "Added 2 new vehicles: BNS Arc-M5 E60, WV Hatch TDI",
+          "good",
+          ""
+        ],
+           [
+          "Enabled collision between most vehicles.",
+          "good",
+          "Stuff like pit maneuvers are now possible. Collisions may be disabled during certain events hosted by the creator (me)."
+        ],
+           [
+          "Done some improvements to vehicles.",
+          "good",
+          "CLS55: gauge cluster replaced, cluster and buttons now light up when low/high beams are on, instead of when 'running' lights are on."
+        ],
+           [
+          "Done some changes to vehicle performance/tune.",
+          "good",
+          "Working on 1:1/close to 1:1 vehicle performance/tune parity, such as 0-100km/h. Some vehicles will be slower, some faster. Not final."
+        ],
+          [
+          "Done some improvements to the morph and menu GUI.",
+          "good",
+          "Mainly sizing and layouts, so it's good on mobile and desktop."
+        ],
+         [
+          "Changed lighting style in lobby and city.",
+          "good",
+          "Might look better."
+        ],
+             [
+          "Overhead GUI rainbow tags are now a static gradient.",
+          "good",
+          ""
+        ],
+          [
+          "Fixed an issue where certain supporterM commands would make tools invisible.",
+          "good",
+          ""
+        ]
+      ]
+    },
       {
       "id": 26012501,
       "title": "V4.49x Release Notes",
