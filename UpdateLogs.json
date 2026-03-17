@@ -1,8 +1,33 @@
 {
   "latest": 25072001,
   "list": [
+     {
+      "id": 26031801,
+      "title": "V4.49z Release Notes",
+      "date": "March 18 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Probably the last update before V4.5.",
+      "updates": [
+           [
+          "The audio library has been revamped.",
+          "verygood",
+          "UI revamp, more features such as recent audios, repeat mode, next/previous, advanced search filters, dragging, minimizing.\nThe UI also themes based on audio album covers."
+        ],
+ [
+          "Fixed some false positives with messages/text being blocked.",
+          "good",
+          "Stuff like Spanish* or *combine* no longer gets blocked."
+        ],
+         [
+          "Fixed some other issues/bugs.",
+          "good",
+          ""
+        ]
+      ]
+    },
           {
-      "id": 26012501,
+      "id": 26030801,
       "title": "V4.49y Release Notes",
       "date": "March 8 2026",
       "imageBanner": "rbxassetid://16486648968",
