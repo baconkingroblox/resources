@@ -1,68 +1,332 @@
 [
-	["Genshin Impact", 6942501524, "ffaf82"],
-	["Bang Dream", 5188482117, "FF55BB"],
-	["Colorful Stage", 9437939973, "FFD806"],
-	["Cookie Run: Kingdom", 11643717064, "FFB47F"],
-	["Honkai: Star Rail", 12862915081, "FFAADD"],
-	["Ensemble Stars", 11143319022, "7F99FF"],
-	["D4DJ", 11238558636, "FFAF82"],
-	["FNF", 11192487947, "A5FFFD"],
-	["Minecraft", 9676276904, "A5FFFD"],
-	["Doors", 10839342491, "A5FFFD"],
-	["Hatsune Miku", 10760070448, "A5FFFD"],
-	["Spy x Family", 10694360196, "FFAADD"],
-	["Demon Slayer", 5444303526, "FFAADD"],
-	["Vocaloid", 26496801, "FFAF82"],
-	["Roblox", 7279137105, "DFA8FF"],
-	["Touhou", 14849376203, "FF667F"],
-	["Jujutsu Kaisen", 127745216102360, "FFFFFF"],
-	["Naruto", 412408097, "FFD806"],
-	["Chainsaw Man", 11778372908, "FFE884"],
-	["My Singing Monsters", 14290797169, "FFAF82"],
-	["Bleach", 106532080, "4FFFB8"],
-	["TPOT", 1166187983, "28a2ff"],
-	["Tennis Ball", 139745408, "f5f543"],
-	["Sonic.exe", 1584727036, "7F99FF"],
-	["Nextbot", 10662822008, "FFAA96"],
-	["BFDI", 11100830699, "FFD806"],
-	["BFB", 16140874424, "B4FF99"],
-	["Inanimate Insanity", 8852511079, "FFE884"],
-	["Murder Drones", 12612594807, "DFA8FF"],
-	["Mafumafu", 1475264294, "FFFFFF"],
-	["Dave and Bambi", 10834611394, "FF667F"],
-	["Mario", 1583217853, "FF667F"],
-	["Sonic", 12502975084, "7F99FF"],
-	["Omori", 7456109124, "FFFFFF"],
-	["HfjONE", 9856315205, "FFFF80"],
-	["Oshi no Ko", 14207517670, "C8A0FF"],
-	["TADC", 15107694296, "fff69b"],
-	["Azumanga Daioh", 13451493285, "FFC88D"],
-	["CFMOT", 11322564033, "FF9F51"],
-	["Emu Otori", 13269974453, "FFAADD"],
-	["Bocchi the Rock", 79273268206109, "FFAADD"],
-	["Nokotan", 18873054468, "FFC896"],
-	["Dandy's World", 18432489279, "FFFAC8"],
-	["Sprunki", 121290960730691, "ECECEC"],
-	["FNAF", 114421053482784, "ECECEC"],
-	["One Piece", 11479717689, "ECECEC"],
-	["Chill Guy", 97439101277944, "ECECEC"],
-	["Low Taper Fade", 70817891789008, "ECECEC"],
-	["Troll Face", 17838133869, "ECECEC"],
-	["Face", 13029433631, "ECECEC"],
-	["Sigma", 12563758520, "ECECEC"],
-	["Brainrot", 86770506142330, "ECECEC"],
-	["Deltarune", 7543329397, "ECECEC"],
-	["Undertale", 305066132, "ECECEC"],
-	["Rewrite", 94326014247050, "ECECEC"],
-	["BBU", 14370462007, "ECECEC"],
-	["Baldi", 1839467326, "ECECEC"],
-	["BFDIA", 14970312763, "ECECEC"],
-	["Cinnamoroll", 6410237831, "ECECEC"],
-	["SCP", 9859971171, "ECECEC"],
-	["KPop Demon Hunters", 87279189206700, "ECECEC"],
-	["Uma Musume", 7054182816, "ECECEC"],
-	["Frieren", 16029226114, "ECECEC"],
-	["Forsaken", 73797749790650, "ECECEC"],
-	["Hazbin Hotel", 4398359479, "FF667F"], 
-    ["TF2", 6973163380, "FF667F"]
+  [
+    "Genshin Impact",
+    6942501524,
+    "8c4448"
+  ],
+  [
+    "Bang Dream",
+    5188482117,
+    "c17c88"
+  ],
+  [
+    "Colorful Stage",
+    9437939973,
+    "a98593"
+  ],
+  [
+    "Cookie Run: Kingdom",
+    11643717064,
+    "2f292f"
+  ],
+  [
+    "Honkai: Star Rail",
+    12862915081,
+    "cb9cae"
+  ],
+  [
+    "Ensemble Stars",
+    11143319022,
+    "c3c0c0"
+  ],
+  [
+    "D4DJ",
+    11238558636,
+    "757172"
+  ],
+  [
+    "FNF",
+    11192487947,
+    "543840"
+  ],
+  [
+    "Minecraft",
+    9676276904,
+    "5b7c53"
+  ],
+  [
+    "Doors",
+    10839342491,
+    "1a3549"
+  ],
+  [
+    "Hatsune Miku",
+    10760070448,
+    "c8bec6"
+  ],
+  [
+    "Spy x Family",
+    10694360196,
+    "e2b5aa"
+  ],
+  [
+    "Demon Slayer",
+    5444303526,
+    "37363a"
+  ],
+  [
+    "Vocaloid",
+    26496801,
+    "cbc4b5"
+  ],
+  [
+    "Roblox",
+    7279137105,
+    "8f946d"
+  ],
+  [
+    "Touhou",
+    14849376203,
+    "a6b3db"
+  ],
+  [
+    "Jujutsu Kaisen",
+    127745216102360,
+    "675f85"
+  ],
+  [
+    "Naruto",
+    412408097,
+    "b1813d"
+  ],
+  [
+    "Chainsaw Man",
+    11778372908,
+    "ca9198"
+  ],
+  [
+    "My Singing Monsters",
+    14290797169,
+    "46392d"
+  ],
+  [
+    "Bleach",
+    106532080,
+    "5c82b5"
+  ],
+  [
+    "TPOT",
+    1166187983,
+    "172b43"
+  ],
+  [
+    "Tennis Ball",
+    139745408,
+    "8b932b"
+  ],
+  [
+    "Sonic.exe",
+    1584727036,
+    "332738"
+  ],
+  [
+    "Nextbot",
+    10662822008,
+    "76544a"
+  ],
+  [
+    "BFDI",
+    11100830699,
+    "ac6633"
+  ],
+  [
+    "BFB",
+    16140874424,
+    "c0c6c8"
+  ],
+  [
+    "Inanimate Insanity",
+    8852511079,
+    "6c6c3b"
+  ],
+  [
+    "Murder Drones",
+    12612594807,
+    "d5d1ce"
+  ],
+  [
+    "Mafumafu",
+    1475264294,
+    "5a5b63"
+  ],
+  [
+    "Dave and Bambi",
+    10834611394,
+    "3a1615"
+  ],
+  [
+    "Mario",
+    1583217853,
+    "503144"
+  ],
+  [
+    "Sonic",
+    12502975084,
+    "4f4d95"
+  ],
+  [
+    "Omori",
+    7456109124,
+    "171717"
+  ],
+  [
+    "HfjONE",
+    9856315205,
+    "d3c494"
+  ],
+  [
+    "Oshi no Ko",
+    14207517670,
+    "d6a796"
+  ],
+  [
+    "TADC",
+    15107694296,
+    "916563"
+  ],
+  [
+    "Azumanga Daioh",
+    13451493285,
+    "6d5e4a"
+  ],
+  [
+    "CFMOT",
+    11322564033,
+    "73533e"
+  ],
+  [
+    "Emu Otori",
+    13269974453,
+    "978ea6"
+  ],
+  [
+    "Bocchi the Rock",
+    79273268206109,
+    "998780"
+  ],
+  [
+    "Nokotan",
+    18873054468,
+    "939163"
+  ],
+  [
+    "Dandy's World",
+    18432489279,
+    "5f5950"
+  ],
+  [
+    "Sprunki",
+    121290960730691,
+    "636363"
+  ],
+  [
+    "FNAF",
+    114421053482784,
+    "141111"
+  ],
+  [
+    "One Piece",
+    11479717689,
+    "a28fb1"
+  ],
+  [
+    "Chill Guy",
+    97439101277944,
+    "d5d4cc"
+  ],
+  [
+    "Low Taper Fade",
+    70817891789008,
+    "746864"
+  ],
+  [
+    "Troll Face",
+    17838133869,
+    "181818"
+  ],
+  [
+    "Face",
+    13029433631,
+    "191113"
+  ],
+  [
+    "Sigma",
+    12563758520,
+    "302019"
+  ],
+  [
+    "Brainrot",
+    86770506142330,
+    "6d6b66"
+  ],
+  [
+    "Deltarune",
+    7543329397,
+    "4e4c49"
+  ],
+  [
+    "Undertale",
+    305066132,
+    "363636"
+  ],
+  [
+    "Rewrite",
+    94326014247050,
+    "403443"
+  ],
+  [
+    "BBU",
+    14370462007,
+    "462734"
+  ],
+  [
+    "Baldi",
+    1839467326,
+    "3f6b2d"
+  ],
+  [
+    "BFDIA",
+    14970312763,
+    "b7ccc3"
+  ],
+  [
+    "Cinnamoroll",
+    6410237831,
+    "dfe8e9"
+  ],
+  [
+    "SCP",
+    9859971171,
+    "2d2d2d"
+  ],
+  [
+    "KPop Demon Hunters",
+    87279189206700,
+    "8882af"
+  ],
+  [
+    "Uma Musume",
+    7054182816,
+    "90998b"
+  ],
+  [
+    "Frieren",
+    16029226114,
+    "b1c5d1"
+  ],
+  [
+    "Forsaken",
+    73797749790650,
+    "573b25"
+  ],
+  [
+    "Hazbin Hotel",
+    4398359479,
+    "dca9b9"
+  ],
+  [
+    "TF2",
+    6973163380,
+    "723f28"
+  ]
 ]
