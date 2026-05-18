@@ -1,6 +1,46 @@
 {
-  "latest": 25072001,
+  "latest": 26051801,
   "list": [
+      {
+      "id": 26051801,
+      "title": "V4.5 Release Notes",
+      "date": "May 18 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Phase 1 of the update everyone's been waiting for...\nStuff like city expansion, new vehicles, transit system, and features/revamps will come in the next phases.",
+      "updates": [
+           [
+          "The Multiverse Scavenger Hunt!",
+          "verygood",
+          "Ends on June 20. Explore & find hundreds of hidden eggs, and earn points!"
+        ],
+         [
+          "Introducing the spritesheet system",
+          "verygood",
+          "You can now have animated morphs, signs, and booths! For animated morphs, they support states (idle, walk, run, jump/fall, swim, climb) and emote/action slots.\n2 emote slots are free, get more with supporter memberships in market.\nYou can toggle whether to loop animations, play in reverse, flip, or be pixelated.\nFor states, you can have stills (1 row and column).\nEmotes are activated with the hotbar (toggle between inventory and emotes) with 1-0 keys, just like the inventory.\nStates and emotes are only for morphs. Idle/default state is applied to sign and booth.\nYou can also crop sprites (per state/emote) in case adjusting the main parameters isn't enough."
+        ],
+ [
+          "Revamped the morph GUI",
+          "verygood",
+          "The GUI has been improved. Better scaling across devices, UX improvements, and more.\nYou can also crop images.\nRP Name tab is now called Overhead.\nStroke transparency option replaced with 'Stroke Width'."
+        ],
+         [
+          "New morph system features",
+          "good",
+          "Spoiler images (press to reveal)\nflip back side of image\nand have 1-sided morph (camera-facing/nextbot-style)."
+        ],
+         [
+          "Bug fixes",
+          "good",
+          "Playerlist, audio library pages, changelogs text, Bus displays & IBIS, Adonis Admin logs window"
+        ],
+        [
+          "Changes to supporterM and +",
+          "okay",
+          "Fly2 command has been restricted to staff due to misuse.\nEarly-access buses have been restricted to supporter+."
+        ]
+      ]
+    },
      {
       "id": 26031801,
       "title": "V4.49z Release Notes",
