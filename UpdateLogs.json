@@ -1,6 +1,41 @@
 {
-  "latest": 26051801,
+  "latest": 26051901,
   "list": [
+      {
+      "id": 26051901,
+      "title": "V4.5a Release Notes",
+      "date": "May 19 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Bug and user experience fixes. Please let us know of other bugs - we will fix them.",
+      "updates": [
+           [
+          "Fixed playtime plummeting down (those who were affected now have it fixed)",
+          "verygood",
+          ""
+        ],
+         [
+          "Renamed certain options/tabs in the morph GUI (e.g. overhead > nametag, spritesheet > animation)",
+          "verygood",
+          "This might make them easier to find for some."
+         ],
+ [
+          "Added 3 premade spritesheet morphs for new players after this update.",
+          "verygood",
+          "2 of them which were submitted for the spritesheet contest event in the community server - by FortunateBenAlt, CitrusDarling362."
+        ],
+         [
+          "Fixed issues with font dropdowns not initializing in the morph > nametag gui",
+          "good",
+          ""
+        ],
+         [
+          "Fixed an issue where spritesheet auto-detect (when selecting certain marketplace images) got the parameters wrong.",
+          "good",
+          ""
+        ]
+      ]
+    },
       {
       "id": 26051801,
       "title": "V4.5 Release Notes",
