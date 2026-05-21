@@ -1,6 +1,56 @@
 {
   "latest": 26051901,
   "list": [
+     {
+      "id": 26052101,
+      "title": "V4.51 Release Notes",
+      "date": "May 21 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Bug fixes and onboarding improvement",
+      "updates": [
+           [
+          "Implenented a tutorial feature which guides you through the morph GUI.",
+          "verygood",
+          "Most people find it confusing, this should help them. Let us know if it doesn't."
+        ],
+         [
+          "Fixed an issue where unclaimed booths would leave the 'player's booth' text instead of resetting it.",
+          "good",
+          "This might make them easier to find for some."
+         ],
+ [
+          "Fixed an issue where nametag colors/fonts wouldn't save properly.",
+          "good",
+          ""
+        ],
+         [
+          "Fixed an issue where you couldn't morph into CW morphs",
+          "good",
+          ""
+        ],
+         [
+          "Fixed issues with the morph gui and other GUIs",
+          "good",
+          ""
+        ],
+             [
+          "Patched a vulnerability allowing new players to bypass image restictions by using animated image type.",
+          "good",
+          "We don't want 'them' to find out about this and shock everyone with bypassed decals..."
+        ],
+         [
+          "Fixed an issue where text sign couldn't be editable and eggs couldn't be collected after respawning sometimes.",
+          "good",
+          ""
+        ],
+           [
+          "Fixed issues with the chat window (whispering, etc)",
+          "good",
+          ""
+        ]
+      ]
+    },
       {
       "id": 26051901,
       "title": "V4.5a Release Notes",
