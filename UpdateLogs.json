@@ -1,6 +1,41 @@
 {
-  "latest": 26051901,
+  "latest": 26052201,
   "list": [
+     {
+      "id": 26052201,
+      "title": "V4.51a Release Notes",
+      "date": "May 22 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Some improvements and fixes.",
+      "updates": [
+                 [
+          "Added a photosensitivity mode in settings",
+          "good",
+          "Animated morphs, signs, and booths will be limited to 2 FPS to reduce flickering and rapid motion."
+         ],
+           [
+          "Improved the tutorial feature.",
+          "good",
+          "It now guides you more to avoid confusion."
+        ],
+ [
+          "Switching from static to animated will automatically set the front image to the default state if not configured/empty.",
+          "good",
+          ""
+        ],
+         [
+          "Chat has been fixed - OpenTextChatService reverted to TextChatService.",
+          "good",
+          ""
+        ],
+         [
+          "Pressing save in the configure animation window now closes the window.",
+          "good",
+          ""
+        ]
+      ]
+    },
      {
       "id": 26052101,
       "title": "V4.51 Release Notes",
