@@ -1,6 +1,46 @@
 {
-  "latest": 26052201,
+  "latest": 26052301,
   "list": [
+       {
+      "id": 26052301,
+      "title": "V4.51b Release Notes",
+      "date": "May 23 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Some improvements and fixes, again.",
+      "updates": [
+                 [
+          "Fixed an issue with auto morph and recent morph configurations not automatically applying after joining in the morph GUI.",
+          "good",
+          ""
+         ],
+           [
+          "Tutorial fixed - again.",
+          "good",
+          "Fixed auto scrolling, and improving it so it converts/funnels more players"
+        ],
+ [
+          "Fixed an issue where unequipping the behavior card prop would break the text sign editing gui.",
+          "good",
+          ""
+        ],
+         [
+          "Fixed issues with booth configuration.",
+          "good",
+          ""
+        ],
+         [
+          "Fixed issues with the morph GUI (crop drag, etc).",
+          "good",
+          ""
+        ],
+          [
+          "Topbar hints fixed.",
+          "good",
+          ""
+        ]
+      ]
+    },
      {
       "id": 26052201,
       "title": "V4.51a Release Notes",
