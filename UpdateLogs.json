@@ -1,6 +1,56 @@
 {
-  "latest": 26052301,
+  "latest": 26053101,
   "list": [
+         {
+      "id": 26053101,
+      "title": "V4.52 Release Notes",
+      "date": "May 31 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "More stuff and fixes",
+      "updates": [
+                 [
+          "You can now add sounds to sprite states/emotes.",
+          "verygood",
+          "muteradio will mute them as well."
+         ],
+           [
+          "New maps: Backrooms, Content Creator Room",
+          "good",
+          ""
+        ],
+ [
+          "5 new eggs. Collect them while the event is still here!",
+          "good",
+          "If you didn't know, when you collect an egg, you earn 15 points."
+        ],
+         [
+          "When morphing into an animated morph, if flashing is detected, the morph will be automatically spoilered to reduce epilepsy.",
+          "good",
+          "If false positives happen, let us know."
+        ],
+         [
+          "Booth images can be spoilered.",
+          "good",
+          ""
+        ],
+          [
+          "Spoilered morphs will only show the spoiler button/blur to other players.",
+          "good",
+          ""
+        ],
+         [
+          "Fixed an issue where sliding doors in the city map wouldn't detect morphs.",
+          "good",
+          ""
+        ],
+         [
+          "Fixed an issue with the likes board in the lobby showing incorrect values.",
+          "good",
+          ""
+        ]
+      ]
+    },
        {
       "id": 26052301,
       "title": "V4.51b Release Notes",
