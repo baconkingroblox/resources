@@ -25,9 +25,9 @@
           "If you didn't know, when you collect an egg, you earn 15 points."
         ],
          [
-          "When morphing into an animated morph, if flashing is detected, the morph will be automatically spoilered to reduce epilepsy.",
+          "<s>When morphing into an animated morph, if flashing is detected, the morph will be automatically spoilered to reduce epilepsy.</s>",
           "good",
-          "If false positives happen, let us know."
+          "False positives happened, this was removed."
         ],
          [
           "Booth images can be spoilered.",
