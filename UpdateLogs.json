@@ -1,6 +1,51 @@
 {
-  "latest": 26053101,
+  "latest": 26060501,
   "list": [
+       {
+      "id": 26060501,
+      "title": "V4.53 Release Notes",
+      "date": "June 5 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Morph saving/favoriting is here! + fixes/other stuff",
+      "updates": [
+                 [
+          "You can now take or apply someone's morph by clicking on them. The GUI also allows you to report the player.",
+          "verygood",
+          "You can disable copying in the morph GUI > right panel > image settings"
+         ],
+           [
+          "Share ID has been replaced with 'Allow Copying' (if disabled, other players won't be able to apply/take your morph.",
+          "good",
+          ""
+        ],
+ [
+          "Emote/state sounds limit has been increased to 15 seconds.",
+          "good",
+          ""
+        ],
+         [
+          "Fixed various issues with morph sounds.",
+          "good",
+          ""
+        ],
+         [
+          "You can now favorite morphs.",
+          "good",
+          ""
+        ],
+          [
+          "GUI Improvements: report, feedback, etc.",
+          "good",
+          ""
+        ],
+         [
+          "Sunsetted certain options from the settings to reduce clutter.",
+          "good",
+          "Topbar click effect, Click/notification/error sound IDs, notification style, UI Font weight, etc."
+        ]
+      ]
+    },
          {
       "id": 26053101,
       "title": "V4.52 Release Notes",
