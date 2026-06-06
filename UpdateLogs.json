@@ -1,6 +1,21 @@
 {
-  "latest": 26060501,
+  "latest": 26060701,
   "list": [
+      {
+      "id": 26060701,
+      "title": "V4.53a Release Notes",
+      "date": "June 7 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Rules GUI improvement. That's it for now! (tiny update yet so big)",
+      "updates": [
+                 [
+          "Rules GUI - Reduced agree timeout to 4 seconds and removed checking each rule for new players",
+          "verygood",
+          "Makes things easier for everyone!"
+         ]
+      ]
+    },
        {
       "id": 26060501,
       "title": "V4.53 Release Notes",
