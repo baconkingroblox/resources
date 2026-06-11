@@ -1,6 +1,46 @@
 {
-  "latest": 26060701,
+  "latest": 26061201,
   "list": [
+       {
+      "id": 26061201,
+      "title": "V4.54 Release Notes",
+      "date": "June 12 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Points economy updates: they finally have a purpose!",
+      "updates": [
+                 [
+          "Introducing consumable items",
+          "verygood",
+          "You buy certain amount of uses (e.g. 5 uses of bloxy cola) for points. Each time you activate the item, uses will run out."
+                 ],
+          [
+          "New items: Watermelon, Tom's Beans, Hot Chocolate, Smore, Cheeseburger",
+          "good",
+          "Expect more items soon!"
+          ],
+           [
+          "Done some improvements to the right panel of the morph GUI.",
+          "good",
+          "Makes things easier/understandable."
+         ],
+            [
+          "Fixed issues with morphing (delays, etc)",
+          "good",
+          ""
+         ],
+             [
+          "Fixed the 'void respawn' issue with morphs (e.g. when falling below destroy height)",
+          "good",
+          ""
+         ],
+          [
+          "Fixed issues with tutorial (if there were any)",
+          "good",
+          ""
+         ]
+      ]
+    },
       {
       "id": 26060701,
       "title": "V4.53a Release Notes",
