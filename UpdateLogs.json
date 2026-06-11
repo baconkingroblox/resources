@@ -20,6 +20,11 @@
           "Expect more items soon!"
           ],
            [
+          "Fixed prop volume not excluding local player, and morph sounds are now quieter.",
+          "good",
+          ""
+         ],
+         [
           "Done some improvements to the right panel of the morph GUI.",
           "good",
           "Makes things easier/understandable."
