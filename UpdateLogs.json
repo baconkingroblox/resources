@@ -1,6 +1,31 @@
 {
-  "latest": 26061201,
+  "latest": 26061301,
   "list": [
+       {
+      "id": 26061301,
+      "title": "V4.54a Release Notes",
+      "date": "June 13 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Bub fix",
+      "updates": [
+            [
+          "Fixed issues with morphing (delays, etc)",
+          "good",
+          ""
+         ],
+             [
+          "Added a new map: Legacy lobby",
+          "good",
+          ""
+         ],
+          [
+          "I forgor",
+          "good",
+          ""
+         ]
+      ]
+    },
        {
       "id": 26061201,
       "title": "V4.54 Release Notes",
