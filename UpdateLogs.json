@@ -10,7 +10,7 @@
       "description": "More bug fix",
       "updates": [
             [
-          "Fixed issues with animated morphs and disappearing configurations.",
+          "Fixed issues with animated morphs, disappearing configurations, and morph sounds.",
           "good",
           "If this still happens, let us know."
          ],
@@ -21,6 +21,11 @@
          ],
           [
           "New commands for supporterM: plateregion and customplate",
+          "good",
+          ""
+         ],
+          [
+          "Morph emotes now trigger instantly (for the client)",
           "good",
           ""
          ]
