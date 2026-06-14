@@ -1,6 +1,31 @@
 {
-  "latest": 26061301,
+  "latest": 26061401,
   "list": [
+        {
+      "id": 26061401,
+      "title": "V4.54b Release Notes",
+      "date": "June 14 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "More bug fix",
+      "updates": [
+            [
+          "Fixed issues with animated morphs and disappearing configurations.",
+          "good",
+          "If this still happens, let us know."
+         ],
+             [
+          "Fixed item deposit machine in the city.",
+          "good",
+          "supporterM and above can use btw."
+         ],
+          [
+          "New commands for supporterM: plateregion and customplate",
+          "good",
+          ""
+         ]
+      ]
+    },
        {
       "id": 26061301,
       "title": "V4.54a Release Notes",
