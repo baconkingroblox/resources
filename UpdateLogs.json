@@ -1,6 +1,31 @@
 {
-  "latest": 26061401,
+  "latest": 26061501,
   "list": [
+      {
+      "id": 26061501,
+      "title": "V4.54c Release Notes",
+      "date": "June 15 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "",
+      "updates": [
+            [
+          "UX Improvements: Renamed certain menus, relocated favorite/save morph button ",
+          "good",
+          ""
+         ],
+             [
+          "You can now buy points with Robux.",
+          "good",
+          ""
+         ],
+          [
+          "(supporter+) Bus dot matrix displays have been improved (no more weird effects when zooming out)",
+          "good",
+          ""
+         ]
+      ]
+    },
         {
       "id": 26061401,
       "title": "V4.54b Release Notes",
