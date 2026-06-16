@@ -1,0 +1,97 @@
+{
+  "School & Social": [
+    "School Class",
+    "Recess / Break",
+    "Detention",
+    "House Party",
+    "Apartment Hangout",
+    "Restaurant / Cafe Shift"
+  ],
+  "Fandom Events": [
+    "Character Elimination",
+    "Crossover Event",
+    "Country Summit / War",
+    "Lore / Story Progression"
+  ],
+  "Other": [
+    "Something else!"
+  ],
+  "Commerce": [
+    "Store / Shop Open",
+    "Trading",
+    "Black Market",
+    "Job Interview"
+  ],
+  "Showcase & Meet": [
+    "Vehicle Showcase",
+    "Morph Showcase",
+    "Car Meet",
+    "Community Meet",
+    "Photography",
+    "Greenscreen Recording"
+  ],
+  "Action & Combat": [
+    "Boss Fight",
+    "Kaiju Battle",
+    "Brawl / Free-For-All",
+    "Hide and Seek",
+    "Tag / Infection"
+  ],
+  "Job": [
+    "Bus Driver",
+    "Police Patrol",
+    "Fire Department",
+    "Medical Service",
+    "Construction",
+    "Delivery",
+    "Security Guard"
+  ],
+  "Emergency RP": [
+    "Fire",
+    "Accident",
+    "Medical Emergency",
+    "Police Incident",
+    "Natural Disaster"
+  ],
+  "Meme Ritual": [
+    "Summoning",
+    "Dancing",
+    "Chaos",
+    "Brainrot Event",
+    "Funny Gathering"
+  ],
+  "Survival": [
+    "Apocalypse",
+    "Disaster",
+    "Expedition",
+    "Evacuation",
+    "Exploration",
+    "Tornado",
+    "Tsunami",
+    "Flood"
+  ],
+  "Horror & Thriller": [
+    "Monster Chase",
+    "Night Shift",
+    "Containment Breach",
+    "Paranormal Investigation",
+    "Survive the Killer"
+  ],
+  "Transit": [
+    "Route Service",
+    "Test Run",
+    "Driver Training",
+    "Convoy",
+    "Special Service",
+    "Tour",
+    "Depot Shift",
+    "Ticket Inspection"
+  ],
+  "Competition": [
+    "Race",
+    "Challenge",
+    "Tournament",
+    "Speedrun",
+    "Fashion Show"
+  ]
+}
