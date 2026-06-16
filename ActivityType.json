@@ -1,11 +1,14 @@
 {
-  "School & Social": [
+  "School/Social": [
     "School Class",
+    "Math Class",
     "Recess / Break",
+    "PE",
     "Detention",
     "House Party",
-    "Apartment Hangout",
-    "Restaurant / Cafe Shift"
+    "Apartment",
+    "Restaurant / Cafe Shift",
+    "Grounded",
   ],
   "Fandom Events": [
     "Character Elimination",
