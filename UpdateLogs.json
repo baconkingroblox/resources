@@ -1,6 +1,36 @@
 {
-  "latest": 26061501,
+  "latest": 26062201,
   "list": [
+      {
+      "id": 26062201,
+      "title": "V4.54d Release Notes",
+      "date": "June 22 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "Fixes, optimizations...",
+      "updates": [
+            [
+          "Fixes morph/emote sound issues.",
+          "good",
+          ""
+         ],
+           [
+          "Fixes boombox GUI.",
+          "good",
+          ""
+         ],
+             [
+          "Fixes 'met the owner' badge.",
+          "good",
+          ""
+         ],
+          [
+          "Optimizations/performance improvements: Roblox car and CLS55 (other vehicles to be optimized in the next updates), etc.",
+          "good",
+          "more fps wow"
+         ]
+      ]
+    },
       {
       "id": 26061501,
       "title": "V4.54c Release Notes",
