@@ -1,6 +1,36 @@
 {
-  "latest": 26062201,
+  "latest": 26062501,
   "list": [
+      {
+      "id": 26062501,
+      "title": "V4.55 Release Notes",
+      "date": "June 25 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "",
+      "updates": [
+            [
+          "Morph GUI improvements",
+          "good",
+          "> adjustments, image settings, and info are now collapsed under an advanced settings button.\npreview zoom has been replaced with an enlarge preview feature (it will get a zoom and nametag feature in future updates)\nimage results no longer have a white background when transparent"
+         ],
+           [
+          "Fixes morph sounds.",
+          "good",
+          ""
+         ],
+             [
+          "Some optimizations/performance improvements",
+          "good",
+          ""
+         ],
+          [
+          "Removed egghunt sign in the lobby since it ended.",
+          "good",
+          "Promocode: 5th"
+         ]
+      ]
+    },
       {
       "id": 26062201,
       "title": "V4.54d Release Notes",
