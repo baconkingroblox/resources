@@ -1,6 +1,41 @@
 {
-  "latest": 26062501,
+  "latest": 26062601,
   "list": [
+     {
+      "id": 26062601,
+      "title": "V4.55a Release Notes",
+      "date": "June 26 2026",
+      "imageBanner": "rbxassetid://16486648968",
+      "bannerColor": "#ffffff",
+      "description": "",
+      "updates": [
+            [
+          "Possibly fixes not being to move.",
+          "good",
+          ""
+         ],
+           [
+          "Fixes Courtroom and FNF maps.",
+          "good",
+          ""
+         ],
+             [
+          "Some improvements to the city.",
+          "good",
+          ""
+         ],
+          [
+          "Fixes play/pause button in the boombox GUI.",
+          "good",
+          "Promocode: 2026"
+         ],
+        [
+          "Possibly fixes players and map elements flickering and causing lag spikes.",
+          "good",
+          ""
+         ]
+      ]
+    },
       {
       "id": 26062501,
       "title": "V4.55 Release Notes",
