@@ -1,5 +1,17 @@
 {
   "specialRanks": {
+       "karina_301": {
+      "text": "[The cosmic himself]",
+      "color": "#000000",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+       "ATGAUTTP198": {
+      "text": "[The mroongray]",
+      "color": "#BF0000",
+      "rainbow": false,
+      "entireRainbow": false
+    },
              "Dom_duck9sAlt": {
       "text": "[Kirbimania]",
       "color": "#DB6DB4",
