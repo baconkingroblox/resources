@@ -1,5 +1,18 @@
 {
   "specialRanks": {
+    
+         "goofynanna": {
+      "text": "[Terrance and Philip Watcher]",
+      "color": "#C53A3A",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+       "FortunateBenAlt": {
+      "text": "[The Astronomy Nerd]",
+      "color": "#6236CB",
+      "rainbow": false,
+      "entireRainbow": false
+    },
        "karina_301": {
       "text": "[The cosmic himself]",
       "color": "#EEEEEE",
@@ -15,6 +28,13 @@
              "Dom_duck9sAlt": {
       "text": "[Kirbimania]",
       "color": "#DB6DB4",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+    
+         "Deelour8": {
+      "text": "[Certified PBSian]",
+      "color": "#70DE41",
       "rainbow": false,
       "entireRainbow": false
     },
