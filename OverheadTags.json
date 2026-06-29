@@ -1,6 +1,35 @@
 {
   "specialRanks": {
-    
+          "Hacksan4": {
+      "text": "[Friday Night AzuEXEgoer]",
+      "color": "#e01d64",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+          "timtim625 ": {
+      "text": "[Sporkmaster Guy]",
+      "color": "#e01d1d",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+          "susybebito14": {
+      "text": "[Local Gubby]",
+      "color": "#dddddd",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+          "Igrek2301": {
+      "text": "[The EJTian]",
+      "color": "#a11212",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+      "Diego028138": {
+      "text": "[The Drummer]",
+      "color": "#7703fc",
+      "rainbow": false,
+      "entireRainbow": false
+    },
          "goofynanna": {
       "text": "[Terrance and Philip Watcher]",
       "color": "#C53A3A",
