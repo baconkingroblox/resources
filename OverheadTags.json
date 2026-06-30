@@ -1,6 +1,6 @@
 {
   "specialRanks": {
-    "Hacksan4": {
+    "hacksan4": {
       "text": "[Friday Night AzuEXEgoer]",
       "color": "#e01d64",
       "rainbow": false,
@@ -18,13 +18,13 @@
       "rainbow": false,
       "entireRainbow": false
     },
-    "Igrek2301": {
+    "igrek2301": {
       "text": "[The EJTian]",
       "color": "#a11212",
       "rainbow": false,
       "entireRainbow": false
     },
-    "Diego028138": {
+    "diego028138": {
       "text": "[The Drummer]",
       "color": "#7703fc",
       "rainbow": false,
@@ -36,7 +36,7 @@
       "rainbow": false,
       "entireRainbow": false
     },
-    "FortunateBenAlt": {
+    "fortunatebenalt": {
       "text": "[The Astronomy Nerd]",
       "color": "#6236CB",
       "rainbow": false,
@@ -48,19 +48,19 @@
       "rainbow": false,
       "entireRainbow": false
     },
-    "ATGAUTTP198": {
+    "atgauttp198": {
       "text": "[The mroongray]",
       "color": "#BF0000",
       "rainbow": false,
       "entireRainbow": false
     },
-    "Dom_duck9sAlt": {
+    "dom_duck9salt": {
       "text": "[Kirbimania]",
       "color": "#DB6DB4",
       "rainbow": false,
       "entireRainbow": false
     },
-    "Deelour8": {
+    "deelour8": {
       "text": "[Certified PBSian]",
       "color": "#70DE41",
       "rainbow": false,
@@ -90,13 +90,13 @@
       "rainbow": true,
       "entireRainbow": false
     },
-    "Leafception": {
+    "leafception": {
       "text": "[👑 Contest Winner 👑]",
       "color": "#0EFFB7",
       "rainbow": false,
       "entireRainbow": false
     },
-    "Niestrat996": {
+    "niestrat996": {
       "text": "[👑 Contest Winner 👑]",
       "color": "#0EFFB7",
       "rainbow": false,
@@ -108,7 +108,7 @@
       "rainbow": false,
       "entireRainbow": false
     },
-    "Niestrat998": {
+    "niestrat998": {
       "text": "[👑 Contest Winner 👑]",
       "color": "#0EFFB7",
       "rainbow": false,
@@ -126,25 +126,25 @@
       "rainbow": false,
       "entireRainbow": false
     },
-    "Remainings": {
+    "remainings": {
       "text": "[Content Creator]",
       "color": "#0EFFB7",
       "rainbow": true,
       "entireRainbow": false
     },
-    "RossPandaBlox": {
+    "rosspandablox": {
       "text": "[Content Creator] [Founder of CWRP]",
       "color": "#0EFFB7",
       "rainbow": true,
       "entireRainbow": false
     },
-    "XXxxANDxxXX": {
+    "xxxxandxxxx": {
       "text": "[Content Creator]",
       "color": "#0EFFB7",
       "rainbow": true,
       "entireRainbow": false
     },
-    "OfficialFriendzy": {
+    "officialfriendzy": {
       "text": "[🔨Developer🔨]",
       "color": "#0EFFB7",
       "rainbow": true,
@@ -156,19 +156,13 @@
       "rainbow": false,
       "entireRainbow": false
     },
-    "Mafieux0": {
+    "mafieux0": {
       "text": "[🔨Developer🔨]",
       "color": "#0EFFB7",
       "rainbow": false,
       "entireRainbow": false
     },
-    "SpirtualEymenALT": {
-      "text": "[🔨Developer🔨]",
-      "color": "#0EFFB7",
-      "rainbow": false,
-      "entireRainbow": false
-    },
-    "MrBalu0": {
+    "stupendous037": {
       "text": "[🔨Developer🔨]",
       "color": "#0EFFB7",
       "rainbow": false,
@@ -180,18 +174,12 @@
       "rainbow": true,
       "entireRainbow": false
     },
-    "CitrusRarling362": {
+    "citrusdarling362": {
       "text": "[Silly & Joyous]",
       "color": "#F5A9EE",
       "rainbow": false,
       "entireRainbow": false
     },
-    "citrusrarling362": {
-      "text": "[Silly & Joyous]",
-      "color": "#F5A9EE",
-      "rainbow": false,
-      "entireRainbow": false
-    }
   },
   "staffRank": {
     "2": {
