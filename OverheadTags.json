@@ -1,85 +1,84 @@
 {
   "specialRanks": {
-          "Hacksan4": {
+    "Hacksan4": {
       "text": "[Friday Night AzuEXEgoer]",
       "color": "#e01d64",
       "rainbow": false,
       "entireRainbow": false
     },
-          "timtim625 ": {
+    "timtim625 ": {
       "text": "[Sporkmaster Guy]",
       "color": "#e01d1d",
       "rainbow": false,
       "entireRainbow": false
     },
-          "susybebito14": {
+    "susybebito14": {
       "text": "[Local Gubby]",
       "color": "#dddddd",
       "rainbow": false,
       "entireRainbow": false
     },
-          "Igrek2301": {
+    "Igrek2301": {
       "text": "[The EJTian]",
       "color": "#a11212",
       "rainbow": false,
       "entireRainbow": false
     },
-      "Diego028138": {
+    "Diego028138": {
       "text": "[The Drummer]",
       "color": "#7703fc",
       "rainbow": false,
       "entireRainbow": false
     },
-         "goofynanna": {
+    "goofynanna": {
       "text": "[Terrance and Philip Watcher]",
       "color": "#C53A3A",
       "rainbow": false,
       "entireRainbow": false
     },
-       "FortunateBenAlt": {
+    "FortunateBenAlt": {
       "text": "[The Astronomy Nerd]",
       "color": "#6236CB",
       "rainbow": false,
       "entireRainbow": false
     },
-       "karina_301": {
+    "karina_301": {
       "text": "[The cosmic himself]",
       "color": "#EEEEEE",
       "rainbow": false,
       "entireRainbow": false
     },
-       "ATGAUTTP198": {
+    "ATGAUTTP198": {
       "text": "[The mroongray]",
       "color": "#BF0000",
       "rainbow": false,
       "entireRainbow": false
     },
-             "Dom_duck9sAlt": {
+    "Dom_duck9sAlt": {
       "text": "[Kirbimania]",
       "color": "#DB6DB4",
       "rainbow": false,
       "entireRainbow": false
     },
-    
-         "Deelour8": {
+    "Deelour8": {
       "text": "[Certified PBSian]",
       "color": "#70DE41",
       "rainbow": false,
       "entireRainbow": false
     },
-         "kindkindkind76": {
+    "kindkindkind76": {
       "text": "[Certified PBSian]",
       "color": "#70DE41",
       "rainbow": false,
       "entireRainbow": false
     },
-          "xokowsarxo123": {
+    "xokowsarxo123": {
       "text": "[The Warioware Guy]",
       "color": "#2771D6",
       "rainbow": false,
       "entireRainbow": false
     },
-       "dogegamerbr71353": {
+    "dogegamerbr71353": {
       "text": "[Drift King]",
       "color": "#cf2600",
       "rainbow": false,
@@ -179,6 +178,12 @@
       "text": "[Veteran]",
       "color": "#0EFFB7",
       "rainbow": true,
+      "entireRainbow": false
+    },
+    "CitrusRarling362": {
+      "text": "[Silly & Joyous]",
+      "color": "#F5A9EE",
+      "rainbow": false,
       "entireRainbow": false
     }
   },
