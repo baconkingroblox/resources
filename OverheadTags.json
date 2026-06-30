@@ -1,7 +1,25 @@
 {
   "specialRanks": {
+      "13skyboy": {
+      "text": "[Tumorian Certified]",
+      "color": "#780CFF",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+        "banana_artfully": {
+      "text": "[Guater Game]",
+      "color": "#A577FA",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+          "NoahTheDini2": {
+      "text": "[Your Average Kaiju Nerd]",
+      "color": "#62ACB8",
+      "rainbow": false,
+      "entireRainbow": false
+    },
     "hacksan4": {
-      "text": "[Friday Night AzuEXEgoer]",
+      "text": "[Friday Night Azu/EXEgoer]",
       "color": "#e01d64",
       "rainbow": false,
       "entireRainbow": false
