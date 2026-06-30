@@ -1,18 +1,18 @@
 {
   "specialRanks": {
-      "13skyboy": {
+    "13skyboy": {
       "text": "[Tumorian Certified]",
       "color": "#780CFF",
       "rainbow": false,
       "entireRainbow": false
     },
-        "banana_artfully": {
+    "banana_artfully": {
       "text": "[Guater Game]",
       "color": "#A577FA",
       "rainbow": false,
       "entireRainbow": false
     },
-          "NoahTheDini2": {
+    "NoahTheDini2": {
       "text": "[Your Average Kaiju Nerd]",
       "color": "#62ACB8",
       "rainbow": false,
@@ -201,6 +201,12 @@
     "london020617": {
       "text": "[Limon]",
       "color": "#34EB37",
+      "rainbow": false,
+      "entireRainbow": false
+    },
+    "unknow_manidk": {
+      "text": "The Unknown",
+      "color": "#005F96",
       "rainbow": false,
       "entireRainbow": false
     }
