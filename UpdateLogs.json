@@ -1,6 +1,71 @@
 {
-  "latest": 26062601,
+  "latest": 26070101,
   "list": [
+    {
+  "id": 26070101,
+  "title": "V4.56 Release Notes",
+  "date": "July 1 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Performance improvements, stability, and expanding customization limits.",
+  "updates": [
+    [
+      "Possibly fixes map glitching and not being able to move.",
+      "good",
+      ""
+    ],
+    [
+      "Emote slots increased.",
+      "verygood",
+      "No membership: 2 → 4\nSupporter!: 4 → 8\nSupporter+: 6 → 12"
+    ],
+    [
+      "Morph size limits increased.",
+      "verygood",
+      "No membership: 9 → 10 studs\nSupporter!: 15 → 20 studs\nSupporter+: 25 → 30 studs\nSupporter★: 40 studs"
+    ],
+    [
+      "Fixes avatar spinning in certain scenarios.",
+      "good",
+      ""
+    ],
+    [
+      "TMP is now R6-only for improved performance.",
+      "good",
+      "This change may be reverted based on feedback."
+    ],
+    [
+      "Item and emote hotbar is now scrollable and is no longer limited to 6 or 10 items.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes the map disappearing when exiting vehicles.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes vehicles: Shok EV3 and Perquen 900 GT.",
+      "good",
+      ""
+    ],
+     [
+      "Reduces lag for certain vehicles (suspension system was simplified)",
+      "good",
+      ""
+    ],
+    [
+      "Fixes chat bubble position/covered by morphs,nametag size, and nametag cutoff",
+      "good",
+      ""
+    ],
+    [
+      "Performance improvements, including reduced GUI lag when opening and closing interfaces.",
+      "good",
+      ""
+    ]
+  ]
+}
      {
       "id": 26062601,
       "title": "V4.55a Release Notes",
