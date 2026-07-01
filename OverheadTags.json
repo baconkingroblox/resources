@@ -221,6 +221,12 @@
       "color": "#6F4E37",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "birthdaypartyzero": {
+      "text": "[Decepticon Lord]",
+      "color": "#6603FC",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
