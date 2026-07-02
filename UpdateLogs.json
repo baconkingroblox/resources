@@ -1,6 +1,46 @@
 {
-  "latest": 26070101,
+  "latest": 26070201,
   "list": [
+      {
+  "id": 26070201,
+  "title": "V4.56a Release Notes",
+  "date": "July 2 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "",
+  "updates": [
+    [
+      "Fixes overhead nametags and boombox info",
+      "good",
+      ""
+    ],
+    [
+      "For new players under 1h playtime, self-made decals are restricted to prevent trolls.",
+      "okay",
+      "It may slightly frustrate them, but as we mentioned, it's to prevent trolls and inappropriate images."
+    ],
+    [
+      "Fixes market GUI (both props and supporter page visible on first open)",
+      "good",
+      ""
+    ],
+    [
+      "Fixes rules gui markdown/text.",
+      "good",
+      ""
+    ],
+      [
+      "Fixes tutorial on small screens.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes cars: CLS55 (handling), BNS Arc-M5 F90 (car gets flung/vanishes on spawn)",
+      "good",
+      ""
+    ],
+  ]
+},
     {
   "id": 26070101,
   "title": "V4.56 Release Notes",
