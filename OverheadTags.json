@@ -245,6 +245,12 @@
       "color": "#00B1FF",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "nethekou": {
+      "text": "[A YOLKMAN'S DILEMMA]",
+      "color": "#B5A9C6",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
