@@ -8,7 +8,8 @@
     "House Party",
     "Apartment",
     "Restaurant / Cafe Shift",
-    "Grounded"
+    "Grounded",
+    "Court Trial"
   ],
   "Fandom Events": [
     "Character Elimination",
@@ -56,6 +57,13 @@
     "Police Incident",
     "Natural Disaster"
   ],
+    "Board Games": [
+    "Chess",
+    "Checkers",
+    "Snake and Ladders",
+    "Monopoly",
+    "Other"
+  ],
   "Meme Ritual": [
     "Summoning",
     "Dancing",
@@ -71,6 +79,9 @@
     "Exploration",
     "Tornado",
     "Tsunami",
+    "Black Hole",
+    "Asteroid",
+    "Storm Chasing",
     "Flood"
   ],
   "Horror & Thriller": [
@@ -96,6 +107,8 @@
     "Challenge",
     "Tournament",
     "Speedrun",
-    "Fashion Show"
+    "Fashion Show",
+    "Game show / Trivia",
+    "Family Feud"
   ]
 }
