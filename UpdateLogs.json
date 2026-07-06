@@ -1,6 +1,66 @@
 {
-  "latest": 26070201,
+  "latest": 26070701,
   "list": [
+      {
+  "id": 26070201,
+  "title": "V4.57 Release Notes",
+  "date": "July 7 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Stability patches + new features",
+  "updates": [
+    [
+      "Introducing the roleplay announcement system.",
+      "good",
+      "You can announce roleplays to the entire server. map, area, activity type, and theme.\nWhen receiving the announcement, you can set the waypoint (to the position of the map area) and it will teleport you to the map.\nIt has a 5-minute global cooldown and requires 3 hours of playtime (OR supporter+) to use."
+    ],
+    [
+      "Fixes loud boomboxes.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes city map teleporters.",
+      "good",
+      ""
+    ],
+      [
+      "Playerlist now has a search bar.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes morph copying.",
+      "good",
+      ""
+    ],
+      [
+      "Vertical offset can no longer be set to negative values.",
+      "good",
+      ""
+    ],
+      [
+      "Fixes morphs not working (hopefully)",
+      "good",
+      ""
+    ],
+      [
+      "Fixes morph orientation unit.",
+      "good",
+      ""
+    ],
+      [
+      "Allow Copying is now a standalone option and won't be changed when switching morphs.",
+      "good",
+      ""
+    ],
+      [
+      "Done some changes to prevent safety shutdowns triggered by morphs.",
+      "good",
+      ""
+    ]
+  ]
+},
       {
   "id": 26070201,
   "title": "V4.56a Release Notes",
