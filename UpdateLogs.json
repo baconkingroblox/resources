@@ -1,6 +1,36 @@
 {
-  "latest": 26070701,
+  "latest": 26071001,
   "list": [
+     {
+  "id": 26071001,
+  "title": "V4.57a Release Notes",
+  "date": "July 10 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Stability and performance fixes. And happy 18th birthday to Bacon King! 🎉",
+  "updates": [
+    [
+      "Fixes copying (visually) re-enabling when changing morphs.",
+      "good",
+      ""
+    ],
+    [
+      "Improves performance and fixes memory leaks.",
+      "good",
+      ""
+    ],
+      [
+      "Improves engine/exhaust sounds for Bugger Werona",
+      "good",
+      ""
+    ],
+    [
+      "What to expect in V4.58: 2-4 new vehicles (2 of them are BNS Arc-M3 and Citron Micro)",
+      "good",
+      ""
+    ]
+  ]
+},
       {
   "id": 26070201,
   "title": "V4.57 Release Notes",
