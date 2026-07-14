@@ -1,6 +1,51 @@
 {
-  "latest": 26071001,
+  "latest": 26071401,
   "list": [
+        {
+  "id": 26071001,
+  "title": "V4.57b Release Notes",
+  "date": "July 14 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Stability and performance fixes. ",
+  "updates": [
+    [
+      "Fixes disabled options (like copying) not saving.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes chat status.",
+      "good",
+      ""
+    ],
+      [
+      "Fixes notifications not disappearing.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes map teleports.",
+      "good",
+      ""
+    ],
+     [
+      "Fixes playtime counter and rp announcement button.",
+      "good",
+      ""
+    ],
+     [
+      "Fixes materials disabling (low-end/entry-level device detection)",
+      "good",
+      ""
+    ],
+     [
+      "On lower-end devices, morphs will render at lower-resolution to prevent crashes/lag.",
+      "good",
+      ""
+    ]
+  ]
+},
      {
   "id": 26071001,
   "title": "V4.57a Release Notes",
