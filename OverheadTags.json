@@ -251,6 +251,12 @@
       "color": "#B5A9C6",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "motherlandcall": {
+      "text": "[Girly Garlin]",
+      "color": "#FF9EF9",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
