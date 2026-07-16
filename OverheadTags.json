@@ -263,6 +263,12 @@
       "color": "#5A002C",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "kynniedoesthingz": {
+      "text": "[The Runaway Artist]",
+      "color": "#F0B1CC",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
