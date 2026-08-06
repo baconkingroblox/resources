@@ -1,6 +1,71 @@
 {
   "latest": 26071401,
   "list": [
+      {
+  "id": 26071001,
+  "title": "V4.58 Release Notes",
+  "date": "August 6 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Polishes, optimizations, and rolling out gamepad support",
+  "updates": [
+    [
+      "Partial gamepad support",
+      "good",
+      "B/circle to close gui's, gui navigation fixes.<br />Console support will arrive in the next few updates as we're testing and polishing things..."
+    ],
+    [
+      "Vehicle GUI now shows a side panel with vehicle details (year, drivetrain, top speed, seats, what devices they're optimized for)",
+      "good",
+      "Top speed is estimated, may not be actual"
+    ],
+      [
+      "Roleplay announcements now have a 20-minute per player cooldown.",
+      "good",
+      "Global cooldown stays at 5 minutes like before.<br />Initial player cooldown (when they joined and have no cooldown) will be 5 minutes."
+    ],
+     [
+      "Fixes nametag mute/lock icons not showing up.",
+      "good",
+      ""
+    ],
+         [
+      "Added an option to disable restricted chat messages.",
+      "good",
+      ""
+    ],
+    [
+      "Possibly fixes the chat window being small.",
+      "good",
+      ""
+    ],
+     [
+      "Fixes Comedy World morphs.",
+      "good",
+      ""
+    ],
+     [
+      "Morph GUI icon has been changed so it's more easy to find for new/unfamiliar players.",
+      "good",
+      ""
+    ],
+     [
+      "Performance improvements.",
+      "good",
+      ""
+    ],
+     [
+      "Improves roads in the city map. (guardrails in forest, fixed textures/markings)",
+      "good",
+      ""
+    ],
+     [
+      "Fixes tutorial highlighting.",
+      "good",
+      ""
+    ]
+  ]
+},
         {
   "id": 26071001,
   "title": "V4.57b Release Notes",
