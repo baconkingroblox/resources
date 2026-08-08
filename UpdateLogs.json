@@ -1,6 +1,61 @@
 {
   "latest": 26071401,
   "list": [
+       {
+  "id": 26071001,
+  "title": "V4.58a Release Notes",
+  "date": "August 8 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Fixes and patches.",
+  "updates": [
+    [
+      "Overhauled lighting (lobby and city)",
+      "good",
+      "Looks better."
+    ],
+    [
+      "Fixes playtime counter in menu and rp announcement button not showing.",
+      "good",
+      ""
+    ],
+      [
+      "Fixes disabled options not applying, e.g. restricted messages still showing despite disabled.",
+      "good",
+      ""
+    ],
+     [
+      "Fixes user reports not sending.",
+      "good",
+      "Infrastructure fixes were done on our end."
+    ],
+         [
+      "Simplifies rules.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes 'Outside' waypoint for CW City.",
+      "good",
+      ""
+    ],
+     [
+      "Tools no longer anchor when AFKing.",
+      "good",
+      ""
+    ],
+     [
+      "Fixes vehicle not spawning: Adira RS7 Liftback.",
+      "good",
+      ""
+    ],
+     [
+      "Mecredenz-Brens Urbano: Fixes jump button not appearing on mobile.",
+      "good",
+      ""
+    ]
+  ]
+},
       {
   "id": 26071001,
   "title": "V4.58 Release Notes",
