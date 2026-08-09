@@ -269,6 +269,12 @@
       "color": "#F0B1CC",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "r3ndom_n3obb": {
+      "text": "[Entropy]",
+      "color": "#89F336",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
