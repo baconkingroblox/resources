@@ -1,6 +1,51 @@
 {
-  "latest": 26071401,
+  "latest": 26081101,
   "list": [
+     {
+  "id": 26081101,
+  "title": "V4.58b Release Notes",
+  "date": "August 11 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Fixes and patches.",
+  "updates": [
+    [
+      "You can now check out the progress of the city map expansion in lobby > more games.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes morph issues (e.g. sounds).",
+      "good",
+      "Not entirely sure, but if they still don't work properly, let us know"
+    ],
+      [
+      "Fixes realistic lighting applying to maps where it shouldn't.",
+      "good",
+      ""
+    ],
+     [
+      "Fixes more games board on mobile.",
+      "good",
+      ""
+    ],
+         [
+      "Fixes excessively bright objects and night being too dark.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes car not working: Adira RS7 Liftback",
+      "good",
+      ""
+    ],
+     [
+      "supporterM can now use freecam command",
+      "good",
+      ""
+    ]
+  ]
+},
        {
   "id": 26071001,
   "title": "V4.58a Release Notes",
