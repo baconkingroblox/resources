@@ -1,6 +1,41 @@
 {
-  "latest": 26081101,
+  "latest": 26081401,
   "list": [
+     {
+  "id": 26081401,
+  "title": "V4.58c Release Notes",
+  "date": "August 14 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Fixes and patches.",
+  "updates": [
+    [
+      "Fixes morph issues",
+      "good",
+      "Custom sounds, missing states/sounds when morphing for the first time/right after respawn, etc."
+    ],
+    [
+      "Possibly fixes unable to walk in some cases.",
+      "good",
+      "if still happens, let us know"
+    ],
+      [
+      "Rules and epilepsy/photosensitivity warning now show while the game loads in the background.",
+      "good",
+      "> More convenient."
+    ],
+     [
+      "Bloxilicious gum: bubble now removes on respawn",
+      "good",
+      ""
+    ],
+    [
+      "Fixes clear command and freecam",
+      "good",
+      ""
+    ]
+  ]
+},
      {
   "id": 26081101,
   "title": "V4.58b Release Notes",
