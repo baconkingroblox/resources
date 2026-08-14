@@ -317,6 +317,12 @@
       "color": "#FFFF00",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "rakrak80": {
+      "text": "[Blue Giant]",
+      "color": "#4444FF",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
