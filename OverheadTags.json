@@ -311,6 +311,12 @@
       "color": "#EE2222",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "boeing6637": {
+      "text": "[Red Giant]",
+      "color": "#FE1212",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
