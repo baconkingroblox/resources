@@ -335,6 +335,12 @@
       "color": "#FF0045",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "blazedown": {
+      "text": "[Tung Tung Expert]",
+      "color": "#8B5A2B",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
