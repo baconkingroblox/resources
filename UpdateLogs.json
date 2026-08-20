@@ -1,6 +1,41 @@
 {
-  "latest": 26081401,
+  "latest": 26082101,
   "list": [
+     {
+  "id": 26082101,
+  "title": "V4.58d Release Notes",
+  "date": "August 21 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "yet another fixes and patches.",
+  "updates": [
+    [
+      "Fixes freecam command",
+      "good",
+      ""
+    ],
+    [
+      "Possibly fixes maps and market prompts",
+      "good",
+      ""
+    ],
+      [
+      "Fixes land state for animated morphs.",
+      "good",
+      ""
+    ],
+        [
+      "Regarding stuff not loading/lowquality/decimated for some players",
+      "good",
+      "It's a roblox bug. it will be fixed in a few days. try updating your roblox app."
+    ],
+     [
+      "Improves tutorial.",
+      "good",
+      ""
+    ]
+  ]
+},
      {
   "id": 26081401,
   "title": "V4.58c Release Notes",
