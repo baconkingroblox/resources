@@ -383,6 +383,12 @@
       "color": "#FFFF00",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "laracookierunfan": {
+      "text": "[#1 Sorbet Shark Cookie Fan]",
+      "color": "#9FC3DC",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
