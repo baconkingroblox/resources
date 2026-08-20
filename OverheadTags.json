@@ -389,6 +389,12 @@
       "color": "#9FC3DC",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "starrblazer01": {
+      "text": "[BFDI expert Extrodinare]",
+      "color": "#11FF11",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
