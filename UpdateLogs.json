@@ -1,6 +1,36 @@
 {
-  "latest": 26082101,
+  "latest": 26082301,
   "list": [
+      {
+  "id": 26082301,
+  "title": "V4.58e Release Notes",
+  "date": "August 23 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "yet another fixes and patches.",
+  "updates": [
+    [
+      "Fixes tutorial not showing up for new players.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes survey not working.",
+      "good",
+      ""
+    ],
+      [
+      "RP Announcement changes (forgot to mention):",
+      "good",
+      "playtime requirement: 1h > 15h<br />global cooldown: 5m > 20m<br />player cooldown: 20m > 50m"
+    ],
+        [
+      "Fixes buying console prop in market.",
+      "good",
+      ""
+    ]
+  ]
+},
      {
   "id": 26082101,
   "title": "V4.58d Release Notes",
