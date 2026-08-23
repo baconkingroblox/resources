@@ -1,6 +1,49 @@
 {
-  "latest": 26051801,
+  "latest": 26082302,
   "list": [
+           {
+  "id": 26082302,
+  "title": "TMP Frequently Asked Questions/How To Fix",
+  "date": "TMP FAQ",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "",
+  "updates": [
+    [
+      "1. Other players see my decals/images as this/can't see. How do i fix it?",
+      "",
+      ""
+    ],
+    [
+      "rbxassetid://136183028544671",
+      "image",
+      "#ffffff",
+      0.15, 0.15
+    ],
+      [
+      "For other players to see decals/images you uploaded (if others see a crossed out image icon/blank), be sure to disable asset privacy",
+      "",
+      "create.roblox.com/settings/advanced"
+    ],
+        [
+      "rbxassetid://118280278431487",
+      "image",
+      "#ffffff",
+      0.7, 0.15
+    ],
+      [
+      "and be sure your decals are open use - configure page of your decal",
+      "",
+      "create.roblox.com/dashboard/creations/store/[ID]/configure"
+    ],
+      [
+      "rbxassetid://81602389441190",
+      "image",
+      "#ffffff",
+      0.25, 0.25
+    ]
+  ]
+},
       {
       "id": 26051801,
       "title": "V4.5 Release Notes",
