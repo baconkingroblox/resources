@@ -29,7 +29,7 @@
       "rbxassetid://118280278431487",
       "image",
       "#ffffff",
-      0.9, 0.5
+      0.9, 0.4
     ],
       [
       "and be sure your decals are open use - configure page of your decal",
@@ -40,7 +40,69 @@
       "rbxassetid://81602389441190",
       "image",
       "#ffffff",
-      0.65, 0.6
+      0.7, 0.7
+    ],
+     [
+      "2. How do I upload my own decals?",
+      "",
+      "Open the creator hub (PC/Mobile)"
+    ],
+    [
+      "rbxassetid://101192018607149",
+      "image",
+      "#ffffff",
+      0.9, 0.2
+    ],
+        [
+      "rbxassetid://90765574994950",
+      "image",
+      "#ffffff",
+      0.7, 0.4
+    ],
+        [
+      "rbxassetid://137063432281877",
+      "image",
+      "#ffffff",
+      0.9, 0.2
+    ],
+      [
+      "Open the sidebar > creations > development items > decals > upload",
+      "",
+      "Then upload your desired image and fill out the name and description"
+    ],
+    [
+      "rbxassetid://114623260835325",
+      "image",
+      "#ffffff",
+      0.9, 0.3
+    ],
+      [
+      "rbxassetid://74421877563061",
+      "image",
+      "#ffffff",
+      0.9, 0.2
+    ],
+      [
+      "rbxassetid://122367655400862",
+      "image",
+      "#ffffff",
+      0.8, 0.8
+    ],
+      [
+      "After uploading, right click/press three dots on the decal you uploaded, then copy the texture id.",
+      "",
+      ""
+    ],
+    [
+      "rbxassetid://90466972385584",
+      "image",
+      "#ffffff",
+      0.9, 0.3
+    ],
+    [
+      "Now you can paste it to TMP.",
+      "",
+      ""
     ]
   ]
 },
