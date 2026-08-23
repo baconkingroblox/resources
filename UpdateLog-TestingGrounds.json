@@ -18,7 +18,7 @@
       "rbxassetid://136183028544671",
       "image",
       "#ffffff",
-      0.15, 0.15
+      0.5, 0.55
     ],
       [
       "For other players to see decals/images you uploaded (if others see a crossed out image icon/blank), be sure to disable asset privacy",
@@ -29,7 +29,7 @@
       "rbxassetid://118280278431487",
       "image",
       "#ffffff",
-      0.7, 0.15
+      0.9, 0.5
     ],
       [
       "and be sure your decals are open use - configure page of your decal",
@@ -40,7 +40,7 @@
       "rbxassetid://81602389441190",
       "image",
       "#ffffff",
-      0.25, 0.25
+      0.65, 0.6
     ]
   ]
 },
