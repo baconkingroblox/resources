@@ -2,6 +2,51 @@
   "latest": 26082302,
   "list": [
      {
+  "id": 26082401,
+  "title": "V4.58f Release Notes",
+  "date": "August 24 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "yet another fixes and patches.",
+  "updates": [
+    [
+      "Fixed maps not loading properly.",
+      "good",
+      "Roblox's mesh streaming is broken, still not fixed to this day."
+    ],
+    [
+      "Default decal results are now based on top searches instead of random toolbox decals.",
+      "good",
+      ""
+    ],
+      [
+      "Fixes points not saving in some cases",
+      "good",
+      "Only affected spent and survey points if you left the game before doing other things with/earned points."
+    ],
+        [
+      "If not enough points to buy item, it will prompt a purchase of points.",
+      "good",
+      ""
+    ],
+     [
+      "Buying supporter from in-game no longer require rejoining. (in most cases at least)",
+      "good",
+      ""
+    ],
+     [
+      "You can now get 200 points by joining the 'Baconify Games' group.",
+      "good",
+      ""
+    ],
+     [
+      "Tutorial will no longer show on each join if skipped.",
+      "good",
+      ""
+    ]
+  ]
+},
+     {
   "id": 26082302,
   "title": "TMP Frequently Asked Questions/How To Fix",
   "date": "TMP FAQ",
