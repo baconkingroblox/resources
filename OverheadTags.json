@@ -395,6 +395,12 @@
       "color": "#11FF11",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "sneakybeat6": {
+      "text": "[🔨Developer]",
+      "color": "#0EFFB7",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
