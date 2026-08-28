@@ -1,6 +1,36 @@
 {
-  "latest": 26082302,
+  "latest": 26082801,
   "list": [
+     {
+  "id": 26082801,
+  "title": "V4.59 Release Notes",
+  "date": "August 28 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "New maps and more!",
+  "updates": [
+    [
+      "New maps.",
+      "verygood",
+      "Baldi's Basics (Schoolhouse, Camping) and FNF Week 4.<br />Voxel World map was postponed - receiving final polishes/fixes."
+    ],
+    [
+      "Fixed vehicles gui",
+      "good",
+      ""
+    ],
+      [
+      "Fixes points multiplier for supporters.",
+      "good",
+      "You can get a 3k points compensation by redeeming the code 'supporter'."
+    ],
+        [
+      "GUI Improvements (spritesheet gui made a bit easier, button clicks)",
+      "good",
+      ""
+    ]
+  ]
+},
      {
   "id": 26082401,
   "title": "V4.58f Release Notes",
