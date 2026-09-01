@@ -1,6 +1,40 @@
 {
-  "latest": 26082801,
+  "latest": 26090101,
   "list": [
+     {
+  "id": 26090101,
+  "title": "V4.59a Release Notes",
+  "date": "September 1 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Some patches/improvements.",
+  "updates": [
+    [
+      "Morph GUI is now a draggable window on PC/big screens.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes lobby season decorations.",
+      "good",
+      ""
+    ],
+      [
+      "Item tool tips now show properly.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes map lighting.",
+      "good",
+      ""
+    ],
+        [
+      "Improves tutorial a little bit.",
+      "good",
+      ""
+    ]
+},
      {
   "id": 26082801,
   "title": "V4.59 Release Notes",
