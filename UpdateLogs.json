@@ -1,6 +1,41 @@
 {
-  "latest": 26090501,
+  "latest": 26090601,
   "list": [
+         {
+  "id": 26090601,
+  "title": "V4.59c Release Notes",
+  "date": "September 6 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Hotfix",
+  "updates": [
+    [
+      "Fixes not being able to scroll all the way down in morph gui (middle)",
+      "good",
+      ""
+    ],
+    [
+      "Fixes favorites/recent audios disappearing",
+      "good",
+      ""
+    ],
+      [
+      ";r15 command for everyone",
+      "good",
+      ""
+    ],
+    [
+      "Slightly redesigns bottom-left fps/points gui",
+      "good",
+      ""
+    ],
+        [
+      "Fixes morph state sound/emote bugs",
+      "good",
+      ""
+    ]
+  ]
+},
      {
   "id": 26090501,
   "title": "V4.59b Release Notes",
