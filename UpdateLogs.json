@@ -1,6 +1,41 @@
 {
-  "latest": 26090101,
+  "latest": 26090501,
   "list": [
+     {
+  "id": 26090501,
+  "title": "V4.59b Release Notes",
+  "date": "September 5 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Improvements and polishes.",
+  "updates": [
+    [
+      "Fixes id box in boombox gui.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes copyable (read-only) text on buttons (playerlist, boombox gui).",
+      "good",
+      ""
+    ],
+      [
+      "GUI Improvements.",
+      "good",
+      "Sliders, switches, and other components were redesigned/polished."
+    ],
+    [
+      "Improves tutorial.",
+      "good",
+      ""
+    ],
+        [
+      "Donate board: fixes leaderboard not showing new donators after June",
+      "good",
+      ""
+    ]
+  ]
+},
      {
   "id": 26090101,
   "title": "V4.59a Release Notes",
