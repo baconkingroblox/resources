@@ -1,6 +1,51 @@
 {
-  "latest": 26090601,
+  "latest": 26090901,
   "list": [
+      {
+  "id": 26090901,
+  "title": "V4.59d Release Notes",
+  "date": "September 9 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "",
+  "updates": [
+    [
+      "Points have been renamed to BaCoins",
+      "good",
+      ""
+    ],
+    [
+      "Fixes userid on bottom left showing player count",
+      "good",
+      ""
+    ],
+      [
+      "Fixes ;r15 command for supporterM and +",
+      "good",
+      ""
+    ],
+    [
+      "Fixes custom ui fonts",
+      "good",
+      ""
+    ],
+        [
+      "Fixes boombox placeholder audio icons",
+      "good",
+      ""
+    ],
+     [
+      "Updated freecam command (roblox's freecam update - more features)",
+      "good",
+      ""
+    ],
+     [
+      "Vehicle controls are improved on console and pc (below were changed/added)",
+      "good",
+      "left/right dpad: turn signals<br />up dpad/L key: headlights<br />down d-pad: hazards<br />L1/R1 for upshift/downshift<br />X/square for handbrake<br />Y/triangle for auto/semi/manual modes"
+    ]
+  ]
+},
          {
   "id": 26090601,
   "title": "V4.59c Release Notes",
