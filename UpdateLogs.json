@@ -1,6 +1,26 @@
 {
   "latest": 26090901,
   "list": [
+     {
+  "id": 26090901,
+  "title": "V4.6 Release Notes",
+  "date": "September 17 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "A couple good features. big or not...",
+  "updates": [
+    [
+      "Introducing Community Morphs",
+      "verygood",
+      "Browse and equip morph sets created by other players.<br />Uploading requires Supporter+ and at least 15 hours of playtime.<br />All submissions are reviewed by staff before appearing publicly."
+    ],
+    [
+      "You can now mute specific players' radios/morph sounds.",
+      "good",
+      "Friend button was replaced with Mute in Playerlist."
+    ]
+  ]
+},
       {
   "id": 26090901,
   "title": "V4.59d Release Notes",
