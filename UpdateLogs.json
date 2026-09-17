@@ -1,8 +1,28 @@
 {
-  "latest": 26090901,
+  "latest": 26091702,
   "list": [
+      {
+  "id": 26091702,
+  "title": "V4.6a Release Notes",
+  "date": "September 17 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "",
+  "updates": [
+    [
+      "Lowered membership requirement for uploading community morphs (supporter+ to supporterM)",
+      "good",
+      "The requirements might be lowered again if barely anyone uploads"
+    ],
+    [
+      "Fixes community morph preview and new sets not appearing",
+      "good",
+      ""
+    ]
+  ]
+},
      {
-  "id": 26090901,
+  "id": 26091701,
   "title": "V4.6 Release Notes",
   "date": "September 17 2026",
   "imageBanner": "rbxassetid://16486648968",
