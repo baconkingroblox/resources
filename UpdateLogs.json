@@ -1,6 +1,36 @@
 {
-  "latest": 26091702,
+  "latest": 26092101,
   "list": [
+     {
+  "id": 26092101,
+  "title": "V4.6b Release Notes",
+  "date": "September 21 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "",
+  "updates": [
+    [
+      "Fixes community morph results not refreshing (attempt)",
+      "good",
+      ""
+    ],
+    [
+      "Implemented walking/running sounds (also for morphs)",
+      "good",
+      ""
+    ],
+    [
+      "Fixes issue where new users couldn't use some community morphs.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes a server memory leak on long-uptime servers, leading to crash/disconnect",
+      "good",
+      ""
+    ]
+  ]
+},
       {
   "id": 26091702,
   "title": "V4.6a Release Notes",
