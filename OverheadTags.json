@@ -443,6 +443,12 @@
       "color": "#00FF00",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "liligrandmother": {
+      "text": "[The Trollge Guy]",
+      "color": "#2D2D2D",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
