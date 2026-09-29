@@ -449,6 +449,12 @@
       "color": "#2D2D2D",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "behedoom_682": {
+      "text": "[The Void Traitor]",
+      "color": "#330066",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
