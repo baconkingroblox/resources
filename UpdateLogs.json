@@ -1,6 +1,51 @@
 {
-  "latest": 26092101,
+  "latest": 26100101,
   "list": [
+     {
+  "id": 26092101,
+  "title": "V4.61 Release Notes",
+  "date": "October 1 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "",
+  "updates": [
+    [
+      "Console/gamepad support!",
+      "good",
+      "You can now play TMP on your gamepad or console."
+    ],
+    [
+      "Moved spoiler and copy toggles to below the morph buttons in the morph gui.",
+      "good",
+      ""
+    ],
+    [
+      "Adds a help/guide page to the morph gui.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes supporter perk issues (attempt).",
+      "good",
+      ""
+    ],
+     [
+      "Fixes walk/run morph states not being visible to other players.",
+      "good",
+      ""
+    ],
+     [
+      "Tutorial fixes/changes.",
+      "good",
+      ""
+    ],
+     [
+      "Small gui polishes.",
+      "good",
+      ""
+    ]
+  ]
+},
      {
   "id": 26092101,
   "title": "V4.6b Release Notes",
@@ -292,111 +337,6 @@
      [
       "Tutorial will no longer show on each join if skipped.",
       "good",
-      ""
-    ]
-  ]
-},
-     {
-  "id": 26082302,
-  "title": "TMP Frequently Asked Questions/How To Fix",
-  "date": "TMP FAQ",
-  "imageBanner": "rbxassetid://16486648968",
-  "bannerColor": "#ffffff",
-  "description": "",
-  "updates": [
-    [
-      "1. Other players see my decals/images as this/can't see. How do i fix it?",
-      "",
-      ""
-    ],
-    [
-      "rbxassetid://136183028544671",
-      "image",
-      "#ffffff",
-      0.5, 0.55
-    ],
-      [
-      "For other players to see decals/images you uploaded (if others see a crossed out image icon/blank), be sure to disable asset privacy",
-      "",
-      "create.roblox.com/settings/advanced"
-    ],
-        [
-      "rbxassetid://118280278431487",
-      "image",
-      "#ffffff",
-      0.9, 0.4
-    ],
-      [
-      "and be sure your decals are open use - configure page of your decal",
-      "",
-      "create.roblox.com/dashboard/creations/store/[ID]/configure"
-    ],
-      [
-      "rbxassetid://81602389441190",
-      "image",
-      "#ffffff",
-      0.7, 0.7
-    ],
-     [
-      "2. How do I upload my own decals?",
-      "",
-      "Open the creator hub (PC/Mobile)"
-    ],
-    [
-      "rbxassetid://101192018607149",
-      "image",
-      "#ffffff",
-      0.9, 0.2
-    ],
-        [
-      "rbxassetid://90765574994950",
-      "image",
-      "#ffffff",
-      0.7, 0.4
-    ],
-        [
-      "rbxassetid://137063432281877",
-      "image",
-      "#ffffff",
-      0.7, 0.4
-    ],
-      [
-      "Open the sidebar > creations > development items > decals > upload",
-      "",
-      "Then upload your desired image and fill out the name and description"
-    ],
-    [
-      "rbxassetid://114623260835325",
-      "image",
-      "#ffffff",
-      0.9, 0.4
-    ],
-      [
-      "rbxassetid://74421877563061",
-      "image",
-      "#ffffff",
-      0.9, 0.4
-    ],
-      [
-      "rbxassetid://122367655400862",
-      "image",
-      "#ffffff",
-      0.9, 0.9
-    ],
-      [
-      "After uploading, right click/press three dots on the decal you uploaded, then copy the texture id.",
-      "",
-      ""
-    ],
-    [
-      "rbxassetid://90466972385584",
-      "image",
-      "#ffffff",
-      0.9, 0.5
-    ],
-    [
-      "Now you can paste it to TMP.",
-      "",
       ""
     ]
   ]
