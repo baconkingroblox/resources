@@ -515,6 +515,12 @@
       "color": "#FFBCEE",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "blicinhade1centi": {
+      "text": "[The Random Guy]",
+      "color": "#FBAABB",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
