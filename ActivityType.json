@@ -4,6 +4,8 @@
     "Math Class",
     "Recess / Break",
     "PE",
+    "Party",
+    "Concert",
     "Detention",
     "House Party",
     "Apartment",
@@ -24,7 +26,6 @@
   "Commerce": [
     "Store / Shop Open",
     "Trading",
-    "Black Market",
     "Job Interview"
   ],
   "Showcase & Meet": [
@@ -44,6 +45,7 @@
   ],
   "Job": [
     "Bus Driver",
+    "Restaurant",
     "Police Patrol",
     "Fire Department",
     "Medical Service",
