@@ -527,6 +527,12 @@
       "color": "#EEAA55",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "pizza_tower19": {
+      "text": "[Coffee Lover]",
+      "color": "#582B10",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
