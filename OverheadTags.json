@@ -551,6 +551,12 @@
       "color": "#000080",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "npc_94376": {
+      "text": "[Creepy]",
+      "color": "#CC2C2C",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
