@@ -581,6 +581,12 @@
       "color": "#B4DD13",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "citrusdarling363": {
+      "text": "[Colorful ☆ Star]",
+      "color": "#FFADF8",
+      "rainbow": true,
+      "entireRainbow": false
     }
   },
   "staffRank": {
