@@ -569,6 +569,12 @@
       "color": "#A98DFF",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "justspots4alt": {
+      "text": "[Music Good Grief]",
+      "color": "#008000",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
