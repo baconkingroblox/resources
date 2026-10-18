@@ -557,6 +557,12 @@
       "color": "#FF0000",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "yacofrey": {
+      "text": "[Fairhaven Street Racer]",
+      "color": "#2CB48C",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
