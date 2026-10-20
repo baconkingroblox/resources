@@ -587,6 +587,12 @@
       "color": "#FFADF8",
       "rainbow": true,
       "entireRainbow": false
+    },
+    "roveegabriel": {
+      "text": "[Void Prince]",
+      "color": "#7F00FF",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
