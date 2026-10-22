@@ -629,6 +629,12 @@
       "color": "#00FF0A",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "chatxyxfddedtgf": {
+      "text": "[Fella]",
+      "color": "#00FF0A",
+      "rainbow": true,
+      "entireRainbow": true
     }
   },
   "staffRank": {
