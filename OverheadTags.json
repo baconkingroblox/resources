@@ -605,6 +605,12 @@
       "color": "#339C47",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "amongus_amongusx": {
+      "text": "[Scary]",
+      "color": "#FF0000",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
