@@ -635,6 +635,12 @@
       "color": "#00FF0A",
       "rainbow": true,
       "entireRainbow": true
+    },
+    "z0by82ouge": {
+      "text": "[Goodies]",
+      "color": "#0EFF00",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
