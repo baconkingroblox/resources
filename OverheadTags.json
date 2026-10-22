@@ -671,6 +671,12 @@
       "color": "#00E7FF",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "r3ndo_m": {
+      "text": "[Spiral Ray]",
+      "color": "#FFD6B1",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
