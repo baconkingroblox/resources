@@ -611,6 +611,12 @@
       "color": "#FF0000",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "lokihera2023": {
+      "text": "[X TPOT]",
+      "color": "#FFE900",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
