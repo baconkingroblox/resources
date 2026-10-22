@@ -631,10 +631,10 @@
       "entireRainbow": false
     },
     "chatxyxfddedtgf": {
-      "text": "[Fella]",
-      "color": "#00FF0A",
-      "rainbow": true,
-      "entireRainbow": true
+      "text": "[Random Scout]",
+      "color": "#006CFF",
+      "rainbow": false,
+      "entireRainbow": false
     },
     "z0by82ouge": {
       "text": "[Goodies]",
