@@ -613,10 +613,10 @@
       "entireRainbow": false
     },
     "lokihera2023": {
-      "text": "[X TPOT]",
+      "text": "[TPOT Fan]",
       "color": "#FFE900",
-      "rainbow": false,
-      "entireRainbow": false
+      "rainbow": true,
+      "entireRainbow": true
     },
     "adnan_widad28": {
       "text": "[OVERKILLED]",
