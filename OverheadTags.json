@@ -695,6 +695,12 @@
       "color": "#FFAAAA",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "squiggy240": {
+      "text": "[Withered]",
+      "color": "#AE07A4",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
