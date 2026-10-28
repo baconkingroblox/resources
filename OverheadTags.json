@@ -701,6 +701,12 @@
       "color": "#AE07A4",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "taliwagg": {
+      "text": "[The DOORS Slopper]",
+      "color": "#797A7A",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
