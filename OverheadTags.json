@@ -500,9 +500,9 @@
     },
     "dalya12456": {
       "text": "[#1 Michael Jackson Fan]",
-      "color": "#FFFF00",
-      "rainbow": false,
-      "entireRainbow": false
+      "color": "#FFE900",
+      "rainbow": true,
+      "entireRainbow": true
     },
     "anidmaxmam": {
       "text": "[The Real Numberlover3367]",
