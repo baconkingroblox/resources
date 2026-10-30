@@ -464,9 +464,9 @@
     },
     "expungedhehe36": {
       "text": "[THE SILLY GOOBER]",
-      "color": "#EE0000",
-      "rainbow": false,
-      "entireRainbow": false
+      "color": "#FF0000",
+      "rainbow": true,
+      "entireRainbow": true
     },
     "tomm344541": {
       "text": "[Âmbar Enthusiast]",
