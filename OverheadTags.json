@@ -223,10 +223,10 @@
       "entireRainbow": false
     },
     "birthdaypartyzero": {
-      "text": "[Decepticon Beast Leader and Noble Autobot Leader]",
-      "color": "#FF0000",
-      "rainbow": false,
-      "entireRainbow": false
+      "text": "[My Finger Can Transform, Guess Which One]",
+      "color": "#27FF00",
+      "rainbow": true,
+      "entireRainbow": true
     },
     "filippolipp0": {
       "text": "[The Nintendoland Citizen]",
