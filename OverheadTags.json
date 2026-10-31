@@ -719,6 +719,12 @@
       "color": "#8B56C0",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "kynniedoesstuff": {
+      "text": "[Totally Not a Dev 👀]",
+      "color": "#FF007B",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
