@@ -755,6 +755,12 @@
       "color": "#FFE700",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "bambernades": {
+      "text": "[orange and green]",
+      "color": "#00FFB7",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
