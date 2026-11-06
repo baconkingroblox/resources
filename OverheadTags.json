@@ -355,9 +355,9 @@
       "entireRainbow": false
     },
     "cristofermauxd": {
-      "text": "[Wegas Mansion]",
-      "color": "#B575FF",
-      "rainbow": false,
+      "text": "[Number 1 Wega]",
+      "color": "#000000",
+      "rainbow": true,
       "entireRainbow": false
     },
     "shadowmilk1826": {
