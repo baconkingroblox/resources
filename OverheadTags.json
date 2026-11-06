@@ -761,6 +761,12 @@
       "color": "#00FFB7",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "avarium7": {
+      "text": "[niche dude]",
+      "color": "#808080",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
