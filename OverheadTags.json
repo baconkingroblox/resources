@@ -749,6 +749,12 @@
       "color": "#E83333",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "alt_max04": {
+      "text": "[A Big Pac-Man Lover]",
+      "color": "#FFE700",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
