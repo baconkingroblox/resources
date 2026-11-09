@@ -344,9 +344,9 @@
     },
     "nopsutapsu": {
       "text": "[Top Aethos And Shucks Fan]",
-      "color": "#5789A1",
-      "rainbow": false,
-      "entireRainbow": false
+      "color": "#6295A8",
+      "rainbow": true,
+      "entireRainbow": true
     },
     "angelanaradira": {
       "text": "[Angela Anima]",
