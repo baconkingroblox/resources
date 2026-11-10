@@ -779,6 +779,12 @@
       "color": "#5C4033",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "rainbowpetalpop": {
+      "text": "[#1 Best Character Artist]",
+      "color": "#03FCF8",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
