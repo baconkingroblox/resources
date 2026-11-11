@@ -1,6 +1,46 @@
 {
   "latest": 26100101,
   "list": [
+       {
+  "id": 26092101,
+  "title": "V4.61c Release Notes",
+  "date": "November 11 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Patches, fixes, & other small stuff for now, while i work on the bigger stuff",
+  "updates": [
+    [
+      "Improves/redesigns GUIs: Topbar, playerlist, hotbar, market, boombox, and stats GUI.",
+      "good",
+      ""
+    ],
+    [
+      "Adds settings: Time of day, show map location, and GUI scale (currently works for morph/market)",
+      "good",
+      ""
+    ],
+    [
+      "Adds background music and city ambience",
+      "good",
+      "Lobby, Market, Morph, Maps (e.g. omedy world), Driving<br />If there's a boombox or custom morph sound playing nearby, the BGM fades out."
+    ],
+    [
+      "Fixes nights being dark.",
+      "good",
+      ""
+    ],
+     [
+      "Fixes morph search for console.",
+      "good",
+      ""
+    ],
+     [
+      "Fixes decal/audio search errors.",
+      "good",
+      "was caused by a roblox bug"
+    ]
+  ]
+},
      {
   "id": 26092101,
   "title": "V4.61 Release Notes",
