@@ -797,6 +797,12 @@
       "color": "#FF0000",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "littlemonkeybrother1": {
+      "text": "[Dave And Bambi Veteran]",
+      "color": "#0004FF",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
