@@ -803,6 +803,12 @@
       "color": "#0004FF",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "titanimatic": {
+      "text": "[🌊 Absolute Neptune 🪐]",
+      "color": "#1E3AAC",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
