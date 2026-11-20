@@ -809,6 +809,12 @@
       "color": "#1E3AAC",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "mandelbrotkid": {
+      "text": "[The Shucky Master]",
+      "color": "#FF2763",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
