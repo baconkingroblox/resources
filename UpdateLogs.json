@@ -1,6 +1,26 @@
 {
   "latest": 26100101,
   "list": [
+    {
+  "id": 26092101,
+  "title": "V4.62 Release Notes",
+  "date": "November 20 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "tldr: 4-sided morphs",
+  "updates": [
+    [
+      "Morph GUI redesign + new features",
+      "verygood",
+      "New layout, to make things easier,<br />4-sided/directional morphs (front back left right. depending on where you look), Only for 1-sided / 'face camera'<br />Can trim and delay sounds,<br />Can change width scale and frame zoom of spritesheets<br />Browse audios easier,<br />Easily copy image/settings from one emote/surface to another,"
+    ],
+    [
+      "Coming soon: candy hunt, The Skeld map, ask to copy morph",
+      "good",
+      ""
+    ]
+  ]
+},
        {
   "id": 26092101,
   "title": "V4.61c Release Notes",
