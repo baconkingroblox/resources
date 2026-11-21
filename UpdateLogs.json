@@ -1,6 +1,36 @@
 {
-  "latest": 26112002,
+  "latest": 26112101,
   "list": [
+     {
+  "id": 26112101,
+  "title": "V4.62b Release Notes",
+  "date": "November 21 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "bug fix",
+  "updates": [
+    [
+      "Fixes morph saves and nametags. Readds back color/transparency.",
+      "good",
+      ""
+    ],
+    [
+      "Fixes bio character limit for supporters",
+      "good",
+      ""
+    ],
+     [
+      "Some GUI fixes",
+      "good",
+      ""
+    ],
+     [
+      "Fixes prop buying",
+      "good",
+      ""
+    ]
+  ]
+},
       {
   "id": 26112002,
   "title": "V4.62a Release Notes",
@@ -11,7 +41,7 @@
   "updates": [
     [
       "Fixes morph issues: size, sprite loop, etc",
-      "verygood",
+      "good",
       ""
     ],
     [
