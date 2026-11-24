@@ -1,6 +1,41 @@
 {
-  "latest": 26112101,
+  "latest": 26112501,
   "list": [
+     {
+  "id": 26112501,
+  "title": "V4.62c Release Notes",
+  "date": "November 25 2026",
+  "imageBanner": "rbxassetid://16486648968",
+  "bannerColor": "#ffffff",
+  "description": "Polishes and patches.",
+  "updates": [
+    [
+      "Fixes an issue where 1-sided morphs with walk animation with only the front surface would sometimes show idle.",
+      "good",
+      ""
+    ],
+    [
+      "Made the morph gui less clunky.",
+      "good",
+      "There's also a quick morph button when selecting decals/sets from the library."
+    ],
+     [
+      "Fixes issue where some people could copy your morphs despite copying being disabled.",
+      "good",
+      ""
+    ],
+     [
+      "Some performance improvements.",
+      "good",
+      ""
+    ],
+      [
+      "Makes the lighting simpler in CW, Baldi, and Sprunki maps.",
+      "good",
+      ""
+    ]
+  ]
+},
      {
   "id": 26112101,
   "title": "V4.62b Release Notes",
