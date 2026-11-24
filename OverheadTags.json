@@ -839,6 +839,12 @@
       "color": "#FFFF00",
       "rainbow": false,
       "entireRainbow": false
+    },
+    "jibbybibbyboop": {
+      "text": "[The Temulastic Factory]",
+      "color": "#0000FF",
+      "rainbow": false,
+      "entireRainbow": false
     }
   },
   "staffRank": {
